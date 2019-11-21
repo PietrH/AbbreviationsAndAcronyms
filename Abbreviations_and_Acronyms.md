@@ -24,3 +24,5 @@ RDFS|RDF Schema|https://en.wikipedia.org/wiki/RDF_Schema|
 LODLAM|Linked Open Data in Library, Archives, and Museums||https://lodlam.net/
 RiC|Records in Contexts|https://en.wikipedia.org/wiki/Records_in_Contexts|https://www.ica.org/en/egad-ric-conceptual-model
 GLAM|Galleries,Librarie,Archives,Museums||
+OER|Open Educational Resources|https://en.wikipedia.org/wiki/Open_educational_resources|https://unesdoc.unesco.org/ark:/48223/pf0000370936
+CSR|Corporate Social Responsibility|https://en.wikipedia.org/wiki/Corporate_social_responsibility|
