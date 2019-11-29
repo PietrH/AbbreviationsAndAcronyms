@@ -27,3 +27,4 @@ GLAM|Galleries,Librarie,Archives,Museums||
 OER|Open Educational Resources|https://en.wikipedia.org/wiki/Open_educational_resources|https://unesdoc.unesco.org/ark:/48223/pf0000370936
 CSR|Corporate Social Responsibility|https://en.wikipedia.org/wiki/Corporate_social_responsibility|
 BGCI|Botanic Gardens Conservation International|https://en.wikipedia.org/wiki/Botanic_Gardens_Conservation_International|https://www.bgci.org/
+GBS|Genotyping by Sequencing|https://en.wikipedia.org/wiki/Genotyping_by_sequencing|
