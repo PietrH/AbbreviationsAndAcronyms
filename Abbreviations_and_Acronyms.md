@@ -28,3 +28,10 @@ OER|Open Educational Resources|https://en.wikipedia.org/wiki/Open_educational_re
 CSR|Corporate Social Responsibility|https://en.wikipedia.org/wiki/Corporate_social_responsibility|
 BGCI|Botanic Gardens Conservation International|https://en.wikipedia.org/wiki/Botanic_Gardens_Conservation_International|https://www.bgci.org/
 GBS|Genotyping by Sequencing|https://en.wikipedia.org/wiki/Genotyping_by_sequencing|
+MET|Morpho-Ecological Type||
+CHI/HCI|Computer-Human Interaction/Interface|https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction|
+CHI|Cultural Heritage Institution||
+CARE|Collective-Benefit,Authority to Control, Responsibility, Ethics||https://www.gida-global.org/care
+EDM| Europeana Data Model||https://pro.europeana.eu/resources/standardization-tools/edm-documentation
+OpenDS|Open Digital Specimen||https://www.researchgate.net/publication/333854988_'openDS'_-_A_New_Standard_for_Digital_Specimens_and_Other_Natural_Science_Digital_Object_Types
+ENM|Ecological Niche Modelling|https://en.wikipedia.org/wiki/Species_distribution_modelling|https://pdfs.semanticscholar.org/e98a/80aeec9ab38373397aa11109572abbb77ce4.pdf
