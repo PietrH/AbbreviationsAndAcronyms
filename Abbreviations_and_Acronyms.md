@@ -35,3 +35,6 @@ CARE|Collective-Benefit,Authority to Control, Responsibility, Ethics||https://ww
 EDM| Europeana Data Model||https://pro.europeana.eu/resources/standardization-tools/edm-documentation
 OpenDS|Open Digital Specimen||https://www.researchgate.net/publication/333854988_'openDS'_-_A_New_Standard_for_Digital_Specimens_and_Other_Natural_Science_Digital_Object_Types
 ENM|Ecological Niche Modelling|https://en.wikipedia.org/wiki/Species_distribution_modelling|https://pdfs.semanticscholar.org/e98a/80aeec9ab38373397aa11109572abbb77ce4.pdf
+DAG|Directed acyclic graph|https://en.wikipedia.org/wiki/Directed_acyclic_graph|https://cran.r-project.org/web/packages/ggdag/vignettes/intro-to-dags.html
+DPO|Data Protection Officer|https://en.wikipedia.org/wiki/Data_Protection_Officer|https://edps.europa.eu/data-protection/data-protection/reference-library/data-protection-officer-dpo_en
+RDM|Research Data Management||https://researchdata.berkeley.edu/
