@@ -37,3 +37,4 @@ ENM,Ecological Niche Modelling,https://en.wikipedia.org/wiki/Species_distributio
 DAG,Directed acyclic graph,https://en.wikipedia.org/wiki/Directed_acyclic_graph,https://cran.r-project.org/web/packages/ggdag/vignettes/intro-to-dags.html
 DPO,Data Protection Officer,https://en.wikipedia.org/wiki/Data_Protection_Officer,https://edps.europa.eu/data-protection/data-protection/reference-library/data-protection-officer-dpo_en
 RDM,Research Data Management,,https://researchdata.berkeley.edu/
+FTE,Full Time Equivalent,https://en.wikipedia.org/wiki/Full-time_equivalent
