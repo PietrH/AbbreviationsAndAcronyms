@@ -44,3 +44,4 @@ EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|http
 SWEET|Semantic Web for Earth and Environmental Terminology||https://github.com/ESIPFed/sweet
 ORMS|Operating Resource Management System||https://tecrada.com/operating-system-resource-management/
 ORM|Object-Relational Mapper|https://en.wikipedia.org/wiki/Object-relational_mapping|
+MIDS|Minimum Information about a Digital Specimen||
