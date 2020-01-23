@@ -23,7 +23,7 @@ RDF|Resource Description Framework|https://en.wikipedia.org/wiki/Resource_Descri
 RDFS|RDF Schema|https://en.wikipedia.org/wiki/RDF_Schema|
 LODLAM|Linked Open Data in Library, Archives, and Museums||https://lodlam.net/
 RiC|Records in Contexts|https://en.wikipedia.org/wiki/Records_in_Contexts|https://www.ica.org/en/egad-ric-conceptual-model, https://web.esrc.unimelb.edu.au/ICAD/biogs/E000067b.htm
-GLAM|Galleries,Librarie,Archives,Museums||
+GLAM|Galleries,Libraries,Archives,Museums||
 OER|Open Educational Resources|https://en.wikipedia.org/wiki/Open_educational_resources|https://unesdoc.unesco.org/ark:/48223/pf0000370936
 CSR|Corporate Social Responsibility|https://en.wikipedia.org/wiki/Corporate_social_responsibility|
 BGCI|Botanic Gardens Conservation International|https://en.wikipedia.org/wiki/Botanic_Gardens_Conservation_International|https://www.bgci.org/
@@ -45,3 +45,4 @@ SWEET|Semantic Web for Earth and Environmental Terminology||https://github.com/E
 ORMS|Operating Resource Management System||https://tecrada.com/operating-system-resource-management/
 ORM|Object-Relational Mapper|https://en.wikipedia.org/wiki/Object-relational_mapping|
 MIDS|Minimum Information about a Digital Specimen||
+BGS|British Geographic Survey|https://en.wikipedia.org/wiki/British_Geological_Survey|https://www.bgs.ac.uk/
