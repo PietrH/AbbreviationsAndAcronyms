@@ -47,4 +47,4 @@ ORM|Object-Relational Mapper|https://en.wikipedia.org/wiki/Object-relational_map
 MIDS|Minimum Information about a Digital Specimen||
 BGS|British Geographic Survey|https://en.wikipedia.org/wiki/British_Geological_Survey|https://www.bgs.ac.uk/
 OBO|Open biological and biomedical ontologies|https://en.wikipedia.org/wiki/Open_Biomedical_Ontologies|http://www.obofoundry.org/
-SAD|(local) Species Abundance Distribution|https://en.wikipedia.org/wiki/Relative_species_abundance|https://dfzljdn9uc3pi.cloudfront.net/2016/1900/1/The_introduction_of_species_abundance_distribution.pdf,https://doi.org/10.1016/j.tree.2018.05.002
+SAD|(local) Species Abundance Distribution|https://en.wikipedia.org/wiki/Relative_species_abundance|https://dfzljdn9uc3pi.cloudfront.net/2016/1900/1/The_introduction_of_species_abundance_distribution.pdf, https://doi.org/10.1016/j.tree.2018.05.002
