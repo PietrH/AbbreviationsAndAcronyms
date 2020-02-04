@@ -4,7 +4,7 @@ VIAF,Virtual International Authority File,,
 TDWG,Taxonomic Descriptions Work Group,,
 EML,Ecological Metadata Language,https://en.wikipedia.org/wiki/Ecological_Metadata_Language,
 ETL,Entry Transfer Load,,
-ETL,Extract Transform Load,,https://en.wikipedia.org/wiki/Extract,_transform,_load
+ETL,Extract Transform Load,,"https://en.wikipedia.org/wiki/Extract,_transform,_load"
 RIs,Research Infrastructures,,
 s.l.,"sine locale, without a location",,
 GSP,Generic Services Projects,,
