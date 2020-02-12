@@ -3,9 +3,9 @@ Abbreviation|Meaning|Wiki_Link|Reference_Link
 PID|Persistent Identifier|https://en.wikipedia.org/wiki/Persistent_identifier|
 VIAF|Virtual International Authority File||
 TDWG|Taxonomic Descriptions Work Group||
-EML|Ecological Metadata Language||
+EML|Ecological Metadata Language|https://en.wikipedia.org/wiki/Ecological_Metadata_Language|
 ETL|Entry Transfer Load||
-ETL|Extract Transform Load||
+ETL|Extract Transform Load||https://en.wikipedia.org/wiki/Extract,_transform,_load
 RIs|Research Infrastructures||
 s.l.|sine locale, without a location||
 GSP|Generic Services Projects||
@@ -19,6 +19,7 @@ ARK|Archival Resource Key||
 INEA|Innovations and Networks Executive Agency||https://ec.europa.eu/inea/en/
 OWL|Web Ontology Language|https://en.wikipedia.org/wiki/Web_Ontology_Language|
 DAI|Digitally Accessable Information||
+DAK|Digitally Accessable Knowledge||
 RDF|Resource Description Framework|https://en.wikipedia.org/wiki/Resource_Description_Framework|
 RDFS|RDF Schema|https://en.wikipedia.org/wiki/RDF_Schema|
 LODLAM|Linked Open Data in Library, Archives, and Museums||https://lodlam.net/
@@ -50,3 +51,5 @@ OBO|Open biological and biomedical ontologies|https://en.wikipedia.org/wiki/Open
 SAD|(local) Species Abundance Distribution|https://en.wikipedia.org/wiki/Relative_species_abundance|https://dfzljdn9uc3pi.cloudfront.net/2016/1900/1/The_introduction_of_species_abundance_distribution.pdf, https://doi.org/10.1016/j.tree.2018.05.002
 ILK|Indiginous and Local Knowledge|https://en.wikipedia.org/wiki/Traditional_knowledge|http://www.unesco.org/new/en/natural-sciences/priority-areas/links/related-information/what-is-local-and-indigenous-knowledge/
 NCP|Natures Contributions to People||https://ipbes.net/news/natures-contributions-people-ncp-article-ipbes-experts-science
+BSBI|Botanical Society of Britain and Ireland|https://en.wikipedia.org/wiki/Botanical_Society_of_Britain_and_Ireland|https://bsbi.org/
+SPNHC|The Society for the Preservation of Natural History Collections|https://spnhc.org/|https://en.wikipedia.org/wiki/Society_for_the_Preservation_of_Natural_History_Collections
