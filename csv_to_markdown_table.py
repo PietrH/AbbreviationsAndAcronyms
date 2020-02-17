@@ -18,4 +18,4 @@ df = pd.DataFrame(
     columns=df.columns)
 # write this to a markdown file using the csv parser and setting the seperator
 # to pipes, we do not care about the index
-df.to_csv('Abbreviations_and_Acronyms.md', sep='|', index=False)
+df.to_csv('README.md', sep='|', index=False)
