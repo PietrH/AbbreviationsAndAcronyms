@@ -54,3 +54,4 @@ ILK|Indiginous and Local Knowledge|https://en.wikipedia.org/wiki/Traditional_kno
 NCP|Natures Contributions to People||https://ipbes.net/news/natures-contributions-people-ncp-article-ipbes-experts-science
 BSBI|Botanical Society of Britain and Ireland|https://en.wikipedia.org/wiki/Botanical_Society_of_Britain_and_Ireland|https://bsbi.org/
 SPNHC|The Society for the Preservation of Natural History Collections|https://spnhc.org/|https://en.wikipedia.org/wiki/Society_for_the_Preservation_of_Natural_History_Collections
+TQDM|Total Data Quality Management||
