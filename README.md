@@ -53,7 +53,8 @@ SAD|(local) Species Abundance Distribution|https://en.wikipedia.org/wiki/Relativ
 ILK|Indiginous and Local Knowledge|https://en.wikipedia.org/wiki/Traditional_knowledge|[reference](http://www.unesco.org/new/en/natural-sciences/priority-areas/links/related-information/what-is-local-and-indigenous-knowledge/)
 NCP|Natures Contributions to People||[reference](https://ipbes.net/news/natures-contributions-people-ncp-article-ipbes-experts-science)
 BSBI|Botanical Society of Britain and Ireland|https://en.wikipedia.org/wiki/Botanical_Society_of_Britain_and_Ireland|[reference](https://bsbi.org/)
-SPNHC|The Society for the Preservation of Natural History Collections|https://spnhc.org/|[reference](https://en.wikipedia.org/wiki/Society_for_the_Preservation_of_Natural_History_Collections)
+SPNHC|The Society for the Preservation of Natural History Collections|https://en.wikipedia.org/wiki/Society_for_the_Preservation_of_Natural_History_Collections|[reference](https://spnhc.org/)
 TQDM|Total Data Quality Management||
 KDD|Knowledge Discovery in Databases||[reference](https://www.techopedia.com/definition/25827/knowledge-discovery-in-databases-kdd)
 MVT|Marginal value theorem|https://en.wikipedia.org/wiki/Marginal_value_theorem|
+JIT|Just In Time (Compilation)|https://en.wikipedia.org/wiki/Just-in-time_compilation|[reference](https://www.r-statistics.com/2012/04/speed-up-your-r-code-using-a-just-in-time-jit-compiler/ )
