@@ -23,7 +23,8 @@ def format_reference(link):
        return "[reference]"+"("+str(link)+")"
 ## apply function
 df["Reference_Link"]=list(map(format_reference,df["Reference_Link"]))
-
+# Replace None with nan so the markdown table will parse
+df.fillna(value=pd.np.nan, inplace=True)
 # write this to a markdown file using the csv parser and setting the seperator
 # to pipes, we do not care about the index
 df.to_csv('README.md', sep='|', index=False)
