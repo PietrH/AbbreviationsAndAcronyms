@@ -58,3 +58,4 @@ TQDM|Total Data Quality Management||
 KDD|Knowledge Discovery in Databases||[reference](https://www.techopedia.com/definition/25827/knowledge-discovery-in-databases-kdd)
 MVT|Marginal value theorem|https://en.wikipedia.org/wiki/Marginal_value_theorem|
 JIT|Just In Time (Compilation)|https://en.wikipedia.org/wiki/Just-in-time_compilation|[reference](https://www.r-statistics.com/2012/04/speed-up-your-r-code-using-a-just-in-time-jit-compiler/ )
+MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
