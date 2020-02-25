@@ -65,6 +65,6 @@ ARs,Association Rules,https://en.wikipedia.org/wiki/Association_rule_learning,ht
 RARs,Relational association rules,,https://doi.org/10.1016/j.eswa.2019.01.082
 DRAR,Discovery of Relational Association Rules,,https://doi.org/10.1016/j.eswa.2019.01.082
 CRAR,Concurrent Relational Association Rule (mining),,https://doi.org/10.1016/j.eswa.2019.01.082
-GWR,Geographically Weighted Regression,,http://resources.esri.com/help/9.3/arcgisengine/java/GP_ToolRef/spatial_statistics_tools/geographically_weighted_regression_spatial_statistics_.htm
+GWR,Geographically Weighted Regression,https://en.wikipedia.org/wiki/Spatial_analysis#Spatial_regression,http://resources.esri.com/help/9.3/arcgisengine/java/GP_ToolRef/spatial_statistics_tools/geographically_weighted_regression_spatial_statistics_.htm
 CART,Classification And Regression Tree,https://en.wikipedia.org/wiki/Decision_tree_learning,https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/
 ESTATE,Exploring Spatial daTa Association paTErns,,https://www.cs.umb.edu/~ding/papers/ds2010.pdf
