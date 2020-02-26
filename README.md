@@ -54,8 +54,22 @@ ILK|Indiginous and Local Knowledge|https://en.wikipedia.org/wiki/Traditional_kno
 NCP|Natures Contributions to People||[reference](https://ipbes.net/news/natures-contributions-people-ncp-article-ipbes-experts-science)
 BSBI|Botanical Society of Britain and Ireland|https://en.wikipedia.org/wiki/Botanical_Society_of_Britain_and_Ireland|[reference](https://bsbi.org/)
 SPNHC|The Society for the Preservation of Natural History Collections|https://en.wikipedia.org/wiki/Society_for_the_Preservation_of_Natural_History_Collections|[reference](https://spnhc.org/)
-TQDM|Total Data Quality Management||
+TDQM|Total Data Quality Management||
 KDD|Knowledge Discovery in Databases||[reference](https://www.techopedia.com/definition/25827/knowledge-discovery-in-databases-kdd)
 MVT|Marginal value theorem|https://en.wikipedia.org/wiki/Marginal_value_theorem|
 JIT|Just In Time (Compilation)|https://en.wikipedia.org/wiki/Just-in-time_compilation|[reference](https://www.r-statistics.com/2012/04/speed-up-your-r-code-using-a-just-in-time-jit-compiler/ )
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
+ZAP|Zelfstandig Academisch Personeel| https://nl.wikipedia.org/wiki/Hoofddocent|
+NHC|Natural History Collections||
+GDM|Generalized Dissimilarity Modeling||[reference](https://www.onlinelibrary.wiley.com/doi/10.1111/j.1472-4642.2007.00341.x)
+ARs|Association Rules|https://en.wikipedia.org/wiki/Association_rule_learning|[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
+RARs|Relational association rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
+DRAR|Discovery of Relational Association Rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
+CRAR|Concurrent Relational Association Rule (mining)||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
+GWR|Geographically Weighted Regression|https://en.wikipedia.org/wiki/Spatial_analysis#Spatial_regression|[reference](http://resources.esri.com/help/9.3/arcgisengine/java/GP_ToolRef/spatial_statistics_tools/geographically_weighted_regression_spatial_statistics_.htm)
+CART|Classification And Regression Tree|https://en.wikipedia.org/wiki/Decision_tree_learning|[reference](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)
+ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
+UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
+CS|Citizen Science|https://en.wikipedia.org/wiki/Citizen_science|
+OPT|Optimal Foraging Theory|https://en.wikipedia.org/wiki/Optimal_foraging_theory|[reference](http://www.tiem.utk.edu/~gross/bioed/bealsmodules/optimal.html)
+UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
