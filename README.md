@@ -73,3 +73,5 @@ UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org
 CS|Citizen Science|https://en.wikipedia.org/wiki/Citizen_science|
 OPT|Optimal Foraging Theory|https://en.wikipedia.org/wiki/Optimal_foraging_theory|[reference](http://www.tiem.utk.edu/~gross/bioed/bealsmodules/optimal.html)
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
+MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
+OMG|Object Management Group|https://en.wikipedia.org/wiki/Object_Management_Group|[reference](https://www.omg.org/)
