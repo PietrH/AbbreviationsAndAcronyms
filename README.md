@@ -75,3 +75,11 @@ OPT|Optimal Foraging Theory|https://en.wikipedia.org/wiki/Optimal_foraging_theor
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 OMG|Object Management Group|https://en.wikipedia.org/wiki/Object_Management_Group|[reference](https://www.omg.org/)
+SLA|Service Level Agreement|https://en.wikipedia.org/wiki/Service-level_agreement|[reference](https://www.cio.com/article/2438284/outsourcing-sla-definitions-and-solutions.html)
+DLF| Digital Library Federation|https://en.wikipedia.org/wiki/Digital_Library_Federation|[reference](https://www.diglib.org/)
+OS|Open Science|https://en.wikipedia.org/wiki/Open_science|[reference](https://openscience.com/)
+DITOs|Doing It Together Science||[reference](http://togetherscience.eu/)
+ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European_Citizen_Science_Association|[reference](https://ecsa.citizen-science.net/)
+RRI|Responsible Research and Innovation|https://en.wikipedia.org/wiki/Responsible_Research_and_Innovation|[reference](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/responsible-research-innovation)
+RSE|Research Software Engineering|https://en.wikipedia.org/wiki/Research_software_engineering|[reference](https://society-rse.org/)
+SDR|Specimen Data Refinery||[reference](https://doi.org/10.3897/biss.3.37647)
