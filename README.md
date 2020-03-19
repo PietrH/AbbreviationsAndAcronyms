@@ -83,3 +83,9 @@ ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European
 RRI|Responsible Research and Innovation|https://en.wikipedia.org/wiki/Responsible_Research_and_Innovation|[reference](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/responsible-research-innovation)
 RSE|Research Software Engineering|https://en.wikipedia.org/wiki/Research_software_engineering|[reference](https://society-rse.org/)
 SDR|Specimen Data Refinery||[reference](https://doi.org/10.3897/biss.3.37647)
+KML|Keyhole Markup Language|https://en.wikipedia.org/wiki/Keyhole_Markup_Language|[reference](https://www.ogc.org/standards/kml/)
+HTR|Handwritten Text Recognition|https://en.wikipedia.org/wiki/Handwriting_recognition|
+BP|Best Practices|https://en.wikipedia.org/wiki/Best_practice|
+SoC|System On Chip|https://en.wikipedia.org/wiki/System_on_a_chip|
+SOC|Soil Organic Carbon|https://en.wikipedia.org/wiki/Soil_carbon|
+CORS|Cross-origin resource sharing|https://en.wikipedia.org/wiki/Cross-origin_resource_sharing|[reference](https://fetch.spec.whatwg.org/#http-cors-protocol)
