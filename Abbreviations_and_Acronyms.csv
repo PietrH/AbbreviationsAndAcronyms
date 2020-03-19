@@ -87,3 +87,4 @@ HTR,Handwritten Text Recognition,https://en.wikipedia.org/wiki/Handwriting_recog
 BP,Best Practices,https://en.wikipedia.org/wiki/Best_practice,
 SoC,System On Chip,https://en.wikipedia.org/wiki/System_on_a_chip,
 SOC,Soil Organic Carbon,https://en.wikipedia.org/wiki/Soil_carbon,
+CORS,Cross-origin resource sharing,https://en.wikipedia.org/wiki/Cross-origin_resource_sharing,https://fetch.spec.whatwg.org/#http-cors-protocol
