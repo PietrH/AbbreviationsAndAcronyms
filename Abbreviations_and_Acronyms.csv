@@ -92,3 +92,5 @@ UI,Unsigned Integer (capable of representing only non-negative integers),https:/
 UI,User Interface,https://en.wikipedia.org/wiki/User_interface,https://www.usability.gov/what-and-why/user-interface-design.html 
 IRI,Information Reuse and Integration,,http://www.sis.pitt.edu/iri2018/
 IRIs,Internationalized Resource Identifiers,https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier,https://tools.ietf.org/html/rfc3987
+URI,Uniform Resource Identifier,https://en.wikipedia.org/wiki/Uniform_Resource_Identifier,https://tools.ietf.org/html/rfc3986
+TBPH,To Be Perfectly Honest,,https://www.cyberdefinitions.com/definitions/TBPH.html
