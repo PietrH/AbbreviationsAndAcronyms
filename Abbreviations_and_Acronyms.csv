@@ -90,3 +90,4 @@ SOC,Soil Organic Carbon,https://en.wikipedia.org/wiki/Soil_carbon,
 CORS,Cross-origin resource sharing,https://en.wikipedia.org/wiki/Cross-origin_resource_sharing,https://fetch.spec.whatwg.org/#http-cors-protocol
 UI,Unsigned Integer (capable of representing only non-negative integers),https://en.wikipedia.org/wiki/Integer_(computer_science),https://en.wikipedia.org/wiki/Integer_(computer_science)
 UI,User Interface,https://en.wikipedia.org/wiki/User_interface,https://www.usability.gov/what-and-why/user-interface-design.html 
+IRI,Information Reuse and Integration,,http://www.sis.pitt.edu/iri2018/
