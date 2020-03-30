@@ -89,3 +89,14 @@ BP|Best Practices|https://en.wikipedia.org/wiki/Best_practice|
 SoC|System On Chip|https://en.wikipedia.org/wiki/System_on_a_chip|
 SOC|Soil Organic Carbon|https://en.wikipedia.org/wiki/Soil_carbon|
 CORS|Cross-origin resource sharing|https://en.wikipedia.org/wiki/Cross-origin_resource_sharing|[reference](https://fetch.spec.whatwg.org/#http-cors-protocol)
+UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
+UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
+IRI|Information Reuse and Integration||[reference](http://www.sis.pitt.edu/iri2018/)
+IRIs|Internationalized Resource Identifiers|https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3987)
+URI|Uniform Resource Identifier|https://en.wikipedia.org/wiki/Uniform_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3986)
+TBPH|To Be Perfectly Honest||[reference](https://www.cyberdefinitions.com/definitions/TBPH.html)
+CDPHE|Colorado Department of Public Health and Environment||[reference](https://www.colorado.gov/cdphe)
+TDS|Total Dissolved Solids|https://en.wikipedia.org/wiki/Total_dissolved_solids|
+DO|Dissolved Oxygen||[reference](https://www.fondriest.com/environmental-measurements/parameters/water-quality/dissolved-oxygen/)
+EC|Electrical Conductivity||[reference](https://www.epa.gov/national-aquatic-resource-surveys/indicators-conductivity)
+EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html#EOF-and-Errors)
