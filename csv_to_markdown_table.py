@@ -18,6 +18,8 @@ def format_reference(link):
         return "[reference]"+"("+str(link)+")"
 ## apply function
 df["Reference_Link"] = list(map(format_reference, df["Reference_Link"]))
+# sort values
+df = df.sort_values('Abbreviation')
 # append a numpy array with n times the header seperator, with n being the
 # number of columns then store this array as a pandas dataframe with setting the
 # header to the original header
