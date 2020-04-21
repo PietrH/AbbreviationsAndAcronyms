@@ -100,3 +100,11 @@ TDS|Total Dissolved Solids|https://en.wikipedia.org/wiki/Total_dissolved_solids|
 DO|Dissolved Oxygen||[reference](https://www.fondriest.com/environmental-measurements/parameters/water-quality/dissolved-oxygen/)
 EC|Electrical Conductivity||[reference](https://www.epa.gov/national-aquatic-resource-surveys/indicators-conductivity)
 EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html#EOF-and-Errors)
+LDN|Linked Data Notifications|https://en.wikipedia.org/wiki/Linked_Data_Notifications|[reference](https://www.w3.org/TR/ldn/)
+LDP|Linked Data Platform|https://en.wikipedia.org/wiki/Linked_Data_Platform|[reference](https://www.w3.org/TR/ldp-primer/)
+OPDS|Open Publication Distribution System|https://en.wikipedia.org/wiki/Open_Publication_Distribution_System|[reference](http://www.feedbooks.com/api/primer)
+LIDO|Lightweight Information Describing Objects|https://en.wikipedia.org/wiki/LIDO|[reference](http://network.icom.museum/cidoc/working-groups/lido/what-is-lido/)
+MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
+RDA|Resource Description and Access|https://en.wikipedia.org/wiki/Resource_Description_and_Access|
+LDF|Linked Data Fragments||[reference](https://linkeddatafragments.org/concept/)
+MIDS| MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
