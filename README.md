@@ -24,6 +24,7 @@ DAK|Digitally Accessable Knowledge||
 DITOs|Doing It Together Science||[reference](http://togetherscience.eu/)
 DLF| Digital Library Federation|https://en.wikipedia.org/wiki/Digital_Library_Federation|[reference](https://www.diglib.org/)
 DO|Dissolved Oxygen||[reference](https://www.fondriest.com/environmental-measurements/parameters/water-quality/dissolved-oxygen/)
+DOIP|Digital Object Interface Protocol||[reference](https://www.dona.net/sites/default/files/2018-11/DOIPv2Spec_1.pdf)
 DPO|Data Protection Officer|https://en.wikipedia.org/wiki/Data_Protection_Officer|[reference](https://edps.europa.eu/data-protection/data-protection/reference-library/data-protection-officer-dpo_en)
 DRAR|Discovery of Relational Association Rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 EC|Electrical Conductivity||[reference](https://www.epa.gov/national-aquatic-resource-surveys/indicators-conductivity)
@@ -35,9 +36,10 @@ EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://ww
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
 ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
 ETI|Everything To Index||
-ETL|Entry Transfer Load||
 ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
+ETL|Entry Transfer Load||
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
+FOSB|The Flemish Open Science Board||[reference](https://www.openaire.eu/blogs/flemish-open-science-board-launched-to-fulfill-european-engagement-and-invest-in-open-science)
 FTE|Full Time Equivalent|https://en.wikipedia.org/wiki/Full-time_equivalent|
 GBS|Genotyping by Sequencing|https://en.wikipedia.org/wiki/Genotyping_by_sequencing|
 GDM|Generalized Dissimilarity Modeling||[reference](https://www.onlinelibrary.wiley.com/doi/10.1111/j.1472-4642.2007.00341.x)
@@ -60,7 +62,7 @@ LOD|Linked Open Data||
 LODLAM|Linked Open Data in Library, Archives, and Museums||[reference](https://lodlam.net/)
 LOUD|Linked Open Usable Data||[reference](https://linked.art/loud/)
 MET|Morpho-Ecological Type||
-MIDS| MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
+MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MIDS|Minimum Information about a Digital Specimen||
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
@@ -105,6 +107,7 @@ UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
 URI|Uniform Resource Identifier|https://en.wikipedia.org/wiki/Uniform_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3986)
+VA|Virtual Access||[reference](https://www.synthesys.info/access/virtual-access.html)
 VIAF|Virtual International Authority File||
 ZAP|Zelfstandig Academisch Personeel| https://nl.wikipedia.org/wiki/Hoofddocent|
 s.l.|sine locale, without a location||
