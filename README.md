@@ -9,6 +9,7 @@ BP|Best Practices|https://en.wikipedia.org/wiki/Best_practice|
 BRU|Biological Recording Unit||
 BSBI|Botanical Society of Britain and Ireland|https://en.wikipedia.org/wiki/Botanical_Society_of_Britain_and_Ireland|[reference](https://bsbi.org/)
 Btree|self balancing tree data structure|https://en.wikipedia.org/wiki/B-tree|
+CAF|Central African Flora||[reference](https://www.researchgate.net/project/Flore-dAfrique-centrale)
 CARE|Collective-Benefit,Authority to Control, Responsibility, Ethics||[reference](https://www.gida-global.org/care)
 CART|Classification And Regression Tree|https://en.wikipedia.org/wiki/Decision_tree_learning|[reference](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)
 CDPHE|Colorado Department of Public Health and Environment||[reference](https://www.colorado.gov/cdphe)
