@@ -12,6 +12,7 @@ Btree|self balancing tree data structure|https://en.wikipedia.org/wiki/B-tree|
 CAF|Central African Flora||[reference](https://www.researchgate.net/project/Flore-dAfrique-centrale)
 CARE|Collective-Benefit,Authority to Control, Responsibility, Ethics||[reference](https://www.gida-global.org/care)
 CART|Classification And Regression Tree|https://en.wikipedia.org/wiki/Decision_tree_learning|[reference](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)
+CBD|Convention on Biological Diversity|https://en.wikipedia.org/wiki/Convention_on_Biological_Diversity|[reference](https://www.cbd.int/)
 CDPHE|Colorado Department of Public Health and Environment||[reference](https://www.colorado.gov/cdphe)
 CHI|Cultural Heritage Institution||
 CHI/HCI|Computer-Human Interaction/Interface|https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction|
@@ -32,13 +33,14 @@ EC|Electrical Conductivity||[reference](https://www.epa.gov/national-aquatic-res
 ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European_Citizen_Science_Association|[reference](https://ecsa.citizen-science.net/)
 EDM| Europeana Data Model||[reference](https://pro.europeana.eu/resources/standardization-tools/edm-documentation)
 EML|Ecological Metadata Language|https://en.wikipedia.org/wiki/Ecological_Metadata_Language|
+ENA|Europeana Network Association||[reference](https://pro.europeana.eu/network-association/sign-up)
 ENM|Ecological Niche Modelling|https://en.wikipedia.org/wiki/Species_distribution_modelling|[reference](https://pdfs.semanticscholar.org/e98a/80aeec9ab38373397aa11109572abbb77ce4.pdf)
 EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html#EOF-and-Errors)
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
 ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
 ETI|Everything To Index||
-ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 ETL|Entry Transfer Load||
+ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
 FOSB|The Flemish Open Science Board||[reference](https://www.openaire.eu/blogs/flemish-open-science-board-launched-to-fulfill-european-engagement-and-invest-in-open-science)
 FTE|Full Time Equivalent|https://en.wikipedia.org/wiki/Full-time_equivalent|
@@ -63,8 +65,8 @@ LOD|Linked Open Data||
 LODLAM|Linked Open Data in Library, Archives, and Museums||[reference](https://lodlam.net/)
 LOUD|Linked Open Usable Data||[reference](https://linked.art/loud/)
 MET|Morpho-Ecological Type||
-MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MIDS|Minimum Information about a Digital Specimen||
+MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
@@ -95,6 +97,7 @@ SAD|(local) Species Abundance Distribution|https://en.wikipedia.org/wiki/Relativ
 SDR|Specimen Data Refinery||[reference](https://doi.org/10.3897/biss.3.37647)
 SLA|Service Level Agreement|https://en.wikipedia.org/wiki/Service-level_agreement|[reference](https://www.cio.com/article/2438284/outsourcing-sla-definitions-and-solutions.html)
 SOC|Soil Organic Carbon|https://en.wikipedia.org/wiki/Soil_carbon|
+SPI|Science-Policy Interface||[reference](http://www.unesco.org/new/en/natural-sciences/science-technology/science-policy-and-society/science-policy-interface/)
 SPNHC|The Society for the Preservation of Natural History Collections|https://en.wikipedia.org/wiki/Society_for_the_Preservation_of_Natural_History_Collections|[reference](https://spnhc.org/)
 STSM|Short Term Scientific Mission||
 SWEET|Semantic Web for Earth and Environmental Terminology||[reference](https://github.com/ESIPFed/sweet)
@@ -103,8 +106,8 @@ TBPH|To Be Perfectly Honest||[reference](https://www.cyberdefinitions.com/defini
 TDQM|Total Data Quality Management||
 TDS|Total Dissolved Solids|https://en.wikipedia.org/wiki/Total_dissolved_solids|
 TDWG|Taxonomic Descriptions Work Group||
-UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
 UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
+UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
 URI|Uniform Resource Identifier|https://en.wikipedia.org/wiki/Uniform_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3986)
