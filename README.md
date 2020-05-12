@@ -42,7 +42,9 @@ ETI|Everything To Index||
 ETL|Entry Transfer Load||
 ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
+FDA|FAIR Data Object||[reference](https://www.force11.org/fairprinciples)
 FOSB|The Flemish Open Science Board||[reference](https://www.openaire.eu/blogs/flemish-open-science-board-launched-to-fulfill-european-engagement-and-invest-in-open-science)
+FP|Functional Programming|https://en.wikipedia.org/wiki/Functional_programming|[reference](http://www.defmacro.org/2006/06/19/fp.html)
 FTE|Full Time Equivalent|https://en.wikipedia.org/wiki/Full-time_equivalent|
 GBS|Genotyping by Sequencing|https://en.wikipedia.org/wiki/Genotyping_by_sequencing|
 GDM|Generalized Dissimilarity Modeling||[reference](https://www.onlinelibrary.wiley.com/doi/10.1111/j.1472-4642.2007.00341.x)
@@ -65,8 +67,8 @@ LOD|Linked Open Data||
 LODLAM|Linked Open Data in Library, Archives, and Museums||[reference](https://lodlam.net/)
 LOUD|Linked Open Usable Data||[reference](https://linked.art/loud/)
 MET|Morpho-Ecological Type||
-MIDS|Minimum Information about a Digital Specimen||
 MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
+MIDS|Minimum Information about a Digital Specimen||
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
