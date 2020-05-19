@@ -14,6 +14,7 @@ CARE|Collective-Benefit,Authority to Control, Responsibility, Ethics||[reference
 CART|Classification And Regression Tree|https://en.wikipedia.org/wiki/Decision_tree_learning|[reference](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)
 CBD|Convention on Biological Diversity|https://en.wikipedia.org/wiki/Convention_on_Biological_Diversity|[reference](https://www.cbd.int/)
 CDPHE|Colorado Department of Public Health and Environment||[reference](https://www.colorado.gov/cdphe)
+CFS|Certificate on the Financial Statement||[reference](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/applying-for-funding/register-an-organisation/certifications_en.htm)
 CHI|Cultural Heritage Institution||
 CHI/HCI|Computer-Human Interaction/Interface|https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction|
 CORS|Cross-origin resource sharing|https://en.wikipedia.org/wiki/Cross-origin_resource_sharing|[reference](https://fetch.spec.whatwg.org/#http-cors-protocol)
@@ -46,6 +47,8 @@ FDA|FAIR Data Object||[reference](https://www.force11.org/fairprinciples)
 FOSB|The Flemish Open Science Board||[reference](https://www.openaire.eu/blogs/flemish-open-science-board-launched-to-fulfill-european-engagement-and-invest-in-open-science)
 FP|Functional Programming|https://en.wikipedia.org/wiki/Functional_programming|[reference](http://www.defmacro.org/2006/06/19/fp.html)
 FTE|Full Time Equivalent|https://en.wikipedia.org/wiki/Full-time_equivalent|
+FdAC|Flore d'Afrique Centrale||[reference](http://floreafriquecentrale.org/)
+GA|Grant Agreement||
 GBS|Genotyping by Sequencing|https://en.wikipedia.org/wiki/Genotyping_by_sequencing|
 GDM|Generalized Dissimilarity Modeling||[reference](https://www.onlinelibrary.wiley.com/doi/10.1111/j.1472-4642.2007.00341.x)
 GLAM|Galleries,Libraries,Archives,Museums||
@@ -67,8 +70,9 @@ LOD|Linked Open Data||
 LODLAM|Linked Open Data in Library, Archives, and Museums||[reference](https://lodlam.net/)
 LOUD|Linked Open Usable Data||[reference](https://linked.art/loud/)
 MET|Morpho-Ecological Type||
-MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
+MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
 MIDS|Minimum Information about a Digital Specimen||
+MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
@@ -86,6 +90,7 @@ OS|Open Science|https://en.wikipedia.org/wiki/Open_science|[reference](https://o
 OWL|Web Ontology Language|https://en.wikipedia.org/wiki/Web_Ontology_Language|
 OpenDS|Open Digital Specimen||[reference](https://www.researchgate.net/publication/333854988_'openDS'_-_A_New_Standard_for_Digital_Specimens_and_Other_Natural_Science_Digital_Object_Types)
 PID|Persistent Identifier|https://en.wikipedia.org/wiki/Persistent_identifier|
+PM|Project Manager||
 RARs|Relational association rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 RDA|Resource Description and Access|https://en.wikipedia.org/wiki/Resource_Description_and_Access|
 RDF|Resource Description Framework|https://en.wikipedia.org/wiki/Resource_Description_Framework|
@@ -98,6 +103,7 @@ RiC|Records in Contexts|https://en.wikipedia.org/wiki/Records_in_Contexts|[refer
 SAD|(local) Species Abundance Distribution|https://en.wikipedia.org/wiki/Relative_species_abundance|[reference](https://dfzljdn9uc3pi.cloudfront.net/2016/1900/1/The_introduction_of_species_abundance_distribution.pdf)
 SDR|Specimen Data Refinery||[reference](https://doi.org/10.3897/biss.3.37647)
 SLA|Service Level Agreement|https://en.wikipedia.org/wiki/Service-level_agreement|[reference](https://www.cio.com/article/2438284/outsourcing-sla-definitions-and-solutions.html)
+SME|Small and medium-sized enterprises|https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises|[reference](https://ec.europa.eu/growth/smes/business-friendly-environment/sme-definition_en)
 SOC|Soil Organic Carbon|https://en.wikipedia.org/wiki/Soil_carbon|
 SPI|Science-Policy Interface||[reference](http://www.unesco.org/new/en/natural-sciences/science-technology/science-policy-and-society/science-policy-interface/)
 SPNHC|The Society for the Preservation of Natural History Collections|https://en.wikipedia.org/wiki/Society_for_the_Preservation_of_Natural_History_Collections|[reference](https://spnhc.org/)
@@ -108,8 +114,8 @@ TBPH|To Be Perfectly Honest||[reference](https://www.cyberdefinitions.com/defini
 TDQM|Total Data Quality Management||
 TDS|Total Dissolved Solids|https://en.wikipedia.org/wiki/Total_dissolved_solids|
 TDWG|Taxonomic Descriptions Work Group||
-UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
+UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
 URI|Uniform Resource Identifier|https://en.wikipedia.org/wiki/Uniform_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3986)
