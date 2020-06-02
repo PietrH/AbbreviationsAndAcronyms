@@ -127,3 +127,5 @@ HITs,Human Intelligence Tasks,,https://forum.turkerview.com/wiki/Human-Intellige
 SKOS,Simple Knowledge Organization System,https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System,https://www.w3.org/TR/skos-reference/
 FDO,FAIR Digital Object,,https://fairdo.org/
 QoE,Quality of Experience,https://en.wikipedia.org/wiki/Quality_of_experience,https://www.techopedia.com/definition/25802/quality-of-experience-qoe
+DDG,Dynamic Document Generation,,https://www.researchgate.net/publication/337181550_A_Reproducible_Data_Analysis_Workflow_with_R_Markdown_Git_Make_and_Docker
+DRG,Dynamic Report Generation,https://en.wikipedia.org/wiki/Knitr,https://cran.r-project.org/web/packages/knitr/index.html
