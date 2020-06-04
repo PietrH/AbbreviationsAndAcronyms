@@ -18,19 +18,25 @@ CDPHE|Colorado Department of Public Health and Environment||[reference](https://
 CFS|Certificate on the Financial Statement||[reference](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/applying-for-funding/register-an-organisation/certifications_en.htm)
 CHI|Cultural Heritage Institution||
 CHI/HCI|Computer-Human Interaction/Interface|https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction|
+CMS|Collection Management Systems|https://en.wikipedia.org/wiki/Collections_management_system|
 CORS|Cross-origin resource sharing|https://en.wikipedia.org/wiki/Cross-origin_resource_sharing|[reference](https://fetch.spec.whatwg.org/#http-cors-protocol)
 CRAR|Concurrent Relational Association Rule (mining)||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 CS|Citizen Science|https://en.wikipedia.org/wiki/Citizen_science|
 CSR|Corporate Social Responsibility|https://en.wikipedia.org/wiki/Corporate_social_responsibility|
+CURE|Course-based Undergraduate Research Experience||[reference](https://fys.ucdavis.edu/cures)
 DAG|Directed acyclic graph|https://en.wikipedia.org/wiki/Directed_acyclic_graph|[reference](https://cran.r-project.org/web/packages/ggdag/vignettes/intro-to-dags.html)
 DAI|Digitally Accessable Information||
 DAK|Digitally Accessable Knowledge||
+DAM|Digital Asset Management|https://en.wikipedia.org/wiki/Digital_asset_management|[reference](https://www.ibm.com/topics/digital-asset-management)
+DAMS|Digital Asset Management Systems||[reference](https://iiif.io/news/2017/05/01/letter-to-dams/)
+DDG|Dynamic Document Generation||[reference](https://www.researchgate.net/publication/337181550_A_Reproducible_Data_Analysis_Workflow_with_R_Markdown_Git_Make_and_Docker)
 DITOs|Doing It Together Science||[reference](http://togetherscience.eu/)
 DLF| Digital Library Federation|https://en.wikipedia.org/wiki/Digital_Library_Federation|[reference](https://www.diglib.org/)
 DO|Dissolved Oxygen||[reference](https://www.fondriest.com/environmental-measurements/parameters/water-quality/dissolved-oxygen/)
 DOIP|Digital Object Interface Protocol||[reference](https://www.dona.net/sites/default/files/2018-11/DOIPv2Spec_1.pdf)
 DPO|Data Protection Officer|https://en.wikipedia.org/wiki/Data_Protection_Officer|[reference](https://edps.europa.eu/data-protection/data-protection/reference-library/data-protection-officer-dpo_en)
 DRAR|Discovery of Relational Association Rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
+DRG|Dynamic Report Generation|https://en.wikipedia.org/wiki/Knitr|[reference](https://cran.r-project.org/web/packages/knitr/index.html)
 EC|Electrical Conductivity||[reference](https://www.epa.gov/national-aquatic-resource-surveys/indicators-conductivity)
 ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European_Citizen_Science_Association|[reference](https://ecsa.citizen-science.net/)
 EDM| Europeana Data Model||[reference](https://pro.europeana.eu/resources/standardization-tools/edm-documentation)
@@ -41,10 +47,11 @@ EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://ww
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
 ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
 ETI|Everything To Index||
-ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 ETL|Entry Transfer Load||
+ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
 FDA|FAIR Data Object||[reference](https://www.force11.org/fairprinciples)
+FDO|FAIR Digital Object||[reference](https://fairdo.org/)
 FOSB|The Flemish Open Science Board||[reference](https://www.openaire.eu/blogs/flemish-open-science-board-launched-to-fulfill-european-engagement-and-invest-in-open-science)
 FP|Functional Programming|https://en.wikipedia.org/wiki/Functional_programming|[reference](http://www.defmacro.org/2006/06/19/fp.html)
 FTE|Full Time Equivalent|https://en.wikipedia.org/wiki/Full-time_equivalent|
@@ -93,6 +100,7 @@ OWL|Web Ontology Language|https://en.wikipedia.org/wiki/Web_Ontology_Language|
 OpenDS|Open Digital Specimen||[reference](https://www.researchgate.net/publication/333854988_'openDS'_-_A_New_Standard_for_Digital_Specimens_and_Other_Natural_Science_Digital_Object_Types)
 PID|Persistent Identifier|https://en.wikipedia.org/wiki/Persistent_identifier|
 PM|Project Manager||
+QoE|Quality of Experience|https://en.wikipedia.org/wiki/Quality_of_experience|[reference](https://www.techopedia.com/definition/25802/quality-of-experience-qoe)
 RARs|Relational association rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 RDA|Resource Description and Access|https://en.wikipedia.org/wiki/Resource_Description_and_Access|
 RDF|Resource Description Framework|https://en.wikipedia.org/wiki/Resource_Description_Framework|
@@ -104,6 +112,7 @@ RSE|Research Software Engineering|https://en.wikipedia.org/wiki/Research_softwar
 RiC|Records in Contexts|https://en.wikipedia.org/wiki/Records_in_Contexts|[reference](https://www.ica.org/en/egad-ric-conceptual-model)
 SAD|(local) Species Abundance Distribution|https://en.wikipedia.org/wiki/Relative_species_abundance|[reference](https://dfzljdn9uc3pi.cloudfront.net/2016/1900/1/The_introduction_of_species_abundance_distribution.pdf)
 SDR|Specimen Data Refinery||[reference](https://doi.org/10.3897/biss.3.37647)
+SKOS|Simple Knowledge Organization System|https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System|[reference](https://www.w3.org/TR/skos-reference/)
 SLA|Service Level Agreement|https://en.wikipedia.org/wiki/Service-level_agreement|[reference](https://www.cio.com/article/2438284/outsourcing-sla-definitions-and-solutions.html)
 SME|Small and medium-sized enterprises|https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises|[reference](https://ec.europa.eu/growth/smes/business-friendly-environment/sme-definition_en)
 SOC|Soil Organic Carbon|https://en.wikipedia.org/wiki/Soil_carbon|
@@ -116,8 +125,8 @@ TBPH|To Be Perfectly Honest||[reference](https://www.cyberdefinitions.com/defini
 TDQM|Total Data Quality Management||
 TDS|Total Dissolved Solids|https://en.wikipedia.org/wiki/Total_dissolved_solids|
 TDWG|Taxonomic Descriptions Work Group||
-UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
+UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
 URI|Uniform Resource Identifier|https://en.wikipedia.org/wiki/Uniform_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3986)
