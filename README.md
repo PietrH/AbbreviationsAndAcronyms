@@ -14,6 +14,7 @@ CAF|Central African Flora||[reference](https://www.researchgate.net/project/Flor
 CARE|Collective-Benefit,Authority to Control, Responsibility, Ethics||[reference](https://www.gida-global.org/care)
 CART|Classification And Regression Tree|https://en.wikipedia.org/wiki/Decision_tree_learning|[reference](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)
 CBD|Convention on Biological Diversity|https://en.wikipedia.org/wiki/Convention_on_Biological_Diversity|[reference](https://www.cbd.int/)
+CD|Collection Descriptions||[reference](https://www.tdwg.org/community/cd/)
 CDPHE|Colorado Department of Public Health and Environment||[reference](https://www.colorado.gov/cdphe)
 CFS|Certificate on the Financial Statement||[reference](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/applying-for-funding/register-an-organisation/certifications_en.htm)
 CHI|Cultural Heritage Institution||
@@ -47,8 +48,8 @@ EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://ww
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
 ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
 ETI|Everything To Index||
-ETL|Entry Transfer Load||
 ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
+ETL|Entry Transfer Load||
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
 FDA|FAIR Data Object||[reference](https://www.force11.org/fairprinciples)
 FDO|FAIR Digital Object||[reference](https://fairdo.org/)
@@ -80,8 +81,8 @@ LODLAM|Linked Open Data in Library, Archives, and Museums||[reference](https://l
 LOUD|Linked Open Usable Data||[reference](https://linked.art/loud/)
 MET|Morpho-Ecological Type||
 MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
-MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MIDS|Minimum Information about a Digital Specimen||
+MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
