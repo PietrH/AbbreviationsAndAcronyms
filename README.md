@@ -48,8 +48,8 @@ EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://ww
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
 ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
 ETI|Everything To Index||
-ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 ETL|Entry Transfer Load||
+ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
 FDA|FAIR Data Object||[reference](https://www.force11.org/fairprinciples)
 FDO|FAIR Digital Object||[reference](https://fairdo.org/)
@@ -64,7 +64,9 @@ GLAM|Galleries,Libraries,Archives,Museums||
 GSP|Generic Services Projects||
 GWR|Geographically Weighted Regression|https://en.wikipedia.org/wiki/Spatial_analysis#Spatial_regression|[reference](http://resources.esri.com/help/9.3/arcgisengine/java/GP_ToolRef/spatial_statistics_tools/geographically_weighted_regression_spatial_statistics_.htm)
 HITs|Human Intelligence Tasks||[reference](https://forum.turkerview.com/wiki/Human-Intelligence-Tasks-HITs)
+HSTS|HTTP Strict Transport Security|https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security|[reference](https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it)
 HTR|Handwritten Text Recognition|https://en.wikipedia.org/wiki/Handwriting_recognition|
+IGSN|International Geo Sample Number|https://en.wikipedia.org/wiki/International_Geo_Sample_Number|[reference](http://www.geosamples.org/igsnabout)
 ILK|Indiginous and Local Knowledge|https://en.wikipedia.org/wiki/Traditional_knowledge|[reference](http://www.unesco.org/new/en/natural-sciences/priority-areas/links/related-information/what-is-local-and-indigenous-knowledge/)
 INEA|Innovations and Networks Executive Agency||[reference](https://ec.europa.eu/inea/en/)
 IRI|Information Reuse and Integration||[reference](http://www.sis.pitt.edu/iri2018/)
@@ -81,8 +83,8 @@ LODLAM|Linked Open Data in Library, Archives, and Museums||[reference](https://l
 LOUD|Linked Open Usable Data||[reference](https://linked.art/loud/)
 MET|Morpho-Ecological Type||
 MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
-MIDS|Minimum Information about a Digital Specimen||
 MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
+MIDS|Minimum Information about a Digital Specimen||
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
@@ -126,8 +128,9 @@ TBPH|To Be Perfectly Honest||[reference](https://www.cyberdefinitions.com/defini
 TDQM|Total Data Quality Management||
 TDS|Total Dissolved Solids|https://en.wikipedia.org/wiki/Total_dissolved_solids|
 TDWG|Taxonomic Descriptions Work Group||
-UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
+TLS|Transport Layer Security|https://en.wikipedia.org/wiki/Transport_Layer_Security|[reference](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)
 UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
+UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
 URI|Uniform Resource Identifier|https://en.wikipedia.org/wiki/Uniform_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3986)
