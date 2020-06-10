@@ -135,3 +135,4 @@ DAM,Digital Asset Management,https://en.wikipedia.org/wiki/Digital_asset_managem
 DAMS,Digital Asset Management Systems,,https://iiif.io/news/2017/05/01/letter-to-dams/
 CD,Collection Descriptions,,https://www.tdwg.org/community/cd/
 TLS,Transport Layer Security,https://en.wikipedia.org/wiki/Transport_Layer_Security,https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html
+HSTS,HTTP Strict Transport Security,https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security,https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it
