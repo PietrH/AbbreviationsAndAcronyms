@@ -138,3 +138,7 @@ TLS,Transport Layer Security,https://en.wikipedia.org/wiki/Transport_Layer_Secur
 HSTS,HTTP Strict Transport Security,https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security,https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it
 IGSN,International Geo Sample Number,https://en.wikipedia.org/wiki/International_Geo_Sample_Number,http://www.geosamples.org/igsnabout
 PAM,Passive Acoustic Monitoring,https://en.wikipedia.org/wiki/Passive_acoustics,https://acousticmarinesystems.com/
+HTAP,Hybrid Transactional/Analytical Processing,https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing,https://www.jamesserra.com/archive/2016/12/what-is-htap/
+ODS,Operational Data Stores,https://en.wikipedia.org/wiki/Operational_data_store,https://www.stitchdata.com/resources/operational-data-store/
+OLTP,Online Transaction Processing,https://en.wikipedia.org/wiki/Online_transaction_processing,https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/online-transaction-processing
+OLAP,Online Analytical Processing,https://en.wikipedia.org/wiki/Online_analytical_processing,https://www.guru99.com/online-analytical-processing.html
