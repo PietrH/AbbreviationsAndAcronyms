@@ -65,6 +65,7 @@ GSP|Generic Services Projects||
 GWR|Geographically Weighted Regression|https://en.wikipedia.org/wiki/Spatial_analysis#Spatial_regression|[reference](http://resources.esri.com/help/9.3/arcgisengine/java/GP_ToolRef/spatial_statistics_tools/geographically_weighted_regression_spatial_statistics_.htm)
 HITs|Human Intelligence Tasks||[reference](https://forum.turkerview.com/wiki/Human-Intelligence-Tasks-HITs)
 HSTS|HTTP Strict Transport Security|https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security|[reference](https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it)
+HTAP|Hybrid Transactional/Analytical Processing|https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing|[reference](https://www.jamesserra.com/archive/2016/12/what-is-htap/)
 HTR|Handwritten Text Recognition|https://en.wikipedia.org/wiki/Handwriting_recognition|
 IGSN|International Geo Sample Number|https://en.wikipedia.org/wiki/International_Geo_Sample_Number|[reference](http://www.geosamples.org/igsnabout)
 ILK|Indiginous and Local Knowledge|https://en.wikipedia.org/wiki/Traditional_knowledge|[reference](http://www.unesco.org/new/en/natural-sciences/priority-areas/links/related-information/what-is-local-and-indigenous-knowledge/)
@@ -83,8 +84,8 @@ LODLAM|Linked Open Data in Library, Archives, and Museums||[reference](https://l
 LOUD|Linked Open Usable Data||[reference](https://linked.art/loud/)
 MET|Morpho-Ecological Type||
 MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
-MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MIDS|Minimum Information about a Digital Specimen||
+MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
@@ -92,7 +93,10 @@ MVT|Marginal value theorem|https://en.wikipedia.org/wiki/Marginal_value_theorem|
 NCP|Natures Contributions to People||[reference](https://ipbes.net/news/natures-contributions-people-ncp-article-ipbes-experts-science)
 NHC|Natural History Collections||
 OBO|Open biological and biomedical ontologies|https://en.wikipedia.org/wiki/Open_Biomedical_Ontologies|[reference](http://www.obofoundry.org/)
+ODS|Operational Data Stores|https://en.wikipedia.org/wiki/Operational_data_store|[reference](https://www.stitchdata.com/resources/operational-data-store/)
 OER|Open Educational Resources|https://en.wikipedia.org/wiki/Open_educational_resources|[reference](https://unesdoc.unesco.org/ark:/48223/pf0000370936)
+OLAP|Online Analytical Processing|https://en.wikipedia.org/wiki/Online_analytical_processing|[reference](https://www.guru99.com/online-analytical-processing.html)
+OLTP|Online Transaction Processing|https://en.wikipedia.org/wiki/Online_transaction_processing|[reference](https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/online-transaction-processing)
 OMG|Object Management Group|https://en.wikipedia.org/wiki/Object_Management_Group|[reference](https://www.omg.org/)
 OPDS|Open Publication Distribution System|https://en.wikipedia.org/wiki/Open_Publication_Distribution_System|[reference](http://www.feedbooks.com/api/primer)
 OPT|Optimal Foraging Theory|https://en.wikipedia.org/wiki/Optimal_foraging_theory|[reference](http://www.tiem.utk.edu/~gross/bioed/bealsmodules/optimal.html)
@@ -101,6 +105,7 @@ ORMS|Operating Resource Management System||[reference](https://tecrada.com/opera
 OS|Open Science|https://en.wikipedia.org/wiki/Open_science|[reference](https://openscience.com/)
 OWL|Web Ontology Language|https://en.wikipedia.org/wiki/Web_Ontology_Language|
 OpenDS|Open Digital Specimen||[reference](https://www.researchgate.net/publication/333854988_'openDS'_-_A_New_Standard_for_Digital_Specimens_and_Other_Natural_Science_Digital_Object_Types)
+PAM|Passive Acoustic Monitoring|https://en.wikipedia.org/wiki/Passive_acoustics|[reference](https://acousticmarinesystems.com/)
 PID|Persistent Identifier|https://en.wikipedia.org/wiki/Persistent_identifier|
 PM|Project Manager||
 QoE|Quality of Experience|https://en.wikipedia.org/wiki/Quality_of_experience|[reference](https://www.techopedia.com/definition/25802/quality-of-experience-qoe)
@@ -129,8 +134,8 @@ TDQM|Total Data Quality Management||
 TDS|Total Dissolved Solids|https://en.wikipedia.org/wiki/Total_dissolved_solids|
 TDWG|Taxonomic Descriptions Work Group||
 TLS|Transport Layer Security|https://en.wikipedia.org/wiki/Transport_Layer_Security|[reference](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)
-UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
+UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
 URI|Uniform Resource Identifier|https://en.wikipedia.org/wiki/Uniform_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3986)
