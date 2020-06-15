@@ -1,9 +1,9 @@
 Abbreviation,Meaning,Wiki_Link,Reference_Link
 PID,Persistent Identifier,https://en.wikipedia.org/wiki/Persistent_identifier,
-VIAF,Virtual International Authority File,,
-TDWG,Taxonomic Descriptions Work Group,,
+VIAF,Virtual International Authority File,https://en.wikipedia.org/wiki/Virtual_International_Authority_File,https://viaf.org/
+TDWG,Taxonomic Descriptions Work Group,,https://www.tdwg.org/
 EML,Ecological Metadata Language,https://en.wikipedia.org/wiki/Ecological_Metadata_Language,
-ETL,Entry Transfer Load,,
+ETL,Entry Transfer Load,https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load,
 ETL,Extract Transform Load,"https://en.wikipedia.org/wiki/Extract,_transform,_load",
 RIs,Research Infrastructures,,
 s.l.,"sine locale, without a location",,
