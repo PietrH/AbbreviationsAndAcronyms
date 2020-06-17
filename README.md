@@ -4,6 +4,7 @@ AMT|AmazonMechanical Turk platform|https://en.wikipedia.org/wiki/Amazon_Mechanic
 AOB|Any Other Business / Bugs||
 ARK|Archival Resource Key||
 ARs|Association Rules|https://en.wikipedia.org/wiki/Association_rule_learning|[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
+ASR|Automatic Speech Recognition|https://en.wikipedia.org/wiki/Speech_recognition|[reference](https://aws.amazon.com/transcribe/)
 BGCI|Botanic Gardens Conservation International|https://en.wikipedia.org/wiki/Botanic_Gardens_Conservation_International|[reference](https://www.bgci.org/)
 BGS|British Geographic Survey|https://en.wikipedia.org/wiki/British_Geological_Survey|[reference](https://www.bgs.ac.uk/)
 BP|Best Practices|https://en.wikipedia.org/wiki/Best_practice|
@@ -48,8 +49,8 @@ EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://ww
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
 ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
 ETI|Everything To Index||
-ETL|Entry Transfer Load||
 ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
+ETL|Entry Transfer Load|https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load|
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
 FDA|FAIR Data Object||[reference](https://www.force11.org/fairprinciples)
 FDO|FAIR Digital Object||[reference](https://fairdo.org/)
@@ -100,6 +101,7 @@ OLTP|Online Transaction Processing|https://en.wikipedia.org/wiki/Online_transact
 OMG|Object Management Group|https://en.wikipedia.org/wiki/Object_Management_Group|[reference](https://www.omg.org/)
 OPDS|Open Publication Distribution System|https://en.wikipedia.org/wiki/Open_Publication_Distribution_System|[reference](http://www.feedbooks.com/api/primer)
 OPT|Optimal Foraging Theory|https://en.wikipedia.org/wiki/Optimal_foraging_theory|[reference](http://www.tiem.utk.edu/~gross/bioed/bealsmodules/optimal.html)
+ORCID|Open Researcher and Contributor ID|https://en.wikipedia.org/wiki/ORCID|[reference](https://orcid.org)
 ORM|Object-Relational Mapper|https://en.wikipedia.org/wiki/Object-relational_mapping|
 ORMS|Operating Resource Management System||[reference](https://tecrada.com/operating-system-resource-management/)
 OS|Open Science|https://en.wikipedia.org/wiki/Open_science|[reference](https://openscience.com/)
@@ -114,16 +116,20 @@ RDA|Resource Description and Access|https://en.wikipedia.org/wiki/Resource_Descr
 RDF|Resource Description Framework|https://en.wikipedia.org/wiki/Resource_Description_Framework|
 RDFS|RDF Schema|https://en.wikipedia.org/wiki/RDF_Schema|
 RDM|Research Data Management||[reference](https://researchdata.berkeley.edu/)
+RIOT|Reproducible Interpretable Open & Transparent Science||[reference](http://www.riotscience.co.uk/)
 RIs|Research Infrastructures||
+RMCA|Royal Museum for Central Africa|https://en.wikipedia.org/wiki/Royal_Museum_for_Central_Africa|[reference](https://www.africamuseum.be)
 RRI|Responsible Research and Innovation|https://en.wikipedia.org/wiki/Responsible_Research_and_Innovation|[reference](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/responsible-research-innovation)
 RSE|Research Software Engineering|https://en.wikipedia.org/wiki/Research_software_engineering|[reference](https://society-rse.org/)
 RiC|Records in Contexts|https://en.wikipedia.org/wiki/Records_in_Contexts|[reference](https://www.ica.org/en/egad-ric-conceptual-model)
 SAD|(local) Species Abundance Distribution|https://en.wikipedia.org/wiki/Relative_species_abundance|[reference](https://dfzljdn9uc3pi.cloudfront.net/2016/1900/1/The_introduction_of_species_abundance_distribution.pdf)
+SAIV|Schedule As Independent Variable|https://en.wikipedia.org/wiki/Timeboxing|[reference](https://www.hypnobusters.com/blog/how-to-use-timeboxing-to-get-more-done/)
 SDR|Specimen Data Refinery||[reference](https://doi.org/10.3897/biss.3.37647)
 SKOS|Simple Knowledge Organization System|https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System|[reference](https://www.w3.org/TR/skos-reference/)
 SLA|Service Level Agreement|https://en.wikipedia.org/wiki/Service-level_agreement|[reference](https://www.cio.com/article/2438284/outsourcing-sla-definitions-and-solutions.html)
 SME|Small and medium-sized enterprises|https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises|[reference](https://ec.europa.eu/growth/smes/business-friendly-environment/sme-definition_en)
 SOC|Soil Organic Carbon|https://en.wikipedia.org/wiki/Soil_carbon|
+SOP|Standard operating procedure|https://en.wikipedia.org/wiki/Standard_operating_procedure|[reference](https://tallyfy.com/standard-operating-procedure-sop/)
 SPI|Science-Policy Interface||[reference](http://www.unesco.org/new/en/natural-sciences/science-technology/science-policy-and-society/science-policy-interface/)
 SPNHC|The Society for the Preservation of Natural History Collections|https://en.wikipedia.org/wiki/Society_for_the_Preservation_of_Natural_History_Collections|[reference](https://spnhc.org/)
 STSM|Short Term Scientific Mission||
@@ -132,7 +138,7 @@ SoC|System On Chip|https://en.wikipedia.org/wiki/System_on_a_chip|
 TBPH|To Be Perfectly Honest||[reference](https://www.cyberdefinitions.com/definitions/TBPH.html)
 TDQM|Total Data Quality Management||
 TDS|Total Dissolved Solids|https://en.wikipedia.org/wiki/Total_dissolved_solids|
-TDWG|Taxonomic Descriptions Work Group||
+TDWG|Taxonomic Descriptions Work Group||[reference](https://www.tdwg.org/)
 TLS|Transport Layer Security|https://en.wikipedia.org/wiki/Transport_Layer_Security|[reference](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)
 UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
 UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
@@ -140,6 +146,6 @@ UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Lan
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
 URI|Uniform Resource Identifier|https://en.wikipedia.org/wiki/Uniform_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3986)
 VA|Virtual Access||[reference](https://www.synthesys.info/access/virtual-access.html)
-VIAF|Virtual International Authority File||
+VIAF|Virtual International Authority File|https://en.wikipedia.org/wiki/Virtual_International_Authority_File|[reference](https://viaf.org/)
 ZAP|Zelfstandig Academisch Personeel| https://nl.wikipedia.org/wiki/Hoofddocent|
 s.l.|sine locale, without a location||
