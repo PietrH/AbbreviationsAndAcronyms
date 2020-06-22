@@ -85,14 +85,15 @@ LODLAM|Linked Open Data in Library, Archives, and Museums||[reference](https://l
 LOUD|Linked Open Usable Data||[reference](https://linked.art/loud/)
 MET|Morpho-Ecological Type||
 MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
-MIDS|Minimum Information about a Digital Specimen||
 MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
+MIDS|Minimum Information about a Digital Specimen||
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
 MVT|Marginal value theorem|https://en.wikipedia.org/wiki/Marginal_value_theorem|
 NCP|Natures Contributions to People||[reference](https://ipbes.net/news/natures-contributions-people-ncp-article-ipbes-experts-science)
 NHC|Natural History Collections||
+OBF|Open Bioinformatics Foundation|https://en.wikipedia.org/wiki/Open_Bioinformatics_Foundation|[reference](https://www.open-bio.org/)
 OBO|Open biological and biomedical ontologies|https://en.wikipedia.org/wiki/Open_Biomedical_Ontologies|[reference](http://www.obofoundry.org/)
 ODS|Operational Data Stores|https://en.wikipedia.org/wiki/Operational_data_store|[reference](https://www.stitchdata.com/resources/operational-data-store/)
 OER|Open Educational Resources|https://en.wikipedia.org/wiki/Open_educational_resources|[reference](https://unesdoc.unesco.org/ark:/48223/pf0000370936)
