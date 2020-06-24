@@ -153,5 +153,9 @@ LIMS,Laboratory Information Management System,https://en.wikipedia.org/wiki/Labo
 DSI,Digital Sequence Information,,http://nagoyaprotocol.myspecies.info/node/27
 ABS,Access & Benefit-Sharing,,https://ec.europa.eu/environment/nature/biodiversity/international/abs/legislation_en.htm
 PPRS,People-Powered Research Science,,https://www.sciencedirect.com/science/article/pii/S0896627316307954
-TW,Tervuren Wood,,
-TWS,Tervuren Wood Samples/Specimens,,
+TW,Tervuren Wood,,https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium
+TWS,Tervuren Wood Samples/Specimens,,https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium
+MFA,Multiple Factor Analysis,https://en.wikipedia.org/wiki/Multiple_factor_analysis,http://factominer.free.fr/factomethods/multiple-factor-analysis.html
+PCA,Principal Component Analysis,https://en.wikipedia.org/wiki/Principal_component_analysis,http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf
+MCA,Multiple Correspondence Analysis,https://en.wikipedia.org/wiki/Multiple_correspondence_analysis,https://www.displayr.com/correspondence-analysis-versus-multiple-correspondence-analysis-use/
+FAMD,Factor Analysis of Mixed Data,https://en.wikipedia.org/wiki/Factor_analysis_of_mixed_data,http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/115-famd-factor-analysis-of-mixed-data-in-r-essentials/
