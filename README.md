@@ -1,5 +1,6 @@
 Abbreviation|Meaning|Wiki_Link|Reference_Link
 ---|---|---|---
+ABS|Access & Benefit-Sharing||[reference](https://ec.europa.eu/environment/nature/biodiversity/international/abs/legislation_en.htm)
 AMT|AmazonMechanical Turk platform|https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk|[reference](https://www.mturk.com/)
 AOB|Any Other Business / Bugs||
 ARK|Archival Resource Key||
@@ -20,6 +21,7 @@ CDPHE|Colorado Department of Public Health and Environment||[reference](https://
 CFS|Certificate on the Financial Statement||[reference](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/applying-for-funding/register-an-organisation/certifications_en.htm)
 CHI|Cultural Heritage Institution||
 CHI/HCI|Computer-Human Interaction/Interface|https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction|
+CKAN|Comprehensive Knowledge Archive Network|https://en.wikipedia.org/wiki/CKAN|[reference](https://ckan.org/)
 CMS|Collection Management Systems|https://en.wikipedia.org/wiki/Collections_management_system|
 CORS|Cross-origin resource sharing|https://en.wikipedia.org/wiki/Cross-origin_resource_sharing|[reference](https://fetch.spec.whatwg.org/#http-cors-protocol)
 CRAR|Concurrent Relational Association Rule (mining)||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
@@ -39,6 +41,7 @@ DOIP|Digital Object Interface Protocol||[reference](https://www.dona.net/sites/d
 DPO|Data Protection Officer|https://en.wikipedia.org/wiki/Data_Protection_Officer|[reference](https://edps.europa.eu/data-protection/data-protection/reference-library/data-protection-officer-dpo_en)
 DRAR|Discovery of Relational Association Rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 DRG|Dynamic Report Generation|https://en.wikipedia.org/wiki/Knitr|[reference](https://cran.r-project.org/web/packages/knitr/index.html)
+DSI|Digital Sequence Information||[reference](http://nagoyaprotocol.myspecies.info/node/27)
 EC|Electrical Conductivity||[reference](https://www.epa.gov/national-aquatic-resource-surveys/indicators-conductivity)
 ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European_Citizen_Science_Association|[reference](https://ecsa.citizen-science.net/)
 EDM| Europeana Data Model||[reference](https://pro.europeana.eu/resources/standardization-tools/edm-documentation)
@@ -52,6 +55,7 @@ ETI|Everything To Index||
 ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 ETL|Entry Transfer Load|https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load|
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
+FAMD|Factor Analysis of Mixed Data|https://en.wikipedia.org/wiki/Factor_analysis_of_mixed_data|[reference](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/115-famd-factor-analysis-of-mixed-data-in-r-essentials/)
 FDA|FAIR Data Object||[reference](https://www.force11.org/fairprinciples)
 FDO|FAIR Digital Object||[reference](https://fairdo.org/)
 FOSB|The Flemish Open Science Board||[reference](https://www.openaire.eu/blogs/flemish-open-science-board-launched-to-fulfill-european-engagement-and-invest-in-open-science)
@@ -80,13 +84,16 @@ LDF|Linked Data Fragments||[reference](https://linkeddatafragments.org/concept/)
 LDN|Linked Data Notifications|https://en.wikipedia.org/wiki/Linked_Data_Notifications|[reference](https://www.w3.org/TR/ldn/)
 LDP|Linked Data Platform|https://en.wikipedia.org/wiki/Linked_Data_Platform|[reference](https://www.w3.org/TR/ldp-primer/)
 LIDO|Lightweight Information Describing Objects|https://en.wikipedia.org/wiki/LIDO|[reference](http://network.icom.museum/cidoc/working-groups/lido/what-is-lido/)
+LIMS|Laboratory Information Management System|https://en.wikipedia.org/wiki/Laboratory_information_management_system|
 LOD|Linked Open Data||
 LODLAM|Linked Open Data in Library, Archives, and Museums||[reference](https://lodlam.net/)
 LOUD|Linked Open Usable Data||[reference](https://linked.art/loud/)
+MCA|Multiple Correspondence Analysis|https://en.wikipedia.org/wiki/Multiple_correspondence_analysis|[reference](https://www.displayr.com/correspondence-analysis-versus-multiple-correspondence-analysis-use/)
 MET|Morpho-Ecological Type||
+MFA|Multiple Factor Analysis|https://en.wikipedia.org/wiki/Multiple_factor_analysis|[reference](http://factominer.free.fr/factomethods/multiple-factor-analysis.html)
 MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
-MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MIDS|Minimum Information about a Digital Specimen||
+MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
@@ -109,8 +116,10 @@ OS|Open Science|https://en.wikipedia.org/wiki/Open_science|[reference](https://o
 OWL|Web Ontology Language|https://en.wikipedia.org/wiki/Web_Ontology_Language|
 OpenDS|Open Digital Specimen||[reference](https://www.researchgate.net/publication/333854988_'openDS'_-_A_New_Standard_for_Digital_Specimens_and_Other_Natural_Science_Digital_Object_Types)
 PAM|Passive Acoustic Monitoring|https://en.wikipedia.org/wiki/Passive_acoustics|[reference](https://acousticmarinesystems.com/)
+PCA|Principal Component Analysis|https://en.wikipedia.org/wiki/Principal_component_analysis|[reference](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)
 PID|Persistent Identifier|https://en.wikipedia.org/wiki/Persistent_identifier|
 PM|Project Manager||
+PPRS|People-Powered Research Science||[reference](https://www.sciencedirect.com/science/article/pii/S0896627316307954)
 QoE|Quality of Experience|https://en.wikipedia.org/wiki/Quality_of_experience|[reference](https://www.techopedia.com/definition/25802/quality-of-experience-qoe)
 RARs|Relational association rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 RDA|Resource Description and Access|https://en.wikipedia.org/wiki/Resource_Description_and_Access|
@@ -141,6 +150,8 @@ TDQM|Total Data Quality Management||
 TDS|Total Dissolved Solids|https://en.wikipedia.org/wiki/Total_dissolved_solids|
 TDWG|Taxonomic Descriptions Work Group||[reference](https://www.tdwg.org/)
 TLS|Transport Layer Security|https://en.wikipedia.org/wiki/Transport_Layer_Security|[reference](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)
+TW|Tervuren Wood||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
+TWS|Tervuren Wood Samples/Specimens||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
 UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
 UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
