@@ -161,3 +161,4 @@ MCA,Multiple Correspondence Analysis,https://en.wikipedia.org/wiki/Multiple_corr
 FAMD,Factor Analysis of Mixed Data,https://en.wikipedia.org/wiki/Factor_analysis_of_mixed_data,http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/115-famd-factor-analysis-of-mixed-data-in-r-essentials/
 CKAN,Comprehensive Knowledge Archive Network,https://en.wikipedia.org/wiki/CKAN,https://ckan.org/
 CAS,Central Authentication Service,https://en.wikipedia.org/wiki/Central_Authentication_Service,
+SAM,Sequence Alignment Map format,https://en.wikipedia.org/wiki/SAM_(file_format),https://samtools.github.io/hts-specs/
