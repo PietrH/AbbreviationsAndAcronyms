@@ -55,8 +55,8 @@ EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://ww
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
 ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
 ETI|Everything To Index||
-ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 ETL|Entry Transfer Load|https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load|
+ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
 FAMD|Factor Analysis of Mixed Data|https://en.wikipedia.org/wiki/Factor_analysis_of_mixed_data|[reference](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/115-famd-factor-analysis-of-mixed-data-in-r-essentials/)
 FDA|FAIR Data Object||[reference](https://www.force11.org/fairprinciples)
@@ -71,6 +71,7 @@ GDM|Generalized Dissimilarity Modeling||[reference](https://www.onlinelibrary.wi
 GLAM|Galleries,Libraries,Archives,Museums||
 GSP|Generic Services Projects||
 GWR|Geographically Weighted Regression|https://en.wikipedia.org/wiki/Spatial_analysis#Spatial_regression|[reference](http://resources.esri.com/help/9.3/arcgisengine/java/GP_ToolRef/spatial_statistics_tools/geographically_weighted_regression_spatial_statistics_.htm)
+Genomics Observatories|GOs||
 HITs|Human Intelligence Tasks||[reference](https://forum.turkerview.com/wiki/Human-Intelligence-Tasks-HITs)
 HSTS|HTTP Strict Transport Security|https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security|[reference](https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it)
 HTAP|Hybrid Transactional/Analytical Processing|https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing|[reference](https://www.jamesserra.com/archive/2016/12/what-is-htap/)
