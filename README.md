@@ -1,6 +1,7 @@
 Abbreviation|Meaning|Wiki_Link|Reference_Link
 ---|---|---|---
 ABS|Access & Benefit-Sharing||[reference](https://ec.europa.eu/environment/nature/biodiversity/international/abs/legislation_en.htm)
+AHM|All Hands Meeting||
 AMT|AmazonMechanical Turk platform|https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk|[reference](https://www.mturk.com/)
 AOB|Any Other Business / Bugs||
 ARK|Archival Resource Key||
@@ -36,6 +37,7 @@ DAM|Digital Asset Management|https://en.wikipedia.org/wiki/Digital_asset_managem
 DAMS|Digital Asset Management Systems||[reference](https://iiif.io/news/2017/05/01/letter-to-dams/)
 DDG|Dynamic Document Generation||[reference](https://www.researchgate.net/publication/337181550_A_Reproducible_Data_Analysis_Workflow_with_R_Markdown_Git_Make_and_Docker)
 DH|Digital Humanities|https://en.wikipedia.org/wiki/Digital_humanities|
+DHS|Digital Herbarium Specimens|https://en.wikipedia.org/wiki/Virtual_herbarium|
 DITOs|Doing It Together Science||[reference](http://togetherscience.eu/)
 DLF| Digital Library Federation|https://en.wikipedia.org/wiki/Digital_Library_Federation|[reference](https://www.diglib.org/)
 DO|Dissolved Oxygen||[reference](https://www.fondriest.com/environmental-measurements/parameters/water-quality/dissolved-oxygen/)
@@ -44,19 +46,22 @@ DPO|Data Protection Officer|https://en.wikipedia.org/wiki/Data_Protection_Office
 DRAR|Discovery of Relational Association Rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 DRG|Dynamic Report Generation|https://en.wikipedia.org/wiki/Knitr|[reference](https://cran.r-project.org/web/packages/knitr/index.html)
 DSI|Digital Sequence Information||[reference](http://nagoyaprotocol.myspecies.info/node/27)
+EBV|Essential Biodiversity Variables|https://en.wikipedia.org/wiki/Essential_Biodiversity_Variables|[reference](https://geobon.org/ebvs/what-are-ebvs/)
 EC|Electrical Conductivity||[reference](https://www.epa.gov/national-aquatic-resource-surveys/indicators-conductivity)
 ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European_Citizen_Science_Association|[reference](https://ecsa.citizen-science.net/)
 EDA|Exploratory Data Analysis|https://en.wikipedia.org/wiki/Exploratory_data_analysis|[reference](projecteuclid.org/download/pdf_1/euclid.aoms/1177704711)
 EDM| Europeana Data Model||[reference](https://pro.europeana.eu/resources/standardization-tools/edm-documentation)
 EML|Ecological Metadata Language|https://en.wikipedia.org/wiki/Ecological_Metadata_Language|
+ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotide_Archive|[reference](https://www.ebi.ac.uk/ena/browser/home)
 ENA|Europeana Network Association||[reference](https://pro.europeana.eu/network-association/sign-up)
 ENM|Ecological Niche Modelling|https://en.wikipedia.org/wiki/Species_distribution_modelling|[reference](https://pdfs.semanticscholar.org/e98a/80aeec9ab38373397aa11109572abbb77ce4.pdf)
 EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html#EOF-and-Errors)
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
+ESFRI|European Strategy Forum on Research Infrastructures||[reference](https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/esfri_en)
 ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
 ETI|Everything To Index||
-ETL|Entry Transfer Load|https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load|
 ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
+ETL|Entry Transfer Load|https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load|
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
 FAMD|Factor Analysis of Mixed Data|https://en.wikipedia.org/wiki/Factor_analysis_of_mixed_data|[reference](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/115-famd-factor-analysis-of-mixed-data-in-r-essentials/)
 FDA|FAIR Data Object||[reference](https://www.force11.org/fairprinciples)
@@ -67,11 +72,13 @@ FTE|Full Time Equivalent|https://en.wikipedia.org/wiki/Full-time_equivalent|
 FdAC|Flore d'Afrique Centrale||[reference](http://floreafriquecentrale.org/)
 GA|Grant Agreement||
 GBS|Genotyping by Sequencing|https://en.wikipedia.org/wiki/Genotyping_by_sequencing|
+GCP|Google Cloud Platform|https://en.wikipedia.org/wiki/Google_Cloud_Platform|[reference](https://cloud.google.com/)
 GDM|Generalized Dissimilarity Modeling||[reference](https://www.onlinelibrary.wiley.com/doi/10.1111/j.1472-4642.2007.00341.x)
 GLAM|Galleries,Libraries,Archives,Museums||
+GOs|Genomics Observatories||
 GSP|Generic Services Projects||
+GUPRI|Globally Unique, Persistent and Resolvable Identifier||[reference](https://fairsfair.eu/d22-fair-semantics-first-recommendations-request-comments/p-rec-1-use-globally-unique-persistent-and)
 GWR|Geographically Weighted Regression|https://en.wikipedia.org/wiki/Spatial_analysis#Spatial_regression|[reference](http://resources.esri.com/help/9.3/arcgisengine/java/GP_ToolRef/spatial_statistics_tools/geographically_weighted_regression_spatial_statistics_.htm)
-Genomics Observatories|GOs||
 HITs|Human Intelligence Tasks||[reference](https://forum.turkerview.com/wiki/Human-Intelligence-Tasks-HITs)
 HSTS|HTTP Strict Transport Security|https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security|[reference](https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it)
 HTAP|Hybrid Transactional/Analytical Processing|https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing|[reference](https://www.jamesserra.com/archive/2016/12/what-is-htap/)
@@ -97,8 +104,8 @@ MCA|Multiple Correspondence Analysis|https://en.wikipedia.org/wiki/Multiple_corr
 MET|Morpho-Ecological Type||
 MFA|Multiple Factor Analysis|https://en.wikipedia.org/wiki/Multiple_factor_analysis|[reference](http://factominer.free.fr/factomethods/multiple-factor-analysis.html)
 MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
-MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MIDS|Minimum Information about a Digital Specimen||
+MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
@@ -119,6 +126,7 @@ ORCID|Open Researcher and Contributor ID|https://en.wikipedia.org/wiki/ORCID|[re
 ORM|Object-Relational Mapper|https://en.wikipedia.org/wiki/Object-relational_mapping|
 ORMS|Operating Resource Management System||[reference](https://tecrada.com/operating-system-resource-management/)
 OS|Open Science|https://en.wikipedia.org/wiki/Open_science|[reference](https://openscience.com/)
+OTU|Operational Taxonomic Unit|https://en.wikipedia.org/wiki/Operational_taxonomic_unit|[reference](https://doi.org/10.1371%2Fjournal.pone.0070837)
 OWL|Web Ontology Language|https://en.wikipedia.org/wiki/Web_Ontology_Language|
 OpenDS|Open Digital Specimen||[reference](https://www.researchgate.net/publication/333854988_'openDS'_-_A_New_Standard_for_Digital_Specimens_and_Other_Natural_Science_Digital_Object_Types)
 PAM|Passive Acoustic Monitoring|https://en.wikipedia.org/wiki/Passive_acoustics|[reference](https://acousticmarinesystems.com/)
@@ -132,6 +140,7 @@ RDA|Resource Description and Access|https://en.wikipedia.org/wiki/Resource_Descr
 RDF|Resource Description Framework|https://en.wikipedia.org/wiki/Resource_Description_Framework|
 RDFS|RDF Schema|https://en.wikipedia.org/wiki/RDF_Schema|
 RDM|Research Data Management||[reference](https://researchdata.berkeley.edu/)
+RIMS|Research Information Management System||[reference](https://www.newcastle.edu.au/research/resources/research-systems/research-information-management-system-rims/about-RIMS)
 RIOT|Reproducible Interpretable Open & Transparent Science||[reference](http://www.riotscience.co.uk/)
 RIs|Research Infrastructures||
 RMCA|Royal Museum for Central Africa|https://en.wikipedia.org/wiki/Royal_Museum_for_Central_Africa|[reference](https://www.africamuseum.be)
@@ -159,8 +168,8 @@ TDWG|Taxonomic Descriptions Work Group||[reference](https://www.tdwg.org/)
 TLS|Transport Layer Security|https://en.wikipedia.org/wiki/Transport_Layer_Security|[reference](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)
 TW|Tervuren Wood||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
 TWS|Tervuren Wood Samples/Specimens||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
-UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
+UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
 URI|Uniform Resource Identifier|https://en.wikipedia.org/wiki/Uniform_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3986)
