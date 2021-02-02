@@ -176,3 +176,5 @@ GCP,Google Cloud Platform,https://en.wikipedia.org/wiki/Google_Cloud_Platform,ht
 AHM,All Hands Meeting,,
 ESFRI,European Strategy Forum on Research Infrastructures,,https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/esfri_en
 GUPRI,"Globally Unique, Persistent and Resolvable Identifier",,https://fairsfair.eu/d22-fair-semantics-first-recommendations-request-comments/p-rec-1-use-globally-unique-persistent-and
+CWL,Common Workflow Language,https://en.wikipedia.org/wiki/Common_Workflow_Language,https://docs.dockstore.org/en/develop/getting-started/getting-started-with-cwl.html
+WDL,Workflow Description Language,,https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html
