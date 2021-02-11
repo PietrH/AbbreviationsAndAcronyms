@@ -17,6 +17,7 @@ CAF|Central African Flora||[reference](https://www.researchgate.net/project/Flor
 CARE|Collective-Benefit,Authority to Control, Responsibility, Ethics||[reference](https://www.gida-global.org/care)
 CART|Classification And Regression Tree|https://en.wikipedia.org/wiki/Decision_tree_learning|[reference](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)
 CAS|Central Authentication Service|https://en.wikipedia.org/wiki/Central_Authentication_Service|
+CBC|Collection of Botanical Curiosities||
 CBD|Convention on Biological Diversity|https://en.wikipedia.org/wiki/Convention_on_Biological_Diversity|[reference](https://www.cbd.int/)
 CD|Collection Descriptions||[reference](https://www.tdwg.org/community/cd/)
 CDPHE|Colorado Department of Public Health and Environment||[reference](https://www.colorado.gov/cdphe)
@@ -30,6 +31,7 @@ CRAR|Concurrent Relational Association Rule (mining)||[reference](https://doi.or
 CS|Citizen Science|https://en.wikipedia.org/wiki/Citizen_science|
 CSR|Corporate Social Responsibility|https://en.wikipedia.org/wiki/Corporate_social_responsibility|
 CURE|Course-based Undergraduate Research Experience||[reference](https://fys.ucdavis.edu/cures)
+CWL|Common Workflow Language|https://en.wikipedia.org/wiki/Common_Workflow_Language|[reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-cwl.html)
 DAG|Directed acyclic graph|https://en.wikipedia.org/wiki/Directed_acyclic_graph|[reference](https://cran.r-project.org/web/packages/ggdag/vignettes/intro-to-dags.html)
 DAI|Digitally Accessable Information||
 DAK|Digitally Accessable Knowledge||
@@ -175,5 +177,7 @@ UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org
 URI|Uniform Resource Identifier|https://en.wikipedia.org/wiki/Uniform_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3986)
 VA|Virtual Access||[reference](https://www.synthesys.info/access/virtual-access.html)
 VIAF|Virtual International Authority File|https://en.wikipedia.org/wiki/Virtual_International_Authority_File|[reference](https://viaf.org/)
+VPS|Virtual Private Server|https://en.wikipedia.org/wiki/Virtual_private_server|[reference](https://www.ibm.com/cloud/learn/vps)
+WDL|Workflow Description Language||[reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html)
 ZAP|Zelfstandig Academisch Personeel| https://nl.wikipedia.org/wiki/Hoofddocent|
 s.l.|sine locale, without a location||
