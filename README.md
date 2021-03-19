@@ -91,9 +91,12 @@ ILK|Indiginous and Local Knowledge|https://en.wikipedia.org/wiki/Traditional_kno
 INEA|Innovations and Networks Executive Agency||[reference](https://ec.europa.eu/inea/en/)
 IRI|Information Reuse and Integration||[reference](http://www.sis.pitt.edu/iri2018/)
 IRIs|Internationalized Resource Identifiers|https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3987)
+IS|Index Seminum|https://en.wikipedia.org/wiki/Index_Seminum|
+ITIS|Integrated Taxonomic Information System|https://en.wikipedia.org/wiki/Integrated_Taxonomic_Information_System|[reference](https://www.itis.gov/)
 JIT|Just In Time (Compilation)|https://en.wikipedia.org/wiki/Just-in-time_compilation|[reference](https://www.r-statistics.com/2012/04/speed-up-your-r-code-using-a-just-in-time-jit-compiler/ )
 KDD|Knowledge Discovery in Databases||[reference](https://www.techopedia.com/definition/25827/knowledge-discovery-in-databases-kdd)
 KML|Keyhole Markup Language|https://en.wikipedia.org/wiki/Keyhole_Markup_Language|[reference](https://www.ogc.org/standards/kml/)
+KPI|Key Performance Indicator|https://en.wikipedia.org/wiki/Performance_indicator|[reference](https://kpi.org/KPI-Basics)
 LDF|Linked Data Fragments||[reference](https://linkeddatafragments.org/concept/)
 LDN|Linked Data Notifications|https://en.wikipedia.org/wiki/Linked_Data_Notifications|[reference](https://www.w3.org/TR/ldn/)
 LDP|Linked Data Platform|https://en.wikipedia.org/wiki/Linked_Data_Platform|[reference](https://www.w3.org/TR/ldp-primer/)
@@ -102,17 +105,20 @@ LIMS|Laboratory Information Management System|https://en.wikipedia.org/wiki/Labo
 LOD|Linked Open Data||
 LODLAM|Linked Open Data in Library, Archives, and Museums||[reference](https://lodlam.net/)
 LOUD|Linked Open Usable Data||[reference](https://linked.art/loud/)
+LSID|Life Science Identifiers|https://en.wikipedia.org/wiki/LSID|
 MCA|Multiple Correspondence Analysis|https://en.wikipedia.org/wiki/Multiple_correspondence_analysis|[reference](https://www.displayr.com/correspondence-analysis-versus-multiple-correspondence-analysis-use/)
 MET|Morpho-Ecological Type||
 MFA|Multiple Factor Analysis|https://en.wikipedia.org/wiki/Multiple_factor_analysis|[reference](http://factominer.free.fr/factomethods/multiple-factor-analysis.html)
 MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
-MIDS|Minimum Information about a Digital Specimen||
 MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
+MIDS|Minimum Information about a Digital Specimen||
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
+MTA|Material Transfer Agreements|https://en.wikipedia.org/wiki/Material_transfer_agreement|[reference](https://legal.slac.stanford.edu/material-transfer-agreements-mtas)
 MVT|Marginal value theorem|https://en.wikipedia.org/wiki/Marginal_value_theorem|
 MoU|Memorandum of Understanding|https://en.wikipedia.org/wiki/Memorandum_of_understanding|
+NBGB|National Botanical Garden of Belgium||
 NCP|Natures Contributions to People||[reference](https://ipbes.net/news/natures-contributions-people-ncp-article-ipbes-experts-science)
 NHC|Natural History Collections||
 OBF|Open Bioinformatics Foundation|https://en.wikipedia.org/wiki/Open_Bioinformatics_Foundation|[reference](https://www.open-bio.org/)
@@ -170,12 +176,13 @@ TDWG|Taxonomic Descriptions Work Group||[reference](https://www.tdwg.org/)
 TLS|Transport Layer Security|https://en.wikipedia.org/wiki/Transport_Layer_Security|[reference](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)
 TW|Tervuren Wood||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
 TWS|Tervuren Wood Samples/Specimens||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
-UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
 UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
+UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
 URI|Uniform Resource Identifier|https://en.wikipedia.org/wiki/Uniform_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3986)
 VA|Virtual Access||[reference](https://www.synthesys.info/access/virtual-access.html)
+VBTA|Vereniging van Botanische Tuinen en Arboreta||[reference](https://www.botanischetuinen.be/nl/vereniging)
 VIAF|Virtual International Authority File|https://en.wikipedia.org/wiki/Virtual_International_Authority_File|[reference](https://viaf.org/)
 VPS|Virtual Private Server|https://en.wikipedia.org/wiki/Virtual_private_server|[reference](https://www.ibm.com/cloud/learn/vps)
 WDL|Workflow Description Language||[reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html)
