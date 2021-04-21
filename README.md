@@ -9,9 +9,11 @@ ARs|Association Rules|https://en.wikipedia.org/wiki/Association_rule_learning|[r
 ASR|Automatic Speech Recognition|https://en.wikipedia.org/wiki/Speech_recognition|[reference](https://aws.amazon.com/transcribe/)
 BGCI|Botanic Gardens Conservation International|https://en.wikipedia.org/wiki/Botanic_Gardens_Conservation_International|[reference](https://www.bgci.org/)
 BGS|British Geographic Survey|https://en.wikipedia.org/wiki/British_Geological_Survey|[reference](https://www.bgs.ac.uk/)
+BOVW|Bag Of Visual Words Model|https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision|
 BP|Best Practices|https://en.wikipedia.org/wiki/Best_practice|
 BRU|Biological Recording Unit||
 BSBI|Botanical Society of Britain and Ireland|https://en.wikipedia.org/wiki/Botanical_Society_of_Britain_and_Ireland|[reference](https://bsbi.org/)
+BoW|Bag of Words Model|https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision|
 Btree|self balancing tree data structure|https://en.wikipedia.org/wiki/B-tree|
 CAF|Central African Flora||[reference](https://www.researchgate.net/project/Flore-dAfrique-centrale)
 CARE|Collective-Benefit,Authority to Control, Responsibility, Ethics||[reference](https://www.gida-global.org/care)
@@ -44,6 +46,7 @@ DITOs|Doing It Together Science||[reference](http://togetherscience.eu/)
 DLF| Digital Library Federation|https://en.wikipedia.org/wiki/Digital_Library_Federation|[reference](https://www.diglib.org/)
 DO|Dissolved Oxygen||[reference](https://www.fondriest.com/environmental-measurements/parameters/water-quality/dissolved-oxygen/)
 DOIP|Digital Object Interface Protocol||[reference](https://www.dona.net/sites/default/files/2018-11/DOIPv2Spec_1.pdf)
+DPLA|Digital Public Library of America|https://en.wikipedia.org/wiki/Digital_Public_Library_of_America|[reference](https://dp.la/)
 DPO|Data Protection Officer|https://en.wikipedia.org/wiki/Data_Protection_Officer|[reference](https://edps.europa.eu/data-protection/data-protection/reference-library/data-protection-officer-dpo_en)
 DRAR|Discovery of Relational Association Rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 DRG|Dynamic Report Generation|https://en.wikipedia.org/wiki/Knitr|[reference](https://cran.r-project.org/web/packages/knitr/index.html)
@@ -54,8 +57,8 @@ ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European
 EDA|Exploratory Data Analysis|https://en.wikipedia.org/wiki/Exploratory_data_analysis|[reference](projecteuclid.org/download/pdf_1/euclid.aoms/1177704711)
 EDM| Europeana Data Model||[reference](https://pro.europeana.eu/resources/standardization-tools/edm-documentation)
 EML|Ecological Metadata Language|https://en.wikipedia.org/wiki/Ecological_Metadata_Language|
-ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotide_Archive|[reference](https://www.ebi.ac.uk/ena/browser/home)
 ENA|Europeana Network Association||[reference](https://pro.europeana.eu/network-association/sign-up)
+ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotide_Archive|[reference](https://www.ebi.ac.uk/ena/browser/home)
 ENM|Ecological Niche Modelling|https://en.wikipedia.org/wiki/Species_distribution_modelling|[reference](https://pdfs.semanticscholar.org/e98a/80aeec9ab38373397aa11109572abbb77ce4.pdf)
 EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html#EOF-and-Errors)
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
@@ -85,6 +88,7 @@ HITs|Human Intelligence Tasks||[reference](https://forum.turkerview.com/wiki/Hum
 HSTS|HTTP Strict Transport Security|https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security|[reference](https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it)
 HTAP|Hybrid Transactional/Analytical Processing|https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing|[reference](https://www.jamesserra.com/archive/2016/12/what-is-htap/)
 HTR|Handwritten Text Recognition|https://en.wikipedia.org/wiki/Handwriting_recognition|
+IA|Innovation Action||[reference](https://ec.europa.eu/research/participants/data/ref/h2020/wp/2014_2015/annexes/h2020-wp1415-annex-d-ia_en.pdf)
 IDA|Initial Data Analysis|https://en.wikipedia.org/wiki/Data_analysis#Initial_data_analysis|
 IGSN|International Geo Sample Number|https://en.wikipedia.org/wiki/International_Geo_Sample_Number|[reference](http://www.geosamples.org/igsnabout)
 ILK|Indiginous and Local Knowledge|https://en.wikipedia.org/wiki/Traditional_knowledge|[reference](http://www.unesco.org/new/en/natural-sciences/priority-areas/links/related-information/what-is-local-and-indigenous-knowledge/)
@@ -145,9 +149,11 @@ PPRS|People-Powered Research Science||[reference](https://www.sciencedirect.com/
 QoE|Quality of Experience|https://en.wikipedia.org/wiki/Quality_of_experience|[reference](https://www.techopedia.com/definition/25802/quality-of-experience-qoe)
 RARs|Relational association rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 RDA|Resource Description and Access|https://en.wikipedia.org/wiki/Resource_Description_and_Access|
+RDD|Resilient Distributed Datasets|https://en.wikipedia.org/wiki/Apache_Spark|[reference](https://www.tutorialspoint.com/apache_spark/apache_spark_rdd.htm)
 RDF|Resource Description Framework|https://en.wikipedia.org/wiki/Resource_Description_Framework|
 RDFS|RDF Schema|https://en.wikipedia.org/wiki/RDF_Schema|
 RDM|Research Data Management||[reference](https://researchdata.berkeley.edu/)
+RIA| Research and Innovation Action||[reference](https://ec.europa.eu/research/participants/data/ref/h2020/other/wp/2018-2020/annexes/h2020-wp1820-annex-d-ria_en.pdf)
 RIMS|Research Information Management System||[reference](https://www.newcastle.edu.au/research/resources/research-systems/research-information-management-system-rims/about-RIMS)
 RIOT|Reproducible Interpretable Open & Transparent Science||[reference](http://www.riotscience.co.uk/)
 RIs|Research Infrastructures||
