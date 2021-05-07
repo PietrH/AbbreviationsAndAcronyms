@@ -9,6 +9,7 @@ ARs|Association Rules|https://en.wikipedia.org/wiki/Association_rule_learning|[r
 ASR|Automatic Speech Recognition|https://en.wikipedia.org/wiki/Speech_recognition|[reference](https://aws.amazon.com/transcribe/)
 BGCI|Botanic Gardens Conservation International|https://en.wikipedia.org/wiki/Botanic_Gardens_Conservation_International|[reference](https://www.bgci.org/)
 BGS|British Geographic Survey|https://en.wikipedia.org/wiki/British_Geological_Survey|[reference](https://www.bgs.ac.uk/)
+BIT|Biodiversity Informatics Team||
 BOVW|Bag Of Visual Words Model|https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision|
 BP|Best Practices|https://en.wikipedia.org/wiki/Best_practice|
 BRU|Biological Recording Unit||
@@ -57,16 +58,16 @@ ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European
 EDA|Exploratory Data Analysis|https://en.wikipedia.org/wiki/Exploratory_data_analysis|[reference](projecteuclid.org/download/pdf_1/euclid.aoms/1177704711)
 EDM| Europeana Data Model||[reference](https://pro.europeana.eu/resources/standardization-tools/edm-documentation)
 EML|Ecological Metadata Language|https://en.wikipedia.org/wiki/Ecological_Metadata_Language|
-ENA|Europeana Network Association||[reference](https://pro.europeana.eu/network-association/sign-up)
 ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotide_Archive|[reference](https://www.ebi.ac.uk/ena/browser/home)
+ENA|Europeana Network Association||[reference](https://pro.europeana.eu/network-association/sign-up)
 ENM|Ecological Niche Modelling|https://en.wikipedia.org/wiki/Species_distribution_modelling|[reference](https://pdfs.semanticscholar.org/e98a/80aeec9ab38373397aa11109572abbb77ce4.pdf)
 EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html#EOF-and-Errors)
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
 ESFRI|European Strategy Forum on Research Infrastructures||[reference](https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/esfri_en)
 ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
 ETI|Everything To Index||
-ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 ETL|Entry Transfer Load|https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load|
+ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
 FAMD|Factor Analysis of Mixed Data|https://en.wikipedia.org/wiki/Factor_analysis_of_mixed_data|[reference](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/115-famd-factor-analysis-of-mixed-data-in-r-essentials/)
 FDA|FAIR Data Object||[reference](https://www.force11.org/fairprinciples)
@@ -114,8 +115,8 @@ MCA|Multiple Correspondence Analysis|https://en.wikipedia.org/wiki/Multiple_corr
 MET|Morpho-Ecological Type||
 MFA|Multiple Factor Analysis|https://en.wikipedia.org/wiki/Multiple_factor_analysis|[reference](http://factominer.free.fr/factomethods/multiple-factor-analysis.html)
 MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
-MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MIDS|Minimum Information about a Digital Specimen||
+MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
@@ -158,6 +159,7 @@ RIMS|Research Information Management System||[reference](https://www.newcastle.e
 RIOT|Reproducible Interpretable Open & Transparent Science||[reference](http://www.riotscience.co.uk/)
 RIs|Research Infrastructures||
 RMCA|Royal Museum for Central Africa|https://en.wikipedia.org/wiki/Royal_Museum_for_Central_Africa|[reference](https://www.africamuseum.be)
+ROR|Research Organization Registry||[reference](https://ror.org/)
 RRI|Responsible Research and Innovation|https://en.wikipedia.org/wiki/Responsible_Research_and_Innovation|[reference](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/responsible-research-innovation)
 RSE|Research Software Engineering|https://en.wikipedia.org/wiki/Research_software_engineering|[reference](https://society-rse.org/)
 RiC|Records in Contexts|https://en.wikipedia.org/wiki/Records_in_Contexts|[reference](https://www.ica.org/en/egad-ric-conceptual-model)
@@ -182,8 +184,8 @@ TDWG|Taxonomic Descriptions Work Group||[reference](https://www.tdwg.org/)
 TLS|Transport Layer Security|https://en.wikipedia.org/wiki/Transport_Layer_Security|[reference](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)
 TW|Tervuren Wood||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
 TWS|Tervuren Wood Samples/Specimens||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
-UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
+UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
 URI|Uniform Resource Identifier|https://en.wikipedia.org/wiki/Uniform_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3986)
