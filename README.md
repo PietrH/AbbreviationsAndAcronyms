@@ -7,9 +7,12 @@ AOB|Any Other Business / Bugs||
 ARK|Archival Resource Key||
 ARs|Association Rules|https://en.wikipedia.org/wiki/Association_rule_learning|[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 ASR|Automatic Speech Recognition|https://en.wikipedia.org/wiki/Speech_recognition|[reference](https://aws.amazon.com/transcribe/)
+AUP|Acceptable Use Policy|https://en.wikipedia.org/wiki/Acceptable_use_policy|[reference](https://helpdesk.ugent.be/account/en/REG000157EN.pdf)
+AWT|ARPHA Writing Tool||[reference](https://arpha.pensoft.net/)
 BGCI|Botanic Gardens Conservation International|https://en.wikipedia.org/wiki/Botanic_Gardens_Conservation_International|[reference](https://www.bgci.org/)
 BGS|British Geographic Survey|https://en.wikipedia.org/wiki/British_Geological_Survey|[reference](https://www.bgs.ac.uk/)
 BIT|Biodiversity Informatics Team||
+BKH|Biodiversity Knowledge Hub||
 BOVW|Bag Of Visual Words Model|https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision|
 BP|Best Practices|https://en.wikipedia.org/wiki/Best_practice|
 BRU|Biological Recording Unit||
@@ -58,20 +61,23 @@ ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European
 EDA|Exploratory Data Analysis|https://en.wikipedia.org/wiki/Exploratory_data_analysis|[reference](projecteuclid.org/download/pdf_1/euclid.aoms/1177704711)
 EDM| Europeana Data Model||[reference](https://pro.europeana.eu/resources/standardization-tools/edm-documentation)
 EML|Ecological Metadata Language|https://en.wikipedia.org/wiki/Ecological_Metadata_Language|
-ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotide_Archive|[reference](https://www.ebi.ac.uk/ena/browser/home)
 ENA|Europeana Network Association||[reference](https://pro.europeana.eu/network-association/sign-up)
+ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotide_Archive|[reference](https://www.ebi.ac.uk/ena/browser/home)
 ENM|Ecological Niche Modelling|https://en.wikipedia.org/wiki/Species_distribution_modelling|[reference](https://pdfs.semanticscholar.org/e98a/80aeec9ab38373397aa11109572abbb77ce4.pdf)
 EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html#EOF-and-Errors)
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
+ERIC|European Research Infrastructure Consortium|https://en.wikipedia.org/wiki/European_Research_Infrastructure_Consortium|[reference](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en)
 ESFRI|European Strategy Forum on Research Infrastructures||[reference](https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/esfri_en)
+ESG Data|Environment Social and Governance Data|https://w.wiki/zi9|[reference](https://datatopics.worldbank.org/esg/)
 ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
 ETI|Everything To Index||
-ETL|Entry Transfer Load|https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load|
 ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
+ETL|Entry Transfer Load|https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load|
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
 FAMD|Factor Analysis of Mixed Data|https://en.wikipedia.org/wiki/Factor_analysis_of_mixed_data|[reference](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/115-famd-factor-analysis-of-mixed-data-in-r-essentials/)
 FDA|FAIR Data Object||[reference](https://www.force11.org/fairprinciples)
 FDO|FAIR Digital Object||[reference](https://fairdo.org/)
+FDP|FAIR Data Place||
 FOSB|The Flemish Open Science Board||[reference](https://www.openaire.eu/blogs/flemish-open-science-board-launched-to-fulfill-european-engagement-and-invest-in-open-science)
 FP|Functional Programming|https://en.wikipedia.org/wiki/Functional_programming|[reference](http://www.defmacro.org/2006/06/19/fp.html)
 FTE|Full Time Equivalent|https://en.wikipedia.org/wiki/Full-time_equivalent|
@@ -80,6 +86,7 @@ GA|Grant Agreement||
 GBS|Genotyping by Sequencing|https://en.wikipedia.org/wiki/Genotyping_by_sequencing|
 GCP|Google Cloud Platform|https://en.wikipedia.org/wiki/Google_Cloud_Platform|[reference](https://cloud.google.com/)
 GDM|Generalized Dissimilarity Modeling||[reference](https://www.onlinelibrary.wiley.com/doi/10.1111/j.1472-4642.2007.00341.x)
+GGBN|Global Genome Biodiversity Network||[reference](https://www.ggbn.org/ggbn_portal/)
 GLAM|Galleries,Libraries,Archives,Museums||
 GOs|Genomics Observatories||
 GSP|Generic Services Projects||
@@ -146,6 +153,7 @@ PAM|Passive Acoustic Monitoring|https://en.wikipedia.org/wiki/Passive_acoustics|
 PCA|Principal Component Analysis|https://en.wikipedia.org/wiki/Principal_component_analysis|[reference](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)
 PID|Persistent Identifier|https://en.wikipedia.org/wiki/Persistent_identifier|
 PM|Project Manager||
+POPD|Processing Of Personal Data||[reference](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-constitutes-data-processing_en)
 PPRS|People-Powered Research Science||[reference](https://www.sciencedirect.com/science/article/pii/S0896627316307954)
 QoE|Quality of Experience|https://en.wikipedia.org/wiki/Quality_of_experience|[reference](https://www.techopedia.com/definition/25802/quality-of-experience-qoe)
 RARs|Relational association rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
@@ -193,6 +201,7 @@ VA|Virtual Access||[reference](https://www.synthesys.info/access/virtual-access.
 VBTA|Vereniging van Botanische Tuinen en Arboreta||[reference](https://www.botanischetuinen.be/nl/vereniging)
 VIAF|Virtual International Authority File|https://en.wikipedia.org/wiki/Virtual_International_Authority_File|[reference](https://viaf.org/)
 VPS|Virtual Private Server|https://en.wikipedia.org/wiki/Virtual_private_server|[reference](https://www.ibm.com/cloud/learn/vps)
+WAZA|World Association of Zoos and Aquariums||[reference](https://www.waza.org/)
 WDL|Workflow Description Language||[reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html)
 ZAP|Zelfstandig Academisch Personeel| https://nl.wikipedia.org/wiki/Hoofddocent|
 s.l.|sine locale, without a location||
