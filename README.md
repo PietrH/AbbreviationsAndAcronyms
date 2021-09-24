@@ -13,6 +13,7 @@ BGCI|Botanic Gardens Conservation International|https://en.wikipedia.org/wiki/Bo
 BGS|British Geographic Survey|https://en.wikipedia.org/wiki/British_Geological_Survey|[reference](https://www.bgs.ac.uk/)
 BIT|Biodiversity Informatics Team||
 BKH|Biodiversity Knowledge Hub||
+BNF|Backus–Naur form|https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form|[reference](https://www.garshol.priv.no/download/text/bnf.html)
 BOVW|Bag Of Visual Words Model|https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision|
 BP|Best Practices|https://en.wikipedia.org/wiki/Best_practice|
 BRU|Biological Recording Unit||
@@ -55,6 +56,7 @@ DPO|Data Protection Officer|https://en.wikipedia.org/wiki/Data_Protection_Office
 DRAR|Discovery of Relational Association Rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 DRG|Dynamic Report Generation|https://en.wikipedia.org/wiki/Knitr|[reference](https://cran.r-project.org/web/packages/knitr/index.html)
 DSI|Digital Sequence Information||[reference](http://nagoyaprotocol.myspecies.info/node/27)
+EBNF|Extended Backus–Naur form|https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form|[reference](https://www.garshol.priv.no/download/text/bnf.html)
 EBV|Essential Biodiversity Variables|https://en.wikipedia.org/wiki/Essential_Biodiversity_Variables|[reference](https://geobon.org/ebvs/what-are-ebvs/)
 EC|Electrical Conductivity||[reference](https://www.epa.gov/national-aquatic-resource-surveys/indicators-conductivity)
 ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European_Citizen_Science_Association|[reference](https://ecsa.citizen-science.net/)
@@ -122,8 +124,8 @@ MCA|Multiple Correspondence Analysis|https://en.wikipedia.org/wiki/Multiple_corr
 MET|Morpho-Ecological Type||
 MFA|Multiple Factor Analysis|https://en.wikipedia.org/wiki/Multiple_factor_analysis|[reference](http://factominer.free.fr/factomethods/multiple-factor-analysis.html)
 MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
-MIDS|Minimum Information about a Digital Specimen||
 MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
+MIDS|Minimum Information about a Digital Specimen||
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
