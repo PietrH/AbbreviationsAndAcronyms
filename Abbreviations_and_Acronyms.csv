@@ -207,3 +207,7 @@ ESG Data,Environment Social and Governance Data,https://w.wiki/zi9,https://datat
 EBNF,Extended Backus–Naur form,https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form,https://www.garshol.priv.no/download/text/bnf.html
 BNF,Backus–Naur form,https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form,https://www.garshol.priv.no/download/text/bnf.html
 DwC,DarwinCore,https://dwc.tdwg.org/,https://en.wikipedia.org/wiki/Darwin_Core
+DQ,Data Quality,,https://en.wikipedia.org/wiki/Data_quality
+FFU,Fitness For Use,,
+BDQ,Biodiversity Data Quality,,https://www.tdwg.org/community/bdq/
+AC,Audubon Core,,https://ac.tdwg.org/
