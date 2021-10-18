@@ -1,6 +1,7 @@
 Abbreviation|Meaning|Wiki_Link|Reference_Link
 ---|---|---|---
 ABS|Access & Benefit-Sharing||[reference](https://ec.europa.eu/environment/nature/biodiversity/international/abs/legislation_en.htm)
+AC|Audubon Core||[reference](https://ac.tdwg.org/)
 AHM|All Hands Meeting||
 AMT|AmazonMechanical Turk platform|https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk|[reference](https://www.mturk.com/)
 AOB|Any Other Business / Bugs||
@@ -9,6 +10,7 @@ ARs|Association Rules|https://en.wikipedia.org/wiki/Association_rule_learning|[r
 ASR|Automatic Speech Recognition|https://en.wikipedia.org/wiki/Speech_recognition|[reference](https://aws.amazon.com/transcribe/)
 AUP|Acceptable Use Policy|https://en.wikipedia.org/wiki/Acceptable_use_policy|[reference](https://helpdesk.ugent.be/account/en/REG000157EN.pdf)
 AWT|ARPHA Writing Tool||[reference](https://arpha.pensoft.net/)
+BDQ|Biodiversity Data Quality||[reference](https://www.tdwg.org/community/bdq/)
 BGCI|Botanic Gardens Conservation International|https://en.wikipedia.org/wiki/Botanic_Gardens_Conservation_International|[reference](https://www.bgci.org/)
 BGS|British Geographic Survey|https://en.wikipedia.org/wiki/British_Geological_Survey|[reference](https://www.bgs.ac.uk/)
 BIT|Biodiversity Informatics Team||
@@ -53,9 +55,11 @@ DO|Dissolved Oxygen||[reference](https://www.fondriest.com/environmental-measure
 DOIP|Digital Object Interface Protocol||[reference](https://www.dona.net/sites/default/files/2018-11/DOIPv2Spec_1.pdf)
 DPLA|Digital Public Library of America|https://en.wikipedia.org/wiki/Digital_Public_Library_of_America|[reference](https://dp.la/)
 DPO|Data Protection Officer|https://en.wikipedia.org/wiki/Data_Protection_Officer|[reference](https://edps.europa.eu/data-protection/data-protection/reference-library/data-protection-officer-dpo_en)
+DQ|Data Quality||[reference](https://en.wikipedia.org/wiki/Data_quality)
 DRAR|Discovery of Relational Association Rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 DRG|Dynamic Report Generation|https://en.wikipedia.org/wiki/Knitr|[reference](https://cran.r-project.org/web/packages/knitr/index.html)
 DSI|Digital Sequence Information||[reference](http://nagoyaprotocol.myspecies.info/node/27)
+DwC|DarwinCore|https://dwc.tdwg.org/|[reference](https://en.wikipedia.org/wiki/Darwin_Core)
 EBNF|Extended Backus–Naur form|https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form|[reference](https://www.garshol.priv.no/download/text/bnf.html)
 EBV|Essential Biodiversity Variables|https://en.wikipedia.org/wiki/Essential_Biodiversity_Variables|[reference](https://geobon.org/ebvs/what-are-ebvs/)
 EC|Electrical Conductivity||[reference](https://www.epa.gov/national-aquatic-resource-surveys/indicators-conductivity)
@@ -63,8 +67,8 @@ ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European
 EDA|Exploratory Data Analysis|https://en.wikipedia.org/wiki/Exploratory_data_analysis|[reference](projecteuclid.org/download/pdf_1/euclid.aoms/1177704711)
 EDM| Europeana Data Model||[reference](https://pro.europeana.eu/resources/standardization-tools/edm-documentation)
 EML|Ecological Metadata Language|https://en.wikipedia.org/wiki/Ecological_Metadata_Language|
-ENA|Europeana Network Association||[reference](https://pro.europeana.eu/network-association/sign-up)
 ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotide_Archive|[reference](https://www.ebi.ac.uk/ena/browser/home)
+ENA|Europeana Network Association||[reference](https://pro.europeana.eu/network-association/sign-up)
 ENM|Ecological Niche Modelling|https://en.wikipedia.org/wiki/Species_distribution_modelling|[reference](https://pdfs.semanticscholar.org/e98a/80aeec9ab38373397aa11109572abbb77ce4.pdf)
 EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html#EOF-and-Errors)
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
@@ -73,13 +77,14 @@ ESFRI|European Strategy Forum on Research Infrastructures||[reference](https://e
 ESG Data|Environment Social and Governance Data|https://w.wiki/zi9|[reference](https://datatopics.worldbank.org/esg/)
 ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
 ETI|Everything To Index||
-ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 ETL|Entry Transfer Load|https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load|
+ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
 FAMD|Factor Analysis of Mixed Data|https://en.wikipedia.org/wiki/Factor_analysis_of_mixed_data|[reference](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/115-famd-factor-analysis-of-mixed-data-in-r-essentials/)
 FDA|FAIR Data Object||[reference](https://www.force11.org/fairprinciples)
 FDO|FAIR Digital Object||[reference](https://fairdo.org/)
 FDP|FAIR Data Place||
+FFU|Fitness For Use||
 FOSB|The Flemish Open Science Board||[reference](https://www.openaire.eu/blogs/flemish-open-science-board-launched-to-fulfill-european-engagement-and-invest-in-open-science)
 FP|Functional Programming|https://en.wikipedia.org/wiki/Functional_programming|[reference](http://www.defmacro.org/2006/06/19/fp.html)
 FTE|Full Time Equivalent|https://en.wikipedia.org/wiki/Full-time_equivalent|
@@ -124,8 +129,8 @@ MCA|Multiple Correspondence Analysis|https://en.wikipedia.org/wiki/Multiple_corr
 MET|Morpho-Ecological Type||
 MFA|Multiple Factor Analysis|https://en.wikipedia.org/wiki/Multiple_factor_analysis|[reference](http://factominer.free.fr/factomethods/multiple-factor-analysis.html)
 MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
-MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MIDS|Minimum Information about a Digital Specimen||
+MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
