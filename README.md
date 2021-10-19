@@ -1,5 +1,6 @@
 Abbreviation|Meaning|Wiki_Link|Reference_Link
 ---|---|---|---
+ABCD|Access to Biological Collection Data|https://en.wikipedia.org/wiki/ABCD_Schema|[reference](https://abcd.tdwg.org/)
 ABS|Access & Benefit-Sharing||[reference](https://ec.europa.eu/environment/nature/biodiversity/international/abs/legislation_en.htm)
 AC|Audubon Core||[reference](https://ac.tdwg.org/)
 AHM|All Hands Meeting||
@@ -52,6 +53,7 @@ DHS|Digital Herbarium Specimens|https://en.wikipedia.org/wiki/Virtual_herbarium|
 DITOs|Doing It Together Science||[reference](http://togetherscience.eu/)
 DLF| Digital Library Federation|https://en.wikipedia.org/wiki/Digital_Library_Federation|[reference](https://www.diglib.org/)
 DO|Dissolved Oxygen||[reference](https://www.fondriest.com/environmental-measurements/parameters/water-quality/dissolved-oxygen/)
+DOI|Digital Object Identifier|https://en.wikipedia.org/wiki/Digital_object_identifier|[reference](https://doi.org)
 DOIP|Digital Object Interface Protocol||[reference](https://www.dona.net/sites/default/files/2018-11/DOIPv2Spec_1.pdf)
 DPLA|Digital Public Library of America|https://en.wikipedia.org/wiki/Digital_Public_Library_of_America|[reference](https://dp.la/)
 DPO|Data Protection Officer|https://en.wikipedia.org/wiki/Data_Protection_Officer|[reference](https://edps.europa.eu/data-protection/data-protection/reference-library/data-protection-officer-dpo_en)
@@ -67,8 +69,8 @@ ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European
 EDA|Exploratory Data Analysis|https://en.wikipedia.org/wiki/Exploratory_data_analysis|[reference](projecteuclid.org/download/pdf_1/euclid.aoms/1177704711)
 EDM| Europeana Data Model||[reference](https://pro.europeana.eu/resources/standardization-tools/edm-documentation)
 EML|Ecological Metadata Language|https://en.wikipedia.org/wiki/Ecological_Metadata_Language|
-ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotide_Archive|[reference](https://www.ebi.ac.uk/ena/browser/home)
 ENA|Europeana Network Association||[reference](https://pro.europeana.eu/network-association/sign-up)
+ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotide_Archive|[reference](https://www.ebi.ac.uk/ena/browser/home)
 ENM|Ecological Niche Modelling|https://en.wikipedia.org/wiki/Species_distribution_modelling|[reference](https://pdfs.semanticscholar.org/e98a/80aeec9ab38373397aa11109572abbb77ce4.pdf)
 EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html#EOF-and-Errors)
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
@@ -77,8 +79,9 @@ ESFRI|European Strategy Forum on Research Infrastructures||[reference](https://e
 ESG Data|Environment Social and Governance Data|https://w.wiki/zi9|[reference](https://datatopics.worldbank.org/esg/)
 ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
 ETI|Everything To Index||
-ETL|Entry Transfer Load|https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load|
 ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
+ETL|Entry Transfer Load|https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load|
+F2F|Face to Face|https://en.wikipedia.org/wiki/Face-to-face_interaction|
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
 FAMD|Factor Analysis of Mixed Data|https://en.wikipedia.org/wiki/Factor_analysis_of_mixed_data|[reference](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/115-famd-factor-analysis-of-mixed-data-in-r-essentials/)
 FDA|FAIR Data Object||[reference](https://www.force11.org/fairprinciples)
@@ -129,8 +132,8 @@ MCA|Multiple Correspondence Analysis|https://en.wikipedia.org/wiki/Multiple_corr
 MET|Morpho-Ecological Type||
 MFA|Multiple Factor Analysis|https://en.wikipedia.org/wiki/Multiple_factor_analysis|[reference](http://factominer.free.fr/factomethods/multiple-factor-analysis.html)
 MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
-MIDS|Minimum Information about a Digital Specimen||
 MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
+MIDS|Minimum Information about a Digital Specimen||
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
@@ -191,6 +194,7 @@ SPI|Science-Policy Interface||[reference](http://www.unesco.org/new/en/natural-s
 SPNHC|The Society for the Preservation of Natural History Collections|https://en.wikipedia.org/wiki/Society_for_the_Preservation_of_Natural_History_Collections|[reference](https://spnhc.org/)
 STSM|Short Term Scientific Mission||
 SWEET|Semantic Web for Earth and Environmental Terminology||[reference](https://github.com/ESIPFed/sweet)
+SaaS|Software as a Service|https://en.wikipedia.org/wiki/Software_as_a_service|[reference](https://www.salesforce.com/in/saas/)
 SoC|System On Chip|https://en.wikipedia.org/wiki/System_on_a_chip|
 TBPH|To Be Perfectly Honest||[reference](https://www.cyberdefinitions.com/definitions/TBPH.html)
 TDQM|Total Data Quality Management||
@@ -199,8 +203,8 @@ TDWG|Taxonomic Descriptions Work Group||[reference](https://www.tdwg.org/)
 TLS|Transport Layer Security|https://en.wikipedia.org/wiki/Transport_Layer_Security|[reference](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)
 TW|Tervuren Wood||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
 TWS|Tervuren Wood Samples/Specimens||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
-UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
 UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
+UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
 URI|Uniform Resource Identifier|https://en.wikipedia.org/wiki/Uniform_Resource_Identifier|[reference](https://tools.ietf.org/html/rfc3986)
