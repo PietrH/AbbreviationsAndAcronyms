@@ -212,3 +212,6 @@ FFU,Fitness For Use,,
 BDQ,Biodiversity Data Quality,,https://www.tdwg.org/community/bdq/
 AC,Audubon Core,,https://ac.tdwg.org/
 F2F,Face to Face,https://en.wikipedia.org/wiki/Face-to-face_interaction,
+ABCD,Access to Biological Collection Data,https://en.wikipedia.org/wiki/ABCD_Schema,https://abcd.tdwg.org/
+DOI,Digital Object Identifier,https://en.wikipedia.org/wiki/Digital_object_identifier,https://doi.org
+SaaS,Software as a Service,https://en.wikipedia.org/wiki/Software_as_a_service,https://www.salesforce.com/in/saas/
