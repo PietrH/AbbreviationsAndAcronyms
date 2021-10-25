@@ -9,6 +9,7 @@ AOB|Any Other Business / Bugs||
 ARK|Archival Resource Key||
 ARs|Association Rules|https://en.wikipedia.org/wiki/Association_rule_learning|[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 ASR|Automatic Speech Recognition|https://en.wikipedia.org/wiki/Speech_recognition|[reference](https://aws.amazon.com/transcribe/)
+AToM|Access to Memory||[reference](https://www.accesstomemory.org/en/)
 AUP|Acceptable Use Policy|https://en.wikipedia.org/wiki/Acceptable_use_policy|[reference](https://helpdesk.ugent.be/account/en/REG000157EN.pdf)
 AWT|ARPHA Writing Tool||[reference](https://arpha.pensoft.net/)
 BDQ|Biodiversity Data Quality||[reference](https://www.tdwg.org/community/bdq/)
@@ -69,8 +70,8 @@ ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European
 EDA|Exploratory Data Analysis|https://en.wikipedia.org/wiki/Exploratory_data_analysis|[reference](projecteuclid.org/download/pdf_1/euclid.aoms/1177704711)
 EDM| Europeana Data Model||[reference](https://pro.europeana.eu/resources/standardization-tools/edm-documentation)
 EML|Ecological Metadata Language|https://en.wikipedia.org/wiki/Ecological_Metadata_Language|
-ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotide_Archive|[reference](https://www.ebi.ac.uk/ena/browser/home)
 ENA|Europeana Network Association||[reference](https://pro.europeana.eu/network-association/sign-up)
+ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotide_Archive|[reference](https://www.ebi.ac.uk/ena/browser/home)
 ENM|Ecological Niche Modelling|https://en.wikipedia.org/wiki/Species_distribution_modelling|[reference](https://pdfs.semanticscholar.org/e98a/80aeec9ab38373397aa11109572abbb77ce4.pdf)
 EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html#EOF-and-Errors)
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
@@ -132,8 +133,8 @@ MCA|Multiple Correspondence Analysis|https://en.wikipedia.org/wiki/Multiple_corr
 MET|Morpho-Ecological Type||
 MFA|Multiple Factor Analysis|https://en.wikipedia.org/wiki/Multiple_factor_analysis|[reference](http://factominer.free.fr/factomethods/multiple-factor-analysis.html)
 MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
-MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MIDS|Minimum Information about a Digital Specimen||
+MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
@@ -203,8 +204,8 @@ TDWG|Taxonomic Descriptions Work Group||[reference](https://www.tdwg.org/)
 TLS|Transport Layer Security|https://en.wikipedia.org/wiki/Transport_Layer_Security|[reference](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)
 TW|Tervuren Wood||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
 TWS|Tervuren Wood Samples/Specimens||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
-UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
+UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UKCH|UK Centre for Ecology & Hydrology|https://en.wikipedia.org/wiki/UK_Centre_for_Ecology_%26_Hydrology|[reference](https://www.ceh.ac.uk/)
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
