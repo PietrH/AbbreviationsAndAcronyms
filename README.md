@@ -6,6 +6,7 @@ AC|Audubon Core||[reference](https://ac.tdwg.org/)
 AHM|All Hands Meeting||
 AMT|AmazonMechanical Turk platform|https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk|[reference](https://www.mturk.com/)
 AOB|Any Other Business / Bugs||
+ARIMA|Autoregressive Integrated Moving Average|https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average|[reference](https://otexts.com/fpp2/stationarity.html)
 ARK|Archival Resource Key||
 ARs|Association Rules|https://en.wikipedia.org/wiki/Association_rule_learning|[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 ASR|Automatic Speech Recognition|https://en.wikipedia.org/wiki/Speech_recognition|[reference](https://aws.amazon.com/transcribe/)
@@ -49,6 +50,7 @@ DAK|Digitally Accessable Knowledge||
 DAM|Digital Asset Management|https://en.wikipedia.org/wiki/Digital_asset_management|[reference](https://www.ibm.com/topics/digital-asset-management)
 DAMS|Digital Asset Management Systems||[reference](https://iiif.io/news/2017/05/01/letter-to-dams/)
 DDG|Dynamic Document Generation||[reference](https://www.researchgate.net/publication/337181550_A_Reproducible_Data_Analysis_Workflow_with_R_Markdown_Git_Make_and_Docker)
+DEIA|Diversity Equity Inclusion and Accessibility|https://www.nifa.usda.gov/diversity-equity-inclusion-accessibility-deia|
 DH|Digital Humanities|https://en.wikipedia.org/wiki/Digital_humanities|
 DHS|Digital Herbarium Specimens|https://en.wikipedia.org/wiki/Virtual_herbarium|
 DITOs|Doing It Together Science||[reference](http://togetherscience.eu/)
@@ -75,13 +77,15 @@ ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotid
 ENM|Ecological Niche Modelling|https://en.wikipedia.org/wiki/Species_distribution_modelling|[reference](https://pdfs.semanticscholar.org/e98a/80aeec9ab38373397aa11109572abbb77ce4.pdf)
 EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html#EOF-and-Errors)
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
+EOSC|European Open Science Cloud|https://en.wikipedia.org/wiki/European_Open_Science_Cloud|[reference](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/european-open-science-cloud-eosc_en)
 ERIC|European Research Infrastructure Consortium|https://en.wikipedia.org/wiki/European_Research_Infrastructure_Consortium|[reference](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en)
 ESFRI|European Strategy Forum on Research Infrastructures||[reference](https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/esfri_en)
 ESG Data|Environment Social and Governance Data|https://w.wiki/zi9|[reference](https://datatopics.worldbank.org/esg/)
 ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
 ETI|Everything To Index||
-ETL|Entry Transfer Load|https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load|
 ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
+ETL|Entry Transfer Load|https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load|
+EVBs|Essential Biodiversity Variables|https://geobon.org/ebvs/what-are-ebvs/|[reference](https://en.wikipedia.org/wiki/Essential_Biodiversity_Variables)
 F2F|Face to Face|https://en.wikipedia.org/wiki/Face-to-face_interaction|
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
 FAMD|Factor Analysis of Mixed Data|https://en.wikipedia.org/wiki/Factor_analysis_of_mixed_data|[reference](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/115-famd-factor-analysis-of-mixed-data-in-r-essentials/)
@@ -94,6 +98,7 @@ FP|Functional Programming|https://en.wikipedia.org/wiki/Functional_programming|[
 FTE|Full Time Equivalent|https://en.wikipedia.org/wiki/Full-time_equivalent|
 FdAC|Flore d'Afrique Centrale||[reference](http://floreafriquecentrale.org/)
 GA|Grant Agreement||
+GAM|Generalized additive model|https://en.wikipedia.org/wiki/Generalized_additive_model|[reference](https://towardsdatascience.com/generalised-additive-models-6dfbedf1350a)
 GBS|Genotyping by Sequencing|https://en.wikipedia.org/wiki/Genotyping_by_sequencing|
 GCP|Google Cloud Platform|https://en.wikipedia.org/wiki/Google_Cloud_Platform|[reference](https://cloud.google.com/)
 GDM|Generalized Dissimilarity Modeling||[reference](https://www.onlinelibrary.wiley.com/doi/10.1111/j.1472-4642.2007.00341.x)
@@ -108,7 +113,9 @@ HSTS|HTTP Strict Transport Security|https://en.wikipedia.org/wiki/HTTP_Strict_Tr
 HTAP|Hybrid Transactional/Analytical Processing|https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing|[reference](https://www.jamesserra.com/archive/2016/12/what-is-htap/)
 HTR|Handwritten Text Recognition|https://en.wikipedia.org/wiki/Handwriting_recognition|
 IA|Innovation Action||[reference](https://ec.europa.eu/research/participants/data/ref/h2020/wp/2014_2015/annexes/h2020-wp1415-annex-d-ia_en.pdf)
+IAS|Invasive Alien Species|https://en.wikipedia.org/wiki/Invasive_species|[reference](https://www.iucn.org/regions/europe/our-work/biodiversity-conservation/invasive-alien-species)
 IDA|Initial Data Analysis|https://en.wikipedia.org/wiki/Data_analysis#Initial_data_analysis|
+IDEAS|Inclusion Diversity Equity and Accessibility Strategies|https://www.rbwstrategy.com/inclusion-diversity-equity-and-accessibility-whats-the-big-i-d-e-a/|
 IGSN|International Geo Sample Number|https://en.wikipedia.org/wiki/International_Geo_Sample_Number|[reference](http://www.geosamples.org/igsnabout)
 ILK|Indiginous and Local Knowledge|https://en.wikipedia.org/wiki/Traditional_knowledge|[reference](http://www.unesco.org/new/en/natural-sciences/priority-areas/links/related-information/what-is-local-and-indigenous-knowledge/)
 INEA|Innovations and Networks Executive Agency||[reference](https://ec.europa.eu/inea/en/)
@@ -120,6 +127,7 @@ JIT|Just In Time (Compilation)|https://en.wikipedia.org/wiki/Just-in-time_compil
 KDD|Knowledge Discovery in Databases||[reference](https://www.techopedia.com/definition/25827/knowledge-discovery-in-databases-kdd)
 KML|Keyhole Markup Language|https://en.wikipedia.org/wiki/Keyhole_Markup_Language|[reference](https://www.ogc.org/standards/kml/)
 KPI|Key Performance Indicator|https://en.wikipedia.org/wiki/Performance_indicator|[reference](https://kpi.org/KPI-Basics)
+LDES|Linked Data Event Streams||[reference](https://semiceu.github.io/LinkedDataEventStreams/)
 LDF|Linked Data Fragments||[reference](https://linkeddatafragments.org/concept/)
 LDN|Linked Data Notifications|https://en.wikipedia.org/wiki/Linked_Data_Notifications|[reference](https://www.w3.org/TR/ldn/)
 LDP|Linked Data Platform|https://en.wikipedia.org/wiki/Linked_Data_Platform|[reference](https://www.w3.org/TR/ldp-primer/)
@@ -129,7 +137,9 @@ LOD|Linked Open Data||
 LODLAM|Linked Open Data in Library, Archives, and Museums||[reference](https://lodlam.net/)
 LOUD|Linked Open Usable Data||[reference](https://linked.art/loud/)
 LSID|Life Science Identifiers|https://en.wikipedia.org/wiki/LSID|
+LTER|Long Term Scientific Research (Site/Network)|https://en.wikipedia.org/wiki/Long_Term_Ecological_Research_Network|
 MCA|Multiple Correspondence Analysis|https://en.wikipedia.org/wiki/Multiple_correspondence_analysis|[reference](https://www.displayr.com/correspondence-analysis-versus-multiple-correspondence-analysis-use/)
+MCM|Management Committee Member (Cost Mobilse)||[reference](https://www.mobilise-action.eu/tag/management-committee/)
 MET|Morpho-Ecological Type||
 MFA|Multiple Factor Analysis|https://en.wikipedia.org/wiki/Multiple_factor_analysis|[reference](http://factominer.free.fr/factomethods/multiple-factor-analysis.html)
 MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
@@ -159,14 +169,18 @@ ORMS|Operating Resource Management System||[reference](https://tecrada.com/opera
 OS|Open Science|https://en.wikipedia.org/wiki/Open_science|[reference](https://openscience.com/)
 OTU|Operational Taxonomic Unit|https://en.wikipedia.org/wiki/Operational_taxonomic_unit|[reference](https://doi.org/10.1371%2Fjournal.pone.0070837)
 OWL|Web Ontology Language|https://en.wikipedia.org/wiki/Web_Ontology_Language|
+OWM|Onbezoldigd Wetenschappelijk Medewerker|https://www.cbs.nl/nl-nl/onze-diensten/methoden/begrippen/onbezoldigd-personeel|
 OpenDS|Open Digital Specimen||[reference](https://www.researchgate.net/publication/333854988_'openDS'_-_A_New_Standard_for_Digital_Specimens_and_Other_Natural_Science_Digital_Object_Types)
 PAM|Passive Acoustic Monitoring|https://en.wikipedia.org/wiki/Passive_acoustics|[reference](https://acousticmarinesystems.com/)
+PBD|Primary Biodiversity Data|https://serval.unil.ch/resource/serval:BIB_768D188CEA5B.P001/REF.pdf|[reference](https://en.wikipedia.org/wiki/Biodiversity_informatics)
+PBS|Portable Batch System|https://en.wikipedia.org/wiki/Portable_Batch_System|[reference](https://www.openpbs.org/)
 PCA|Principal Component Analysis|https://en.wikipedia.org/wiki/Principal_component_analysis|[reference](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)
 PID|Persistent Identifier|https://en.wikipedia.org/wiki/Persistent_identifier|
 PM|Project Manager||
 POPD|Processing Of Personal Data||[reference](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-constitutes-data-processing_en)
 PPRS|People-Powered Research Science||[reference](https://www.sciencedirect.com/science/article/pii/S0896627316307954)
 QoE|Quality of Experience|https://en.wikipedia.org/wiki/Quality_of_experience|[reference](https://www.techopedia.com/definition/25802/quality-of-experience-qoe)
+RA|Registration Authority|https://www.doi.org/registration_agencies.html|[reference](https://en.wikipedia.org/wiki/Registration_authority)
 RARs|Relational association rules||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 RDA|Resource Description and Access|https://en.wikipedia.org/wiki/Resource_Description_and_Access|
 RDD|Resilient Distributed Datasets|https://en.wikipedia.org/wiki/Apache_Spark|[reference](https://www.tutorialspoint.com/apache_spark/apache_spark_rdd.htm)
@@ -185,10 +199,13 @@ RiC|Records in Contexts|https://en.wikipedia.org/wiki/Records_in_Contexts|[refer
 SAD|(local) Species Abundance Distribution|https://en.wikipedia.org/wiki/Relative_species_abundance|[reference](https://dfzljdn9uc3pi.cloudfront.net/2016/1900/1/The_introduction_of_species_abundance_distribution.pdf)
 SAIV|Schedule As Independent Variable|https://en.wikipedia.org/wiki/Timeboxing|[reference](https://www.hypnobusters.com/blog/how-to-use-timeboxing-to-get-more-done/)
 SAM|Sequence Alignment Map format|https://en.wikipedia.org/wiki/SAM_(file_format)|[reference](https://samtools.github.io/hts-specs/)
+SAP|Sampling and Analysis Plan||[reference](https://www.calrecycle.ca.gov/swfacilities/cia/field/samplingplan)
+SAP|System Analysis Program|https://en.wikipedia.org/wiki/SAP|[reference](https://www.sap.com/about/company/what-is-sap.html)
 SDR|Specimen Data Refinery||[reference](https://doi.org/10.3897/biss.3.37647)
 SKOS|Simple Knowledge Organization System|https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System|[reference](https://www.w3.org/TR/skos-reference/)
 SLA|Service Level Agreement|https://en.wikipedia.org/wiki/Service-level_agreement|[reference](https://www.cio.com/article/2438284/outsourcing-sla-definitions-and-solutions.html)
 SME|Small and medium-sized enterprises|https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises|[reference](https://ec.europa.eu/growth/smes/business-friendly-environment/sme-definition_en)
+SMK| Seasonal Mann-Kendell Test||[reference](https://www.statisticshowto.com/seasonal-kendall-test/)
 SOC|Soil Organic Carbon|https://en.wikipedia.org/wiki/Soil_carbon|
 SOP|Standard operating procedure|https://en.wikipedia.org/wiki/Standard_operating_procedure|[reference](https://tallyfy.com/standard-operating-procedure-sop/)
 SPI|Science-Policy Interface||[reference](http://www.unesco.org/new/en/natural-sciences/science-technology/science-policy-and-society/science-policy-interface/)
@@ -202,10 +219,12 @@ TDQM|Total Data Quality Management||
 TDS|Total Dissolved Solids|https://en.wikipedia.org/wiki/Total_dissolved_solids|
 TDWG|Taxonomic Descriptions Work Group||[reference](https://www.tdwg.org/)
 TLS|Transport Layer Security|https://en.wikipedia.org/wiki/Transport_Layer_Security|[reference](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)
+TRE|Taxonomic Resolution Engine||
 TW|Tervuren Wood||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
 TWS|Tervuren Wood Samples/Specimens||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
-UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
+UAT|User Acceptance Testing|https://en.wikipedia.org/wiki/Acceptance_testing|[reference](https://www.gbif-uat.org/)
 UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
+UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
 UKCH|UK Centre for Ecology & Hydrology|https://en.wikipedia.org/wiki/UK_Centre_for_Ecology_%26_Hydrology|[reference](https://www.ceh.ac.uk/)
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
@@ -219,3 +238,4 @@ WDL|Workflow Description Language||[reference](https://docs.dockstore.org/en/dev
 XDF|Exchange Data Format|https://en.wikipedia.org/wiki/Data_exchange|[reference](https://www.tdwg.org/standards/xdf/)
 ZAP|Zelfstandig Academisch Personeel| https://nl.wikipedia.org/wiki/Hoofddocent|
 s.l.|sine locale, without a location||
+| Networking Action||
