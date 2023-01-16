@@ -239,4 +239,6 @@ PBD,Primary Biodiversity Data,https://serval.unil.ch/resource/serval:BIB_768D188
 EVBs,Essential Biodiversity Variables,https://geobon.org/ebvs/what-are-ebvs/,https://en.wikipedia.org/wiki/Essential_Biodiversity_Variables
 OWM,Onbezoldigd Wetenschappelijk Medewerker,https://www.cbs.nl/nl-nl/onze-diensten/methoden/begrippen/onbezoldigd-personeel,
 UAT,User Acceptence Testing,https://en.wikipedia.org/wiki/Acceptance_testing#User_acceptance_testing,https://www.testingxperts.com/blog/uat-testing
-SDG,Sustainable Development Goal,https://en.wikipedia.org/wiki/Sustainable_Development_Goals,https://en.wikipedia.org/wiki/Sustainable_Development_Goals
+SDG,Sustainable Development Goal,https://en.wikipedia.org/wiki/Sustainable_Development_Goals,https://sdgs.un.org/goals
+RDS,(Amazon) Relational Database Service,https://en.wikipedia.org/wiki/Amazon_Relational_Database_Service,https://aws.amazon.com/rds/
+
