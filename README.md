@@ -6,6 +6,8 @@ AC|Audubon Core||[reference](https://ac.tdwg.org/)
 AHM|All Hands Meeting||
 AMT|AmazonMechanical Turk platform|https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk|[reference](https://www.mturk.com/)
 AOB|Any Other Business / Bugs||
+ARID|Accept (some) Repetition In Documentation||[reference](https://www.writethedocs.org/guide/writing/docs-principles/#arid)
+ARID|Active Reviews for Intermediate Designs|https://en.wikipedia.org/wiki/Active_reviews_for_intermediate_designs|[reference](https://www.oreilly.com/library/view/software-architects-handbook/9781788624060/5c113f5a-ed1e-46b9-9d5a-bdf77adc176e.xhtml)
 ARIMA|Autoregressive Integrated Moving Average|https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average|[reference](https://otexts.com/fpp2/stationarity.html)
 ARK|Archival Resource Key||
 ARs|Association Rules|https://en.wikipedia.org/wiki/Association_rule_learning|[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
@@ -51,6 +53,7 @@ DAM|Digital Asset Management|https://en.wikipedia.org/wiki/Digital_asset_managem
 DAMS|Digital Asset Management Systems||[reference](https://iiif.io/news/2017/05/01/letter-to-dams/)
 DDG|Dynamic Document Generation||[reference](https://www.researchgate.net/publication/337181550_A_Reproducible_Data_Analysis_Workflow_with_R_Markdown_Git_Make_and_Docker)
 DEIA|Diversity Equity Inclusion and Accessibility|https://www.nifa.usda.gov/diversity-equity-inclusion-accessibility-deia|
+DEMNA|Département de l’Etude du milieu naturel et agricole|https://www.wikidata.org/wiki/Q108059898|[reference](http://environnement.wallonie.be/administration/demna.htm)
 DH|Digital Humanities|https://en.wikipedia.org/wiki/Digital_humanities|
 DHS|Digital Herbarium Specimens|https://en.wikipedia.org/wiki/Virtual_herbarium|
 DITOs|Doing It Together Science||[reference](http://togetherscience.eu/)
@@ -72,8 +75,8 @@ ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European
 EDA|Exploratory Data Analysis|https://en.wikipedia.org/wiki/Exploratory_data_analysis|[reference](projecteuclid.org/download/pdf_1/euclid.aoms/1177704711)
 EDM| Europeana Data Model||[reference](https://pro.europeana.eu/resources/standardization-tools/edm-documentation)
 EML|Ecological Metadata Language|https://en.wikipedia.org/wiki/Ecological_Metadata_Language|
-ENA|Europeana Network Association||[reference](https://pro.europeana.eu/network-association/sign-up)
 ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotide_Archive|[reference](https://www.ebi.ac.uk/ena/browser/home)
+ENA|Europeana Network Association||[reference](https://pro.europeana.eu/network-association/sign-up)
 ENM|Ecological Niche Modelling|https://en.wikipedia.org/wiki/Species_distribution_modelling|[reference](https://pdfs.semanticscholar.org/e98a/80aeec9ab38373397aa11109572abbb77ce4.pdf)
 EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html#EOF-and-Errors)
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
@@ -83,8 +86,8 @@ ESFRI|European Strategy Forum on Research Infrastructures||[reference](https://e
 ESG Data|Environment Social and Governance Data|https://w.wiki/zi9|[reference](https://datatopics.worldbank.org/esg/)
 ESTATE|Exploring Spatial daTa Association paTErns||[reference](https://www.cs.umb.edu/~ding/papers/ds2010.pdf)
 ETI|Everything To Index||
-ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 ETL|Entry Transfer Load|https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load|
+ETL|Extract Transform Load|https://en.wikipedia.org/wiki/Extract,_transform,_load|
 EVBs|Essential Biodiversity Variables|https://geobon.org/ebvs/what-are-ebvs/|[reference](https://en.wikipedia.org/wiki/Essential_Biodiversity_Variables)
 F2F|Face to Face|https://en.wikipedia.org/wiki/Face-to-face_interaction|
 FAIR|Findable, Accessible, Interoperable, Reusable|https://en.wikipedia.org/wiki/FAIR_data|
@@ -187,6 +190,8 @@ RDD|Resilient Distributed Datasets|https://en.wikipedia.org/wiki/Apache_Spark|[r
 RDF|Resource Description Framework|https://en.wikipedia.org/wiki/Resource_Description_Framework|
 RDFS|RDF Schema|https://en.wikipedia.org/wiki/RDF_Schema|
 RDM|Research Data Management||[reference](https://researchdata.berkeley.edu/)
+RDS|(Amazon) Relational Database Service|https://en.wikipedia.org/wiki/Amazon_Relational_Database_Service|[reference](https://aws.amazon.com/rds/)
+RFC|Request For Comments|https://en.wikipedia.org/wiki/Request_for_Comments|[reference](https://www.ietf.org/blog/how-read-rfc/)
 RIA| Research and Innovation Action||[reference](https://ec.europa.eu/research/participants/data/ref/h2020/other/wp/2018-2020/annexes/h2020-wp1820-annex-d-ria_en.pdf)
 RIMS|Research Information Management System||[reference](https://www.newcastle.edu.au/research/resources/research-systems/research-information-management-system-rims/about-RIMS)
 RIOT|Reproducible Interpretable Open & Transparent Science||[reference](http://www.riotscience.co.uk/)
@@ -201,6 +206,7 @@ SAIV|Schedule As Independent Variable|https://en.wikipedia.org/wiki/Timeboxing|[
 SAM|Sequence Alignment Map format|https://en.wikipedia.org/wiki/SAM_(file_format)|[reference](https://samtools.github.io/hts-specs/)
 SAP|Sampling and Analysis Plan||[reference](https://www.calrecycle.ca.gov/swfacilities/cia/field/samplingplan)
 SAP|System Analysis Program|https://en.wikipedia.org/wiki/SAP|[reference](https://www.sap.com/about/company/what-is-sap.html)
+SDG|Sustainable Development Goal|https://en.wikipedia.org/wiki/Sustainable_Development_Goals|[reference](https://sdgs.un.org/goals)
 SDR|Specimen Data Refinery||[reference](https://doi.org/10.3897/biss.3.37647)
 SKOS|Simple Knowledge Organization System|https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System|[reference](https://www.w3.org/TR/skos-reference/)
 SLA|Service Level Agreement|https://en.wikipedia.org/wiki/Service-level_agreement|[reference](https://www.cio.com/article/2438284/outsourcing-sla-definitions-and-solutions.html)
@@ -222,9 +228,10 @@ TLS|Transport Layer Security|https://en.wikipedia.org/wiki/Transport_Layer_Secur
 TRE|Taxonomic Resolution Engine||
 TW|Tervuren Wood||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
 TWS|Tervuren Wood Samples/Specimens||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
+UAT|User Acceptence Testing|https://en.wikipedia.org/wiki/Acceptance_testing#User_acceptance_testing|[reference](https://www.testingxperts.com/blog/uat-testing)
 UAT|User Acceptance Testing|https://en.wikipedia.org/wiki/Acceptance_testing|[reference](https://www.gbif-uat.org/)
-UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
+UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
 UKCH|UK Centre for Ecology & Hydrology|https://en.wikipedia.org/wiki/UK_Centre_for_Ecology_%26_Hydrology|[reference](https://www.ceh.ac.uk/)
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
