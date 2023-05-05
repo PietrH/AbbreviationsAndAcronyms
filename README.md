@@ -6,8 +6,8 @@ AC|Audubon Core||[reference](https://ac.tdwg.org/)
 AHM|All Hands Meeting||
 AMT|AmazonMechanical Turk platform|https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk|[reference](https://www.mturk.com/)
 AOB|Any Other Business / Bugs||
-ARID|Accept (some) Repetition In Documentation||[reference](https://www.writethedocs.org/guide/writing/docs-principles/#arid)
 ARID|Active Reviews for Intermediate Designs|https://en.wikipedia.org/wiki/Active_reviews_for_intermediate_designs|[reference](https://www.oreilly.com/library/view/software-architects-handbook/9781788624060/5c113f5a-ed1e-46b9-9d5a-bdf77adc176e.xhtml)
+ARID|Accept (some) Repetition In Documentation||[reference](https://www.writethedocs.org/guide/writing/docs-principles/#arid)
 ARIMA|Autoregressive Integrated Moving Average|https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average|[reference](https://otexts.com/fpp2/stationarity.html)
 ARK|Archival Resource Key||
 ARs|Association Rules|https://en.wikipedia.org/wiki/Association_rule_learning|[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
@@ -31,6 +31,7 @@ CAF|Central African Flora||[reference](https://www.researchgate.net/project/Flor
 CARE|Collective-Benefit,Authority to Control, Responsibility, Ethics||[reference](https://www.gida-global.org/care)
 CART|Classification And Regression Tree|https://en.wikipedia.org/wiki/Decision_tree_learning|[reference](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)
 CAS|Central Authentication Service|https://en.wikipedia.org/wiki/Central_Authentication_Service|
+CATREIN|Camera trap research infrastructure||[reference](https://www.lifewatch.be/en/camera-trap-research-infrastructure-catrein)
 CBC|Collection of Botanical Curiosities||
 CBD|Convention on Biological Diversity|https://en.wikipedia.org/wiki/Convention_on_Biological_Diversity|[reference](https://www.cbd.int/)
 CD|Collection Descriptions||[reference](https://www.tdwg.org/community/cd/)
@@ -44,6 +45,7 @@ CORS|Cross-origin resource sharing|https://en.wikipedia.org/wiki/Cross-origin_re
 CRAR|Concurrent Relational Association Rule (mining)||[reference](https://doi.org/10.1016/j.eswa.2019.01.082)
 CS|Citizen Science|https://en.wikipedia.org/wiki/Citizen_science|
 CSR|Corporate Social Responsibility|https://en.wikipedia.org/wiki/Corporate_social_responsibility|
+CT|Camera Trapping|https://en.wikipedia.org/wiki/Camera_trap|
 CURE|Course-based Undergraduate Research Experience||[reference](https://fys.ucdavis.edu/cures)
 CWL|Common Workflow Language|https://en.wikipedia.org/wiki/Common_Workflow_Language|[reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-cwl.html)
 DAG|Directed acyclic graph|https://en.wikipedia.org/wiki/Directed_acyclic_graph|[reference](https://cran.r-project.org/web/packages/ggdag/vignettes/intro-to-dags.html)
@@ -75,8 +77,8 @@ ECSA|European Citizen Science Association|https://en.wikipedia.org/wiki/European
 EDA|Exploratory Data Analysis|https://en.wikipedia.org/wiki/Exploratory_data_analysis|[reference](projecteuclid.org/download/pdf_1/euclid.aoms/1177704711)
 EDM| Europeana Data Model||[reference](https://pro.europeana.eu/resources/standardization-tools/edm-documentation)
 EML|Ecological Metadata Language|https://en.wikipedia.org/wiki/Ecological_Metadata_Language|
-ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotide_Archive|[reference](https://www.ebi.ac.uk/ena/browser/home)
 ENA|Europeana Network Association||[reference](https://pro.europeana.eu/network-association/sign-up)
+ENA|European Nucleotide Archive|https://en.wikipedia.org/wiki/European_Nucleotide_Archive|[reference](https://www.ebi.ac.uk/ena/browser/home)
 ENM|Ecological Niche Modelling|https://en.wikipedia.org/wiki/Species_distribution_modelling|[reference](https://pdfs.semanticscholar.org/e98a/80aeec9ab38373397aa11109572abbb77ce4.pdf)
 EOF|End Of File|https://en.wikipedia.org/wiki/End-of-file|[reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html#EOF-and-Errors)
 EOL|Encyclopedia of life|https://en.wikipedia.org/wiki/Encyclopedia_of_Life|[reference](https://eol.org)
@@ -117,6 +119,7 @@ HTAP|Hybrid Transactional/Analytical Processing|https://en.wikipedia.org/wiki/Hy
 HTR|Handwritten Text Recognition|https://en.wikipedia.org/wiki/Handwriting_recognition|
 IA|Innovation Action||[reference](https://ec.europa.eu/research/participants/data/ref/h2020/wp/2014_2015/annexes/h2020-wp1415-annex-d-ia_en.pdf)
 IAS|Invasive Alien Species|https://en.wikipedia.org/wiki/Invasive_species|[reference](https://www.iucn.org/regions/europe/our-work/biodiversity-conservation/invasive-alien-species)
+ICS|Implementation Conformance Statement|https://en.wikipedia.org/wiki/Protocol_implementation_conformance_statement|[reference](https://automatedbuildings.com/news/nov10/articles/opengeneral/101029125101opengeneral.html)
 IDA|Initial Data Analysis|https://en.wikipedia.org/wiki/Data_analysis#Initial_data_analysis|
 IDEAS|Inclusion Diversity Equity and Accessibility Strategies|https://www.rbwstrategy.com/inclusion-diversity-equity-and-accessibility-whats-the-big-i-d-e-a/|
 IGSN|International Geo Sample Number|https://en.wikipedia.org/wiki/International_Geo_Sample_Number|[reference](http://www.geosamples.org/igsnabout)
@@ -146,8 +149,9 @@ MCM|Management Committee Member (Cost Mobilse)||[reference](https://www.mobilise
 MET|Morpho-Ecological Type||
 MFA|Multiple Factor Analysis|https://en.wikipedia.org/wiki/Multiple_factor_analysis|[reference](http://factominer.free.fr/factomethods/multiple-factor-analysis.html)
 MICS|Minimum Information about a Digital Collection||[reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)
-MIDS|Minimum Information about a Digital Specimen||
 MIDS|MinimumInformation for Digital Specimens||[reference](https://icedig.eu/sites/default/files/deliverable_d3.5_icedig_stateofart_digitisation_of_pinned_insects.pdf)
+MIDS|Minimum Information about a Digital Specimen||
+MOBS|Machine Observations||[reference](https://www.tdwg.org/community/mobs/)
 MODS|Metadata Object Description Schema (compromise between MARC and DublinCore)|https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema|[reference](https://www.loc.gov/standards/mods/)
 MOF|Meta-Object Facility|https://en.wikipedia.org/wiki/Meta-Object_Facility|[reference](https://www.omg.org/spec/MOF/)
 MSE|Mean squared error|https://en.wikipedia.org/wiki/Mean_squared_error|
@@ -179,6 +183,7 @@ PBD|Primary Biodiversity Data|https://serval.unil.ch/resource/serval:BIB_768D188
 PBS|Portable Batch System|https://en.wikipedia.org/wiki/Portable_Batch_System|[reference](https://www.openpbs.org/)
 PCA|Principal Component Analysis|https://en.wikipedia.org/wiki/Principal_component_analysis|[reference](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)
 PID|Persistent Identifier|https://en.wikipedia.org/wiki/Persistent_identifier|
+PIF|Project Informatie Fiche||[reference](https://overheid.vlaanderen.be/goede-praktijken/projectmatig-werken-aan-de-hand-van-een-projectfiche)
 PM|Project Manager||
 POPD|Processing Of Personal Data||[reference](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-constitutes-data-processing_en)
 PPRS|People-Powered Research Science||[reference](https://www.sciencedirect.com/science/article/pii/S0896627316307954)
@@ -204,8 +209,8 @@ RiC|Records in Contexts|https://en.wikipedia.org/wiki/Records_in_Contexts|[refer
 SAD|(local) Species Abundance Distribution|https://en.wikipedia.org/wiki/Relative_species_abundance|[reference](https://dfzljdn9uc3pi.cloudfront.net/2016/1900/1/The_introduction_of_species_abundance_distribution.pdf)
 SAIV|Schedule As Independent Variable|https://en.wikipedia.org/wiki/Timeboxing|[reference](https://www.hypnobusters.com/blog/how-to-use-timeboxing-to-get-more-done/)
 SAM|Sequence Alignment Map format|https://en.wikipedia.org/wiki/SAM_(file_format)|[reference](https://samtools.github.io/hts-specs/)
-SAP|Sampling and Analysis Plan||[reference](https://www.calrecycle.ca.gov/swfacilities/cia/field/samplingplan)
 SAP|System Analysis Program|https://en.wikipedia.org/wiki/SAP|[reference](https://www.sap.com/about/company/what-is-sap.html)
+SAP|Sampling and Analysis Plan||[reference](https://www.calrecycle.ca.gov/swfacilities/cia/field/samplingplan)
 SDG|Sustainable Development Goal|https://en.wikipedia.org/wiki/Sustainable_Development_Goals|[reference](https://sdgs.un.org/goals)
 SDR|Specimen Data Refinery||[reference](https://doi.org/10.3897/biss.3.37647)
 SKOS|Simple Knowledge Organization System|https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System|[reference](https://www.w3.org/TR/skos-reference/)
@@ -230,8 +235,8 @@ TW|Tervuren Wood||[reference](https://www.africamuseum.be/en/research/collection
 TWS|Tervuren Wood Samples/Specimens||[reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)
 UAT|User Acceptence Testing|https://en.wikipedia.org/wiki/Acceptance_testing#User_acceptance_testing|[reference](https://www.testingxperts.com/blog/uat-testing)
 UAT|User Acceptance Testing|https://en.wikipedia.org/wiki/Acceptance_testing|[reference](https://www.gbif-uat.org/)
-UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
 UI|User Interface|https://en.wikipedia.org/wiki/User_interface|[reference](https://www.usability.gov/what-and-why/user-interface-design.html )
+UI|Unsigned Integer (capable of representing only non-negative integers)|https://en.wikipedia.org/wiki/Integer_(computer_science)|[reference](https://en.wikipedia.org/wiki/Integer_(computer_science))
 UKCH|UK Centre for Ecology & Hydrology|https://en.wikipedia.org/wiki/UK_Centre_for_Ecology_%26_Hydrology|[reference](https://www.ceh.ac.uk/)
 UML|Unified Modeling Language|https://en.wikipedia.org/wiki/Unified_Modeling_Language|
 UPGMA|Unweighted Pair Group Method with Arithmetic mean|https://en.wikipedia.org/wiki/UPGMA|
