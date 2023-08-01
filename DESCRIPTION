@@ -1,0 +1,14 @@
+Package: AbbreviationsAndAcronyms
+Title: This is where i Store a List of Abbreviations and Acronyms for all to See
+Version: 0.0.0.9000
+Authors@R: 
+    person("Pieter", "Huybrechts", , "pieter.huybrechts@inbo.be", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-6658-6062"))
+Description: What the package does (one paragraph).
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    magrittr,
+    readr
