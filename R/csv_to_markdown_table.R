@@ -7,14 +7,14 @@ csv_to_markdown_table <- function(csv_path) {
     dplyr::mutate(
       Wiki_Link = dplyr::case_when(
         is.na(Wiki_Link) ~ NA,
-        .default = format_link("Wikipedia", .data$Wiki_Link)
+        .default = format_link("Wikipedia", Wiki_Link)
       ),
       Reference_Link = dplyr::case_when(
         is.na(Reference_Link) ~ NA,
-        .default = format_link("Reference", .data$Reference_Link)
+        .default = format_link("Reference", Reference_Link)
       )
     ) %>%
-    dplyr::arrange(.data$Abbreviation) %>%
+    dplyr::arrange(Abbreviation) %>%
     knitr::kable() %>%
     readr::write_lines("README.md")
 }
