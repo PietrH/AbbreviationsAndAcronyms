@@ -2,6 +2,14 @@ format_link <- function(label, url) {
   sprintf("[%s](%s)", label, url)
 }
 
+#' Convert a csv file to a markdown table
+#'
+#' Also convert two columns to markdown links
+#'
+#' @param csv_path Character. Path to csv file.
+#'
+#' @export
+#'
 csv_to_markdown_table <- function(csv_path) {
   readr::read_csv(csv_path, show_col_types = FALSE) %>%
     dplyr::mutate(
