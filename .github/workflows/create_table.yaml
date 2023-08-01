@@ -57,6 +57,5 @@ jobs:
         with:
           github_token: ${{ secrets.WORKFLOWS }}
           target_branch: main
-          reviewer: PietrH
           label: update markdown table
           get_diff: false
