@@ -38,7 +38,7 @@ jobs:
 
       - name: Create table
         run: |
-          source("R/csv_to_markdown_table.R")
+          source("inst/create_markdown_table.R")
         shell: Rscript {0}
       - name: Commit and push changes
         uses: devops-infra/action-commit-push@master

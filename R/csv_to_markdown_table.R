@@ -18,5 +18,3 @@ csv_to_markdown_table <- function(csv_path) {
     knitr::kable() %>%
     readr::write_lines("README.md")
 }
-
-csv_to_markdown_table("Abbreviations_and_Acronyms.csv")
