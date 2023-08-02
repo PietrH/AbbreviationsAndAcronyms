@@ -214,6 +214,7 @@
 |SAM          |Sequence Alignment Map format                                               |[Wikipedia](https://en.wikipedia.org/wiki/SAM_(file_format))|[Reference](https://samtools.github.io/hts-specs/)|
 |SAP          |Sampling and Analysis Plan                                                  |           |[Reference](https://www.calrecycle.ca.gov/swfacilities/cia/field/samplingplan)|
 |SAP          |System Analysis Program                                                     |[Wikipedia](https://en.wikipedia.org/wiki/SAP)|[Reference](https://www.sap.com/about/company/what-is-sap.html)|
+|SBP          |Soorten Beschermings Programma                                              |           |[Reference](https://natuurenbos.vlaanderen.be/dieren-en-planten/soortenbescherming/soortenbeschermingsprogrammas-sbps)|
 |SDG          |Sustainable Development Goal                                                |[Wikipedia](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)|[Reference](https://sdgs.un.org/goals)|
 |SDR          |Specimen Data Refinery                                                      |           |[Reference](https://doi.org/10.3897/biss.3.37647)|
 |SKOS         |Simple Knowledge Organization System                                        |[Wikipedia](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System)|[Reference](https://www.w3.org/TR/skos-reference/)|
