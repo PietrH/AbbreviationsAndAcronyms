@@ -4,6 +4,7 @@
 |ABS          |Access & Benefit-Sharing                                                    |           |[Reference](https://ec.europa.eu/environment/nature/biodiversity/international/abs/legislation_en.htm)|
 |AC           |Audubon Core                                                                |           |[Reference](https://ac.tdwg.org/)|
 |AHM          |All Hands Meeting                                                           |           |               |
+|AMI          |Amazon Machine Image                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Machine_Image)|[Reference](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.htmlµ)|
 |AMT          |AmazonMechanical Turk platform                                              |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk)|[Reference](https://www.mturk.com/)|
 |AOB          |Any Other Business / Bugs                                                   |           |               |
 |ARID         |Accept (some) Repetition In Documentation                                   |           |[Reference](https://www.writethedocs.org/guide/writing/docs-principles/#arid)|
@@ -72,6 +73,7 @@
 |DSI          |Digital Sequence Information                                                |           |[Reference](http://nagoyaprotocol.myspecies.info/node/27)|
 |DwC          |DarwinCore                                                                  |[Wikipedia](https://dwc.tdwg.org/)|[Reference](https://en.wikipedia.org/wiki/Darwin_Core)|
 |EBNF         |Extended Backus–Naur form                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form)|[Reference](https://www.garshol.priv.no/download/text/bnf.html)|
+|EBS          |Amazon Elastic Block Store                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)|[Reference](https://aws.amazon.com/ebs/)|
 |EBV          |Essential Biodiversity Variables                                            |[Wikipedia](https://en.wikipedia.org/wiki/Essential_Biodiversity_Variables)|[Reference](https://geobon.org/ebvs/what-are-ebvs/)|
 |EC           |Electrical Conductivity                                                     |           |[Reference](https://www.epa.gov/national-aquatic-resource-surveys/indicators-conductivity)|
 |ECSA         |European Citizen Science Association                                        |[Wikipedia](https://en.wikipedia.org/wiki/European_Citizen_Science_Association)|[Reference](https://ecsa.citizen-science.net/)|
