@@ -255,6 +255,5 @@ MDA,Marine Data Archive,,https://marinedataarchive.org/introduction.php
 ER Model,Entity Relationship Model,https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model,https://www2.cs.uregina.ca/~bernatja/crowsfoot.html
 SBP,Soorten Beschermings Programma,,https://natuurenbos.vlaanderen.be/dieren-en-planten/soortenbescherming/soortenbeschermingsprogrammas-sbps
 EBS,Amazon Elastic Block Store,https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store,https://aws.amazon.com/ebs/
-AMI,Amazon Machine Image,https://en.wikipedia.org/wiki/Amazon_Machine_Image,https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.htmlµ
-SIMD,Single instruction multiple data,https://en.wikipedia.org/wiki/Single_instruction,_multiple_data,https://www.sciencedirect.com/topics/computer-science/single-instruction-multiple-data
-
+AMI,Amazon Machine Image,https://en.wikipedia.org/wiki/Amazon_Machine_Image,https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
+SIMD,Single instruction multiple data,"https://en.wikipedia.org/wiki/Single_instruction,_multiple_data",https://www.sciencedirect.com/topics/computer-science/single-instruction-multiple-data
