@@ -4,6 +4,7 @@
 |ABS          |Access & Benefit-Sharing                                                    |           |[Reference](https://ec.europa.eu/environment/nature/biodiversity/international/abs/legislation_en.htm)|
 |AC           |Audubon Core                                                                |           |[Reference](https://ac.tdwg.org/)|
 |AHM          |All Hands Meeting                                                           |           |               |
+|AMI          |Amazon Machine Image                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Machine_Image)|[Reference](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)|
 |AMT          |AmazonMechanical Turk platform                                              |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk)|[Reference](https://www.mturk.com/)|
 |AOB          |Any Other Business / Bugs                                                   |           |               |
 |ARID         |Accept (some) Repetition In Documentation                                   |           |[Reference](https://www.writethedocs.org/guide/writing/docs-principles/#arid)|
@@ -72,6 +73,7 @@
 |DSI          |Digital Sequence Information                                                |           |[Reference](http://nagoyaprotocol.myspecies.info/node/27)|
 |DwC          |DarwinCore                                                                  |[Wikipedia](https://dwc.tdwg.org/)|[Reference](https://en.wikipedia.org/wiki/Darwin_Core)|
 |EBNF         |Extended Backus–Naur form                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form)|[Reference](https://www.garshol.priv.no/download/text/bnf.html)|
+|EBS          |Amazon Elastic Block Store                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)|[Reference](https://aws.amazon.com/ebs/)|
 |EBV          |Essential Biodiversity Variables                                            |[Wikipedia](https://en.wikipedia.org/wiki/Essential_Biodiversity_Variables)|[Reference](https://geobon.org/ebvs/what-are-ebvs/)|
 |EC           |Electrical Conductivity                                                     |           |[Reference](https://www.epa.gov/national-aquatic-resource-surveys/indicators-conductivity)|
 |ECSA         |European Citizen Science Association                                        |[Wikipedia](https://en.wikipedia.org/wiki/European_Citizen_Science_Association)|[Reference](https://ecsa.citizen-science.net/)|
@@ -217,6 +219,7 @@
 |SBP          |Soorten Beschermings Programma                                              |           |[Reference](https://natuurenbos.vlaanderen.be/dieren-en-planten/soortenbescherming/soortenbeschermingsprogrammas-sbps)|
 |SDG          |Sustainable Development Goal                                                |[Wikipedia](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)|[Reference](https://sdgs.un.org/goals)|
 |SDR          |Specimen Data Refinery                                                      |           |[Reference](https://doi.org/10.3897/biss.3.37647)|
+|SIMD         |Single instruction multiple data                                            |[Wikipedia](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data)|[Reference](https://www.sciencedirect.com/topics/computer-science/single-instruction-multiple-data)|
 |SKOS         |Simple Knowledge Organization System                                        |[Wikipedia](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System)|[Reference](https://www.w3.org/TR/skos-reference/)|
 |SLA          |Service Level Agreement                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Service-level_agreement)|[Reference](https://www.cio.com/article/2438284/outsourcing-sla-definitions-and-solutions.html)|
 |SME          |Small and medium-sized enterprises                                          |[Wikipedia](https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises)|[Reference](https://ec.europa.eu/growth/smes/business-friendly-environment/sme-definition_en)|
