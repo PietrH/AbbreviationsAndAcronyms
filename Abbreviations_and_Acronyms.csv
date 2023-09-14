@@ -257,3 +257,4 @@ SBP,Soorten Beschermings Programma,,https://natuurenbos.vlaanderen.be/dieren-en-
 EBS,Amazon Elastic Block Store,https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store,https://aws.amazon.com/ebs/
 AMI,Amazon Machine Image,https://en.wikipedia.org/wiki/Amazon_Machine_Image,https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
 SIMD,Single instruction multiple data,"https://en.wikipedia.org/wiki/Single_instruction,_multiple_data",https://www.sciencedirect.com/topics/computer-science/single-instruction-multiple-data
+VPC,Virtual Private Cloud,https://en.wikipedia.org/wiki/Virtual_private_cloud,https://aws.amazon.com/vpc/
