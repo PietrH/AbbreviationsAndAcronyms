@@ -13,6 +13,7 @@
 |ARK          |Archival Resource Key                                                       |           |               |
 |ARs          |Association Rules                                                           |[Wikipedia](https://en.wikipedia.org/wiki/Association_rule_learning)|[Reference](https://doi.org/10.1016/j.eswa.2019.01.082)|
 |ASR          |Automatic Speech Recognition                                                |[Wikipedia](https://en.wikipedia.org/wiki/Speech_recognition)|[Reference](https://aws.amazon.com/transcribe/)|
+|AST          |Abstract Syntax Tree                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Abstract_syntax_tree)|[Reference](https://dev.to/balapriya/abstract-syntax-tree-ast-explained-in-plain-english-1h38)|
 |AToM         |Access to Memory                                                            |           |[Reference](https://www.accesstomemory.org/en/)|
 |AUP          |Acceptable Use Policy                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Acceptable_use_policy)|[Reference](https://helpdesk.ugent.be/account/en/REG000157EN.pdf)|
 |AWT          |ARPHA Writing Tool                                                          |           |[Reference](https://arpha.pensoft.net/)|
