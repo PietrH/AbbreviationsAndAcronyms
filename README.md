@@ -251,6 +251,7 @@
 |VA           |Virtual Access                                                              |           |[Reference](https://www.synthesys.info/access/virtual-access.html)|
 |VBTA         |Vereniging van Botanische Tuinen en Arboreta                                |           |[Reference](https://www.botanischetuinen.be/nl/vereniging)|
 |VIAF         |Virtual International Authority File                                        |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_International_Authority_File)|[Reference](https://viaf.org/)|
+|VPC          |Virtual Private Cloud                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_cloud)|[Reference](https://aws.amazon.com/vpc/)|
 |VPS          |Virtual Private Server                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_server)|[Reference](https://www.ibm.com/cloud/learn/vps)|
 |WAZA         |World Association of Zoos and Aquariums                                     |           |[Reference](https://www.waza.org/)|
 |WDL          |Workflow Description Language                                               |           |[Reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html)|
