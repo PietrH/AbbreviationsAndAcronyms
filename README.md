@@ -13,6 +13,7 @@
 |ARK          |Archival Resource Key                                                       |           |               |
 |ARs          |Association Rules                                                           |[Wikipedia](https://en.wikipedia.org/wiki/Association_rule_learning)|[Reference](https://doi.org/10.1016/j.eswa.2019.01.082)|
 |ASR          |Automatic Speech Recognition                                                |[Wikipedia](https://en.wikipedia.org/wiki/Speech_recognition)|[Reference](https://aws.amazon.com/transcribe/)|
+|AST          |Abstract Syntax Tree                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Abstract_syntax_tree)|[Reference](https://dev.to/balapriya/abstract-syntax-tree-ast-explained-in-plain-english-1h38)|
 |AToM         |Access to Memory                                                            |           |[Reference](https://www.accesstomemory.org/en/)|
 |AUP          |Acceptable Use Policy                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Acceptable_use_policy)|[Reference](https://helpdesk.ugent.be/account/en/REG000157EN.pdf)|
 |AWT          |ARPHA Writing Tool                                                          |           |[Reference](https://arpha.pensoft.net/)|
@@ -251,6 +252,7 @@
 |VA           |Virtual Access                                                              |           |[Reference](https://www.synthesys.info/access/virtual-access.html)|
 |VBTA         |Vereniging van Botanische Tuinen en Arboreta                                |           |[Reference](https://www.botanischetuinen.be/nl/vereniging)|
 |VIAF         |Virtual International Authority File                                        |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_International_Authority_File)|[Reference](https://viaf.org/)|
+|VPC          |Virtual Private Cloud                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_cloud)|[Reference](https://aws.amazon.com/vpc/)|
 |VPS          |Virtual Private Server                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_server)|[Reference](https://www.ibm.com/cloud/learn/vps)|
 |WAZA         |World Association of Zoos and Aquariums                                     |           |[Reference](https://www.waza.org/)|
 |WDL          |Workflow Description Language                                               |           |[Reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html)|
