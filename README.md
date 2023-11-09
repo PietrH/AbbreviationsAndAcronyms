@@ -29,6 +29,7 @@
 |BSBI         |Botanical Society of Britain and Ireland                                    |[Wikipedia](https://en.wikipedia.org/wiki/Botanical_Society_of_Britain_and_Ireland)|[Reference](https://bsbi.org/)|
 |BoW          |Bag of Words Model                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision)|               |
 |Btree        |self balancing tree data structure                                          |[Wikipedia](https://en.wikipedia.org/wiki/B-tree)|               |
+|CA           |Certificate authority                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Certificate_authority)|[Reference](https://www.ssl.com/faqs/what-is-a-certificate-authority/)|
 |CAF          |Central African Flora                                                       |           |[Reference](https://www.researchgate.net/project/Flore-dAfrique-centrale)|
 |CARE         |Collective-Benefit,Authority to Control, Responsibility, Ethics             |           |[Reference](https://www.gida-global.org/care)|
 |CART         |Classification And Regression Tree                                          |[Wikipedia](https://en.wikipedia.org/wiki/Decision_tree_learning)|[Reference](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)|
@@ -138,6 +139,7 @@
 |KDD          |Knowledge Discovery in Databases                                            |           |[Reference](https://www.techopedia.com/definition/25827/knowledge-discovery-in-databases-kdd)|
 |KML          |Keyhole Markup Language                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Keyhole_Markup_Language)|[Reference](https://www.ogc.org/standards/kml/)|
 |KPI          |Key Performance Indicator                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Performance_indicator)|[Reference](https://kpi.org/KPI-Basics)|
+|LDAP         |Lightweight Directory Access Protocol                                       |[Wikipedia](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)|[Reference](https://www.okta.com/identity-101/what-is-ldap/)|
 |LDES         |Linked Data Event Streams                                                   |           |[Reference](https://semiceu.github.io/LinkedDataEventStreams/)|
 |LDF          |Linked Data Fragments                                                       |           |[Reference](https://linkeddatafragments.org/concept/)|
 |LDN          |Linked Data Notifications                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Linked_Data_Notifications)|[Reference](https://www.w3.org/TR/ldn/)|
