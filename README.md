@@ -45,6 +45,7 @@
 |CKAN         |Comprehensive Knowledge Archive Network                                     |[Wikipedia](https://en.wikipedia.org/wiki/CKAN)|[Reference](https://ckan.org/)|
 |CMS          |Collection Management Systems                                               |[Wikipedia](https://en.wikipedia.org/wiki/Collections_management_system)|               |
 |CORS         |Cross-origin resource sharing                                               |[Wikipedia](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)|[Reference](https://fetch.spec.whatwg.org/#http-cors-protocol)|
+|CPI          |Central Posterior Interval                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Credible_interval)|[Reference](https://jeremypiger.com/assets/files/Introduction_to_Bayesian_Econometrics_I.pdf)|
 |CPUE         |Catch Per Unit Effort                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Catch_per_unit_effort)|[Reference](https://academic.oup.com/icesjms/article/63/8/1373/710477?login=false)|
 |CRAR         |Concurrent Relational Association Rule (mining)                             |           |[Reference](https://doi.org/10.1016/j.eswa.2019.01.082)|
 |CS           |Citizen Science                                                             |[Wikipedia](https://en.wikipedia.org/wiki/Citizen_science)|               |
@@ -120,6 +121,7 @@
 |GUPRI        |Globally Unique, Persistent and Resolvable Identifier                       |           |[Reference](https://fairsfair.eu/d22-fair-semantics-first-recommendations-request-comments/p-rec-1-use-globally-unique-persistent-and)|
 |GWR          |Geographically Weighted Regression                                          |[Wikipedia](https://en.wikipedia.org/wiki/Spatial_analysis#Spatial_regression)|[Reference](http://resources.esri.com/help/9.3/arcgisengine/java/GP_ToolRef/spatial_statistics_tools/geographically_weighted_regression_spatial_statistics_.htm)|
 |HITs         |Human Intelligence Tasks                                                    |           |[Reference](https://forum.turkerview.com/wiki/Human-Intelligence-Tasks-HITs)|
+|HPDI         |Highest Posterior Density Interval                                          |[Wikipedia](https://en.wikipedia.org/wiki/Credible_interval)|[Reference](https://stats.stackexchange.com/questions/148439/what-is-a-highest-density-region-hdr)|
 |HSTS         |HTTP Strict Transport Security                                              |[Wikipedia](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)|[Reference](https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it)|
 |HTAP         |Hybrid Transactional/Analytical Processing                                  |[Wikipedia](https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing)|[Reference](https://www.jamesserra.com/archive/2016/12/what-is-htap/)|
 |HTR          |Handwritten Text Recognition                                                |[Wikipedia](https://en.wikipedia.org/wiki/Handwriting_recognition)|               |
