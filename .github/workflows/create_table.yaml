@@ -2,6 +2,8 @@ on:
   push:
     branches:
     - main
+    paths:
+    - Abbreviations_and_Acronyms.csv
 
 name: 'create-table'
 
