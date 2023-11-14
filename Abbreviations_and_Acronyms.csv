@@ -262,3 +262,5 @@ AST,Abstract Syntax Tree,https://en.wikipedia.org/wiki/Abstract_syntax_tree,http
 CA,Certificate authority,https://en.wikipedia.org/wiki/Certificate_authority,https://www.ssl.com/faqs/what-is-a-certificate-authority/
 LDAP,Lightweight Directory Access Protocol,https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol,https://www.okta.com/identity-101/what-is-ldap/
 MCMC,Markov Chain Monte Carlo,https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo, https://github.com/inbo/bayesian-workshop-2023/blob/main/source/workshop_1_mcmc_en_brms.Rmd
+HPDI,Highest Posterior Density Interval,https://en.wikipedia.org/wiki/Credible_interval,https://stats.stackexchange.com/questions/148439/what-is-a-highest-density-region-hdr
+CPI,Central Posterior Interval,https://en.wikipedia.org/wiki/Credible_interval,https://jeremypiger.com/assets/files/Introduction_to_Bayesian_Econometrics_I.pdf
