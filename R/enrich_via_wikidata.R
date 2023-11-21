@@ -29,10 +29,19 @@ cleaned_abbr <-
       .default = NA
       ))
 
+# no links in the wrong column
 assertthat::assert_that(!any(stringr::str_detect(na.omit(cleaned_abbr$ref),
                                                  "wikipedia")))
 assertthat::assert_that(all(stringr::str_detect(na.omit(cleaned_abbr$wiki),
                                                  "wikipedia")))
+
+# no links have been removed
+assertthat::assertthat(setequal(na.omit(c(
+  cleaned_abbr$wiki, cleaned_abbr$ref
+)),
+na.omit(
+  c(cleaned_abbr$Wiki_Link, cleaned_abbr$Reference_Link)
+)))
 # enrichment --------------------------------------------------------------
 
 
