@@ -10,7 +10,8 @@ library(dplyr)
 
 # there are a few cases where the wiki and the reference link are switched
 
-readr::read_csv("Abbreviations_and_Acronyms.csv",
+cleaned_abbr <-
+  readr::read_csv("Abbreviations_and_Acronyms.csv",
                 show_col_types = FALSE) %>%
   mutate(wiki = case_when(
     stringr::str_detect(Wiki_Link, "wikipedia") ~
@@ -25,10 +26,13 @@ readr::read_csv("Abbreviations_and_Acronyms.csv",
         !stringr::str_detect(Wiki_Link, "wikipedia") &
         !is.na(Wiki_Link) ~
         Wiki_Link,
-      default = NA
-      )) %>%
-  View()
+      .default = NA
+      ))
 
+assertthat::assert_that(!any(stringr::str_detect(na.omit(cleaned_abbr$ref),
+                                                 "wikipedia")))
+assertthat::assert_that(all(stringr::str_detect(na.omit(cleaned_abbr$wiki),
+                                                 "wikipedia")))
 # enrichment --------------------------------------------------------------
 
 
