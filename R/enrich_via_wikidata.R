@@ -5,6 +5,33 @@
 # categorisation for filtering in the terms list
 library(dplyr)
 
+
+# clean the csv -----------------------------------------------------------
+
+# there are a few cases where the wiki and the reference link are switched
+
+readr::read_csv("Abbreviations_and_Acronyms.csv",
+                show_col_types = FALSE) %>%
+  mutate(wiki = case_when(
+    stringr::str_detect(Wiki_Link, "wikipedia") ~
+      Wiki_Link,
+    is.na(Wiki_Link) & stringr::str_detect(Reference_Link, "wikipedia") ~
+      Reference_Link,
+    .default = NA
+    )) %>% mutate(ref = case_when(
+      !stringr::str_detect(Reference_Link, "wikipedia") ~
+        Reference_Link,
+      is.na(Reference_Link) &
+        !stringr::str_detect(Wiki_Link, "wikipedia") &
+        !is.na(Wiki_Link) ~
+        Wiki_Link,
+      default = NA
+      )) %>%
+  View()
+
+# enrichment --------------------------------------------------------------
+
+
 get_pageprops <- function(title, domain) {
   httr2::request(glue::glue("https://{domain}.wikipedia.org/w/api.php")) |>
     httr2::req_url_query(
