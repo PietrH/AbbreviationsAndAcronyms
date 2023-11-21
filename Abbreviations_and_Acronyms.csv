@@ -33,7 +33,7 @@ CHI/HCI,Computer-Human Interaction/Interface,https://en.wikipedia.org/wiki/Human
 CHI,Cultural Heritage Institution,,
 FAIR,"Findable, Accessible, Interoperable, Reusable",https://en.wikipedia.org/wiki/FAIR_data,
 CARE,"Collective-Benefit,Authority to Control, Responsibility, Ethics",,https://www.gida-global.org/care
-EDM, Europeana Data Model,,https://pro.europeana.eu/resources/standardization-tools/edm-documentation
+EDM,Europeana Data Model,,https://pro.europeana.eu/resources/standardization-tools/edm-documentation
 OpenDS,Open Digital Specimen,,https://www.researchgate.net/publication/333854988_'openDS'_-_A_New_Standard_for_Digital_Specimens_and_Other_Natural_Science_Digital_Object_Types
 ENM,Ecological Niche Modelling,https://en.wikipedia.org/wiki/Species_distribution_modelling,https://pdfs.semanticscholar.org/e98a/80aeec9ab38373397aa11109572abbb77ce4.pdf
 DAG,Directed acyclic graph,https://en.wikipedia.org/wiki/Directed_acyclic_graph,https://cran.r-project.org/web/packages/ggdag/vignettes/intro-to-dags.html
@@ -56,9 +56,9 @@ SPNHC,The Society for the Preservation of Natural History Collections,https://en
 TDQM,Total Data Quality Management,,
 KDD,Knowledge Discovery in Databases,,https://www.techopedia.com/definition/25827/knowledge-discovery-in-databases-kdd
 MVT,Marginal value theorem,https://en.wikipedia.org/wiki/Marginal_value_theorem,
-JIT,Just In Time (Compilation),https://en.wikipedia.org/wiki/Just-in-time_compilation,https://www.r-statistics.com/2012/04/speed-up-your-r-code-using-a-just-in-time-jit-compiler/ 
+JIT,Just In Time (Compilation),https://en.wikipedia.org/wiki/Just-in-time_compilation,https://www.r-statistics.com/2012/04/speed-up-your-r-code-using-a-just-in-time-jit-compiler/
 MSE,Mean squared error,https://en.wikipedia.org/wiki/Mean_squared_error,
-ZAP,Zelfstandig Academisch Personeel, https://nl.wikipedia.org/wiki/Hoofddocent,
+ZAP,Zelfstandig Academisch Personeel,https://nl.wikipedia.org/wiki/Hoofddocent,
 NHC,Natural History Collections,,
 GDM,Generalized Dissimilarity Modeling,,https://www.onlinelibrary.wiley.com/doi/10.1111/j.1472-4642.2007.00341.x
 ARs,Association Rules,https://en.wikipedia.org/wiki/Association_rule_learning,https://doi.org/10.1016/j.eswa.2019.01.082
@@ -75,7 +75,7 @@ UML,Unified Modeling Language,https://en.wikipedia.org/wiki/Unified_Modeling_Lan
 MOF,Meta-Object Facility,https://en.wikipedia.org/wiki/Meta-Object_Facility,https://www.omg.org/spec/MOF/
 OMG,Object Management Group,https://en.wikipedia.org/wiki/Object_Management_Group,https://www.omg.org/
 SLA,Service Level Agreement,https://en.wikipedia.org/wiki/Service-level_agreement,https://www.cio.com/article/2438284/outsourcing-sla-definitions-and-solutions.html
-DLF, Digital Library Federation,https://en.wikipedia.org/wiki/Digital_Library_Federation,https://www.diglib.org/
+DLF,Digital Library Federation,https://en.wikipedia.org/wiki/Digital_Library_Federation,https://www.diglib.org/
 OS,Open Science,https://en.wikipedia.org/wiki/Open_science,https://openscience.com/
 DITOs,Doing It Together Science,,http://togetherscience.eu/
 ECSA,European Citizen Science Association,https://en.wikipedia.org/wiki/European_Citizen_Science_Association,https://ecsa.citizen-science.net/
@@ -89,7 +89,7 @@ SoC,System On Chip,https://en.wikipedia.org/wiki/System_on_a_chip,
 SOC,Soil Organic Carbon,https://en.wikipedia.org/wiki/Soil_carbon,
 CORS,Cross-origin resource sharing,https://en.wikipedia.org/wiki/Cross-origin_resource_sharing,https://fetch.spec.whatwg.org/#http-cors-protocol
 UI,Unsigned Integer (capable of representing only non-negative integers),https://en.wikipedia.org/wiki/Integer_(computer_science),https://en.wikipedia.org/wiki/Integer_(computer_science)
-UI,User Interface,https://en.wikipedia.org/wiki/User_interface,https://www.usability.gov/what-and-why/user-interface-design.html 
+UI,User Interface,https://en.wikipedia.org/wiki/User_interface,https://www.usability.gov/what-and-why/user-interface-design.html
 IRI,Information Reuse and Integration,,http://www.sis.pitt.edu/iri2018/
 IRIs,Internationalized Resource Identifiers,https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier,https://tools.ietf.org/html/rfc3987
 URI,Uniform Resource Identifier,https://en.wikipedia.org/wiki/Uniform_Resource_Identifier,https://tools.ietf.org/html/rfc3986
@@ -188,7 +188,7 @@ MTA,Material Transfer Agreements,https://en.wikipedia.org/wiki/Material_transfer
 IS,Index Seminum,https://en.wikipedia.org/wiki/Index_Seminum,
 VBTA,Vereniging van Botanische Tuinen en Arboreta,,https://www.botanischetuinen.be/nl/vereniging
 IA,Innovation Action,,https://ec.europa.eu/research/participants/data/ref/h2020/wp/2014_2015/annexes/h2020-wp1415-annex-d-ia_en.pdf
-RIA, Research and Innovation Action,,https://ec.europa.eu/research/participants/data/ref/h2020/other/wp/2018-2020/annexes/h2020-wp1820-annex-d-ria_en.pdf
+RIA,Research and Innovation Action,,https://ec.europa.eu/research/participants/data/ref/h2020/other/wp/2018-2020/annexes/h2020-wp1820-annex-d-ria_en.pdf
 BoW,Bag of Words Model,https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision,
 BOVW,Bag Of Visual Words Model,https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision,
 RDD,Resilient Distributed Datasets,https://en.wikipedia.org/wiki/Apache_Spark,https://www.tutorialspoint.com/apache_spark/apache_spark_rdd.htm
@@ -223,21 +223,21 @@ IAS,Invasive Alien Species,https://en.wikipedia.org/wiki/Invasive_species,https:
 EOSC,European Open Science Cloud,https://en.wikipedia.org/wiki/European_Open_Science_Cloud,https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/european-open-science-cloud-eosc_en
 SAP,Sampling and Analysis Plan,,https://www.calrecycle.ca.gov/swfacilities/cia/field/samplingplan
 SAP,System Analysis Program,https://en.wikipedia.org/wiki/SAP,https://www.sap.com/about/company/what-is-sap.html
-NA, Networking Action,,
+NA,Networking Action,,
 PBS,Portable Batch System,https://en.wikipedia.org/wiki/Portable_Batch_System,https://www.openpbs.org/
 LTER,Long Term Scientific Research (Site/Network),https://en.wikipedia.org/wiki/Long_Term_Ecological_Research_Network,
 ARIMA,Autoregressive Integrated Moving Average,https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average,https://otexts.com/fpp2/stationarity.html
-SMK, Seasonal Mann-Kendell Test,,https://www.statisticshowto.com/seasonal-kendall-test/
+SMK,Seasonal Mann-Kendell Test,,https://www.statisticshowto.com/seasonal-kendall-test/
 GAM,Generalized additive model,https://en.wikipedia.org/wiki/Generalized_additive_model,https://towardsdatascience.com/generalised-additive-models-6dfbedf1350a
 MCM,Management Committee Member (Cost Mobilse),,https://www.mobilise-action.eu/tag/management-committee/
 RA,Registration Authority,https://www.doi.org/registration_agencies.html,https://en.wikipedia.org/wiki/Registration_authority
 TRE,Taxonomic Resolution Engine,,
 LDES,Linked Data Event Streams,,https://semiceu.github.io/LinkedDataEventStreams/
-IDEAS,Inclusion Diversity Equity and Accessibility Strategies,https://www.rbwstrategy.com/inclusion-diversity-equity-and-accessibility-whats-the-big-i-d-e-a/,
-DEIA,Diversity Equity Inclusion and Accessibility,https://www.nifa.usda.gov/diversity-equity-inclusion-accessibility-deia,
+IDEAS,Inclusion Diversity Equity and Accessibility Strategies,,https://www.rbwstrategy.com/inclusion-diversity-equity-and-accessibility-whats-the-big-i-d-e-a/
+DEIA,Diversity Equity Inclusion and Accessibility,,https://www.nifa.usda.gov/diversity-equity-inclusion-accessibility-deia
 PBD,Primary Biodiversity Data,https://serval.unil.ch/resource/serval:BIB_768D188CEA5B.P001/REF.pdf,https://en.wikipedia.org/wiki/Biodiversity_informatics
 EVBs,Essential Biodiversity Variables,https://geobon.org/ebvs/what-are-ebvs/,https://en.wikipedia.org/wiki/Essential_Biodiversity_Variables
-OWM,Onbezoldigd Wetenschappelijk Medewerker,https://www.cbs.nl/nl-nl/onze-diensten/methoden/begrippen/onbezoldigd-personeel,
+OWM,Onbezoldigd Wetenschappelijk Medewerker,,https://www.cbs.nl/nl-nl/onze-diensten/methoden/begrippen/onbezoldigd-personeel
 UAT,User Acceptence Testing,https://en.wikipedia.org/wiki/Acceptance_testing#User_acceptance_testing,https://www.testingxperts.com/blog/uat-testing
 SDG,Sustainable Development Goal,https://en.wikipedia.org/wiki/Sustainable_Development_Goals,https://sdgs.un.org/goals
 RDS,(Amazon) Relational Database Service,https://en.wikipedia.org/wiki/Amazon_Relational_Database_Service,https://aws.amazon.com/rds/
@@ -261,6 +261,6 @@ VPC,Virtual Private Cloud,https://en.wikipedia.org/wiki/Virtual_private_cloud,ht
 AST,Abstract Syntax Tree,https://en.wikipedia.org/wiki/Abstract_syntax_tree,https://dev.to/balapriya/abstract-syntax-tree-ast-explained-in-plain-english-1h38
 CA,Certificate authority,https://en.wikipedia.org/wiki/Certificate_authority,https://www.ssl.com/faqs/what-is-a-certificate-authority/
 LDAP,Lightweight Directory Access Protocol,https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol,https://www.okta.com/identity-101/what-is-ldap/
-MCMC,Markov Chain Monte Carlo,https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo, https://github.com/inbo/bayesian-workshop-2023/blob/main/source/workshop_1_mcmc_en_brms.Rmd
+MCMC,Markov Chain Monte Carlo,https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo,https://github.com/inbo/bayesian-workshop-2023/blob/main/source/workshop_1_mcmc_en_brms.Rmd
 HPDI,Highest Posterior Density Interval,https://en.wikipedia.org/wiki/Credible_interval,https://stats.stackexchange.com/questions/148439/what-is-a-highest-density-region-hdr
 CPI,Central Posterior Interval,https://en.wikipedia.org/wiki/Credible_interval,https://jeremypiger.com/assets/files/Introduction_to_Bayesian_Econometrics_I.pdf
