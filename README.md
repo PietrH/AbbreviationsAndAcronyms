@@ -267,5 +267,6 @@
 |WDL          |Workflow Description Language                                               |           |[Reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html)|
 |XDF          |Exchange Data Format                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Data_exchange)|[Reference](https://www.tdwg.org/standards/xdf/)|
 |ZAP          |Zelfstandig Academisch Personeel                                            |[Wikipedia](https://nl.wikipedia.org/wiki/Hoofddocent)|               |
+|eMoF         |extended Measurement or Fact                                                |           |[Reference](https://manual.obis.org/vocabulary.html#measurementorfact-vocabulary-background)|
 |s.l.         |sine locale, without a location                                             |           |               |
 |NA           |Networking Action                                                           |           |               |
