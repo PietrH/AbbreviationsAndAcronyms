@@ -198,6 +198,7 @@
 |PIF          |Project Informatie Fiche                                                    |           |[Reference](https://overheid.vlaanderen.be/goede-praktijken/projectmatig-werken-aan-de-hand-van-een-projectfiche)|
 |PM           |Project Manager                                                             |           |               |
 |POPD         |Processing Of Personal Data                                                 |           |[Reference](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-constitutes-data-processing_en)|
+|POV          |Provincie Oost Vlaanderen                                                   |[Wikipedia](https://en.wikipedia.org/wiki/East_Flanders)|               |
 |PPRS         |People-Powered Research Science                                             |           |[Reference](https://www.sciencedirect.com/science/article/pii/S0896627316307954)|
 |QoE          |Quality of Experience                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Quality_of_experience)|[Reference](https://www.techopedia.com/definition/25802/quality-of-experience-qoe)|
 |RA           |Registration Authority                                                      |[Wikipedia](https://www.doi.org/registration_agencies.html)|[Reference](https://en.wikipedia.org/wiki/Registration_authority)|
