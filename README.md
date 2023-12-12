@@ -24,6 +24,7 @@
 |BIT          |Biodiversity Informatics Team                                               |           |               |
 |BKH          |Biodiversity Knowledge Hub                                                  |           |               |
 |BNF          |Backus–Naur form                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form)|[Reference](https://www.garshol.priv.no/download/text/bnf.html)|
+|BODC         |British Oceanographic Data Centre                                           |[Wikipedia](https://en.wikipedia.org/wiki/British_Oceanographic_Data_Centre)|[Reference](https://www.bodc.ac.uk/about/what_is_bodc/)|
 |BOVW         |Bag Of Visual Words Model                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision)|               |
 |BP           |Best Practices                                                              |[Wikipedia](https://en.wikipedia.org/wiki/Best_practice)|               |
 |BRU          |Biological Recording Unit                                                   |           |               |
@@ -266,5 +267,6 @@
 |WDL          |Workflow Description Language                                               |           |[Reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html)|
 |XDF          |Exchange Data Format                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Data_exchange)|[Reference](https://www.tdwg.org/standards/xdf/)|
 |ZAP          |Zelfstandig Academisch Personeel                                            |[Wikipedia](https://nl.wikipedia.org/wiki/Hoofddocent)|               |
+|eMoF         |extended Measurement or Fact                                                |           |[Reference](https://manual.obis.org/vocabulary.html#measurementorfact-vocabulary-background)|
 |s.l.         |sine locale, without a location                                             |           |               |
 |NA           |Networking Action                                                           |           |               |
