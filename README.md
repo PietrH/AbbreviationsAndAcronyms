@@ -158,6 +158,7 @@
 |MCM          |Management Committee Member (Cost Mobilse)                                  |           |[Reference](https://www.mobilise-action.eu/tag/management-committee/)|
 |MCMC         |Markov Chain Monte Carlo                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)|[Reference](https://github.com/inbo/bayesian-workshop-2023/blob/main/source/workshop_1_mcmc_en_brms.Rmd)|
 |MDA          |Marine Data Archive                                                         |           |[Reference](https://marinedataarchive.org/introduction.php)|
+|MDA          |Marine Data Archive                                                         |           |[Reference](https://mda.vliz.be/)|
 |MET          |Morpho-Ecological Type                                                      |           |               |
 |MFA          |Multiple Factor Analysis                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Multiple_factor_analysis)|[Reference](http://factominer.free.fr/factomethods/multiple-factor-analysis.html)|
 |MICS         |Minimum Information about a Digital Collection                              |           |[Reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)|
