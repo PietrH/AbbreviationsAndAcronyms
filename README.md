@@ -20,6 +20,7 @@
 |BDQ          |Biodiversity Data Quality                                                   |           |[Reference](https://www.tdwg.org/community/bdq/)|
 |BGCI         |Botanic Gardens Conservation International                                  |[Wikipedia](https://en.wikipedia.org/wiki/Botanic_Gardens_Conservation_International)|[Reference](https://www.bgci.org/)|
 |BGS          |British Geographic Survey                                                   |[Wikipedia](https://en.wikipedia.org/wiki/British_Geological_Survey)|[Reference](https://www.bgs.ac.uk/)|
+|BISE         |Biodiversity Information System for Europe                                  |           |[Reference](https://biodiversity.europa.eu/)|
 |BIT          |Biodiversity Informatics Team                                               |           |               |
 |BKH          |Biodiversity Knowledge Hub                                                  |           |               |
 |BNF          |Backus–Naur form                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form)|[Reference](https://www.garshol.priv.no/download/text/bnf.html)|
