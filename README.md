@@ -20,6 +20,7 @@
 |BDQ          |Biodiversity Data Quality                                                   |           |[Reference](https://www.tdwg.org/community/bdq/)|
 |BGCI         |Botanic Gardens Conservation International                                  |[Wikipedia](https://en.wikipedia.org/wiki/Botanic_Gardens_Conservation_International)|[Reference](https://www.bgci.org/)|
 |BGS          |British Geographic Survey                                                   |[Wikipedia](https://en.wikipedia.org/wiki/British_Geological_Survey)|[Reference](https://www.bgs.ac.uk/)|
+|BISE         |Biodiversity Information System for Europe                                  |           |[Reference](https://biodiversity.europa.eu/)|
 |BIT          |Biodiversity Informatics Team                                               |           |               |
 |BKH          |Biodiversity Knowledge Hub                                                  |           |               |
 |BNF          |Backus–Naur form                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form)|[Reference](https://www.garshol.priv.no/download/text/bnf.html)|
@@ -157,6 +158,7 @@
 |MCM          |Management Committee Member (Cost Mobilse)                                  |           |[Reference](https://www.mobilise-action.eu/tag/management-committee/)|
 |MCMC         |Markov Chain Monte Carlo                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)|[Reference](https://github.com/inbo/bayesian-workshop-2023/blob/main/source/workshop_1_mcmc_en_brms.Rmd)|
 |MDA          |Marine Data Archive                                                         |           |[Reference](https://marinedataarchive.org/introduction.php)|
+|MDA          |Marine Data Archive                                                         |           |[Reference](https://mda.vliz.be/)|
 |MET          |Morpho-Ecological Type                                                      |           |               |
 |MFA          |Multiple Factor Analysis                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Multiple_factor_analysis)|[Reference](http://factominer.free.fr/factomethods/multiple-factor-analysis.html)|
 |MICS         |Minimum Information about a Digital Collection                              |           |[Reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)|
@@ -197,6 +199,7 @@
 |PIF          |Project Informatie Fiche                                                    |           |[Reference](https://overheid.vlaanderen.be/goede-praktijken/projectmatig-werken-aan-de-hand-van-een-projectfiche)|
 |PM           |Project Manager                                                             |           |               |
 |POPD         |Processing Of Personal Data                                                 |           |[Reference](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-constitutes-data-processing_en)|
+|POV          |Provincie Oost Vlaanderen                                                   |[Wikipedia](https://en.wikipedia.org/wiki/East_Flanders)|               |
 |PPRS         |People-Powered Research Science                                             |           |[Reference](https://www.sciencedirect.com/science/article/pii/S0896627316307954)|
 |QoE          |Quality of Experience                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Quality_of_experience)|[Reference](https://www.techopedia.com/definition/25802/quality-of-experience-qoe)|
 |RA           |Registration Authority                                                      |[Wikipedia](https://www.doi.org/registration_agencies.html)|[Reference](https://en.wikipedia.org/wiki/Registration_authority)|
