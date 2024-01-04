@@ -76,6 +76,7 @@
 |DRAR         |Discovery of Relational Association Rules                                   |           |[Reference](https://doi.org/10.1016/j.eswa.2019.01.082)|
 |DRG          |Dynamic Report Generation                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Knitr)|[Reference](https://cran.r-project.org/web/packages/knitr/index.html)|
 |DSI          |Digital Sequence Information                                                |           |[Reference](http://nagoyaprotocol.myspecies.info/node/27)|
+|DTD          |Documentation Technical Debt                                                |           |[Reference](https://www.sciencedirect.com/science/article/abs/pii/S0164121222000310)|
 |DwC          |DarwinCore                                                                  |[Wikipedia](https://dwc.tdwg.org/)|[Reference](https://en.wikipedia.org/wiki/Darwin_Core)|
 |EBNF         |Extended Backus–Naur form                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form)|[Reference](https://www.garshol.priv.no/download/text/bnf.html)|
 |EBS          |Amazon Elastic Block Store                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)|[Reference](https://aws.amazon.com/ebs/)|
