@@ -1,6 +1,8 @@
 |Abbreviation |Meaning                                                                     |Wiki_Link  |Reference_Link |
 |:------------|:---------------------------------------------------------------------------|:----------|:--------------|
 |ABCD         |Access to Biological Collection Data                                        |[Wikipedia](https://en.wikipedia.org/wiki/ABCD_Schema)|[Reference](https://abcd.tdwg.org/)|
+|ABMS         |Automated Biodiversity Monitoring Station                                   |           |[Reference](https://www.danielkissling.de/3/research.html)|
+|ABMS         |Acoustic Bird Monitoring System                                             |           |[Reference](https://www.researchgate.net/publication/280041169_Acoustical_Bird_Monitoring_System_-_Recordings_Methodology_and_Species_Chosen_for_Recordings)|
 |ABS          |Access & Benefit-Sharing                                                    |           |[Reference](https://ec.europa.eu/environment/nature/biodiversity/international/abs/legislation_en.htm)|
 |AC           |Audubon Core                                                                |           |[Reference](https://ac.tdwg.org/)|
 |AHM          |All Hands Meeting                                                           |           |               |
@@ -93,6 +95,7 @@
 |EOL          |Encyclopedia of life                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Encyclopedia_of_Life)|[Reference](https://eol.org)|
 |EOSC         |European Open Science Cloud                                                 |[Wikipedia](https://en.wikipedia.org/wiki/European_Open_Science_Cloud)|[Reference](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/european-open-science-cloud-eosc_en)|
 |ER Model     |Entity Relationship Model                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)|[Reference](https://www2.cs.uregina.ca/~bernatja/crowsfoot.html)|
+|ERDA         |Electronic Research Data Archive                                            |           |[Reference](https://science.ku.dk/english/research/research-e-infrastructure/science-hpc-centre/)|
 |ERIC         |European Research Infrastructure Consortium                                 |[Wikipedia](https://en.wikipedia.org/wiki/European_Research_Infrastructure_Consortium)|[Reference](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en)|
 |ESFRI        |European Strategy Forum on Research Infrastructures                         |           |[Reference](https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/esfri_en)|
 |ESG Data     |Environment Social and Governance Data                                      |[Wikipedia](https://w.wiki/zi9)|[Reference](https://datatopics.worldbank.org/esg/)|
@@ -100,6 +103,7 @@
 |ETI          |Everything To Index                                                         |           |               |
 |ETL          |Entry Transfer Load                                                         |[Wikipedia](https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load)|               |
 |ETL          |Extract Transform Load                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Extract,_transform,_load)|               |
+|EUNIS        |European Nature Information System                                          |[Wikipedia](https://en.wikipedia.org/wiki/European_Environment_Agency#European_Nature_Information_System)|[Reference](https://eunis.eea.europa.eu/)|
 |EVBs         |Essential Biodiversity Variables                                            |[Wikipedia](https://geobon.org/ebvs/what-are-ebvs/)|[Reference](https://en.wikipedia.org/wiki/Essential_Biodiversity_Variables)|
 |F2F          |Face to Face                                                                |[Wikipedia](https://en.wikipedia.org/wiki/Face-to-face_interaction)|               |
 |FAIR         |Findable, Accessible, Interoperable, Reusable                               |[Wikipedia](https://en.wikipedia.org/wiki/FAIR_data)|               |
@@ -138,10 +142,12 @@
 |IMIS         |VLIZ Integrated Marine Informations System                                  |           |[Reference](https://marineinfo.org/imis-search)|
 |INEA         |Innovations and Networks Executive Agency                                   |           |[Reference](https://ec.europa.eu/inea/en/)|
 |IRI          |Information Reuse and Integration                                           |           |[Reference](http://www.sis.pitt.edu/iri2018/)|
+|IRI          |International Research Infrastructure                                       |           |[Reference](https://www.fwo.be/en/fellowships-funding/research-infrastructure/international-research-infrastructure/)|
 |IRIs         |Internationalized Resource Identifiers                                      |[Wikipedia](https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier)|[Reference](https://tools.ietf.org/html/rfc3987)|
 |IS           |Index Seminum                                                               |[Wikipedia](https://en.wikipedia.org/wiki/Index_Seminum)|               |
 |ITIS         |Integrated Taxonomic Information System                                     |[Wikipedia](https://en.wikipedia.org/wiki/Integrated_Taxonomic_Information_System)|[Reference](https://www.itis.gov/)|
 |JIT          |Just In Time (Compilation)                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation)|[Reference](https://www.r-statistics.com/2012/04/speed-up-your-r-code-using-a-just-in-time-jit-compiler/)|
+|JRC          |Joint Research Centre                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Joint_Research_Centre)|[Reference](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/joint-research-centre_en)|
 |KDD          |Knowledge Discovery in Databases                                            |           |[Reference](https://www.techopedia.com/definition/25827/knowledge-discovery-in-databases-kdd)|
 |KML          |Keyhole Markup Language                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Keyhole_Markup_Language)|[Reference](https://www.ogc.org/standards/kml/)|
 |KPI          |Key Performance Indicator                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Performance_indicator)|[Reference](https://kpi.org/KPI-Basics)|
@@ -239,6 +245,8 @@
 |SOP          |Standard operating procedure                                                |[Wikipedia](https://en.wikipedia.org/wiki/Standard_operating_procedure)|[Reference](https://tallyfy.com/standard-operating-procedure-sop/)|
 |SPI          |Science-Policy Interface                                                    |           |[Reference](http://www.unesco.org/new/en/natural-sciences/science-technology/science-policy-and-society/science-policy-interface/)|
 |SPNHC        |The Society for the Preservation of Natural History Collections             |[Wikipedia](https://en.wikipedia.org/wiki/Society_for_the_Preservation_of_Natural_History_Collections)|[Reference](https://spnhc.org/)|
+|SPRING       |Strengthening Pollinator Recovery through Indicators and monitoriNG         |           |[Reference](https://pollinator-monitoring.net/)|
+|STING        |Science and Technology for Pollinating Insects                              |           |[Reference](https://knowledge4policy.ec.europa.eu/participatory-democracy/science-technology-pollinating-insects-sting_en)|
 |STSM         |Short Term Scientific Mission                                               |           |               |
 |SWEET        |Semantic Web for Earth and Environmental Terminology                        |           |[Reference](https://github.com/ESIPFed/sweet)|
 |SaaS         |Software as a Service                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Software_as_a_service)|[Reference](https://www.salesforce.com/in/saas/)|
