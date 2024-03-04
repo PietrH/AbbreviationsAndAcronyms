@@ -103,6 +103,7 @@
 |ETI          |Everything To Index                                                         |           |               |
 |ETL          |Entry Transfer Load                                                         |[Wikipedia](https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load)|               |
 |ETL          |Extract Transform Load                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Extract,_transform,_load)|               |
+|ETN          |European Tracking Network                                                   |           |[Reference](https://europeantrackingnetwork.org/en)|
 |EUNIS        |European Nature Information System                                          |[Wikipedia](https://en.wikipedia.org/wiki/European_Environment_Agency#European_Nature_Information_System)|[Reference](https://eunis.eea.europa.eu/)|
 |EVBs         |Essential Biodiversity Variables                                            |[Wikipedia](https://geobon.org/ebvs/what-are-ebvs/)|[Reference](https://en.wikipedia.org/wiki/Essential_Biodiversity_Variables)|
 |F2F          |Face to Face                                                                |[Wikipedia](https://en.wikipedia.org/wiki/Face-to-face_interaction)|               |
@@ -209,6 +210,7 @@
 |POPD         |Processing Of Personal Data                                                 |           |[Reference](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-constitutes-data-processing_en)|
 |POV          |Provincie Oost Vlaanderen                                                   |[Wikipedia](https://en.wikipedia.org/wiki/East_Flanders)|               |
 |PPRS         |People-Powered Research Science                                             |           |[Reference](https://www.sciencedirect.com/science/article/pii/S0896627316307954)|
+|QAQC         |Quality Assurance Quality Control                                           |[Wikipedia](https://en.wikipedia.org/wiki/QA/QC)|[Reference](https://asq.org/quality-resources/quality-assurance-vs-control)|
 |QoE          |Quality of Experience                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Quality_of_experience)|[Reference](https://www.techopedia.com/definition/25802/quality-of-experience-qoe)|
 |RA           |Registration Authority                                                      |[Wikipedia](https://www.doi.org/registration_agencies.html)|[Reference](https://en.wikipedia.org/wiki/Registration_authority)|
 |RARs         |Relational association rules                                                |           |[Reference](https://doi.org/10.1016/j.eswa.2019.01.082)|
