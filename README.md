@@ -110,6 +110,7 @@
 |F2F          |Face to Face                                                                |[Wikipedia](https://en.wikipedia.org/wiki/Face-to-face_interaction)|               |
 |FAIR         |Findable, Accessible, Interoperable, Reusable                               |[Wikipedia](https://en.wikipedia.org/wiki/FAIR_data)|               |
 |FAMD         |Factor Analysis of Mixed Data                                               |[Wikipedia](https://en.wikipedia.org/wiki/Factor_analysis_of_mixed_data)|[Reference](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/115-famd-factor-analysis-of-mixed-data-in-r-essentials/)|
+|FBP          |Flemish Biodiversity Portal                                                 |           |[Reference](https://www.vlaanderen.be/inbo/en-GB/projects/vlaams-biodiversiteitsportaal)|
 |FDA          |FAIR Data Object                                                            |           |[Reference](https://www.force11.org/fairprinciples)|
 |FDO          |FAIR Digital Object                                                         |           |[Reference](https://fairdo.org/)|
 |FDP          |FAIR Data Place                                                             |           |               |
@@ -276,6 +277,7 @@
 |UPGMA        |Unweighted Pair Group Method with Arithmetic mean                           |[Wikipedia](https://en.wikipedia.org/wiki/UPGMA)|               |
 |URI          |Uniform Resource Identifier                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)|[Reference](https://tools.ietf.org/html/rfc3986)|
 |VA           |Virtual Access                                                              |           |[Reference](https://www.synthesys.info/access/virtual-access.html)|
+|VBP          |Vlaams Biodiversiteits Portaal                                              |           |[Reference](https://www.vlaanderen.be/inbo/projecten/vlaams-biodiversiteitsportaal)|
 |VBTA         |Vereniging van Botanische Tuinen en Arboreta                                |           |[Reference](https://www.botanischetuinen.be/nl/vereniging)|
 |VIAF         |Virtual International Authority File                                        |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_International_Authority_File)|[Reference](https://viaf.org/)|
 |VPC          |Virtual Private Cloud                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_cloud)|[Reference](https://aws.amazon.com/vpc/)|
