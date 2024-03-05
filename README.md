@@ -136,6 +136,7 @@
 |HTR          |Handwritten Text Recognition                                                |[Wikipedia](https://en.wikipedia.org/wiki/Handwriting_recognition)|               |
 |IA           |Innovation Action                                                           |           |[Reference](https://ec.europa.eu/research/participants/data/ref/h2020/wp/2014_2015/annexes/h2020-wp1415-annex-d-ia_en.pdf)|
 |IAS          |Invasive Alien Species                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Invasive_species)|[Reference](https://www.iucn.org/regions/europe/our-work/biodiversity-conservation/invasive-alien-species)|
+|IAS          |Invasive Alien Species                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Invasive_species)|[Reference](https://www.iucn.org/our-work/topic/invasive-alien-species)|
 |ICS          |Implementation Conformance Statement                                        |[Wikipedia](https://en.wikipedia.org/wiki/Protocol_implementation_conformance_statement)|[Reference](https://automatedbuildings.com/news/nov10/articles/opengeneral/101029125101opengeneral.html)|
 |IDA          |Initial Data Analysis                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Data_analysis#Initial_data_analysis)|               |
 |IDEAS        |Inclusion Diversity Equity and Accessibility Strategies                     |[Wikipedia](https://www.rbwstrategy.com/inclusion-diversity-equity-and-accessibility-whats-the-big-i-d-e-a/)|               |
@@ -143,6 +144,7 @@
 |ILK          |Indiginous and Local Knowledge                                              |[Wikipedia](https://en.wikipedia.org/wiki/Traditional_knowledge)|[Reference](http://www.unesco.org/new/en/natural-sciences/priority-areas/links/related-information/what-is-local-and-indigenous-knowledge/)|
 |IMIS         |VLIZ Integrated Marine Informations System                                  |           |[Reference](https://marineinfo.org/imis-search)|
 |INEA         |Innovations and Networks Executive Agency                                   |           |[Reference](https://ec.europa.eu/inea/en/)|
+|IPT          |Integrated Publishing Toolkit                                               |           |[Reference](https://www.gbif.org/ipt)|
 |IRI          |Information Reuse and Integration                                           |           |[Reference](http://www.sis.pitt.edu/iri2018/)|
 |IRI          |International Research Infrastructure                                       |           |[Reference](https://www.fwo.be/en/fellowships-funding/research-infrastructure/international-research-infrastructure/)|
 |IRIs         |Internationalized Resource Identifiers                                      |[Wikipedia](https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier)|[Reference](https://tools.ietf.org/html/rfc3987)|
