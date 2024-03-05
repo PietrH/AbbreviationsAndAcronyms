@@ -143,6 +143,7 @@
 |ILK          |Indiginous and Local Knowledge                                              |[Wikipedia](https://en.wikipedia.org/wiki/Traditional_knowledge)|[Reference](http://www.unesco.org/new/en/natural-sciences/priority-areas/links/related-information/what-is-local-and-indigenous-knowledge/)|
 |IMIS         |VLIZ Integrated Marine Informations System                                  |           |[Reference](https://marineinfo.org/imis-search)|
 |INEA         |Innovations and Networks Executive Agency                                   |           |[Reference](https://ec.europa.eu/inea/en/)|
+|IPT          |Integrated Publishing Toolkit                                               |           |[Reference](https://www.gbif.org/ipt)|
 |IRI          |Information Reuse and Integration                                           |           |[Reference](http://www.sis.pitt.edu/iri2018/)|
 |IRI          |International Research Infrastructure                                       |           |[Reference](https://www.fwo.be/en/fellowships-funding/research-infrastructure/international-research-infrastructure/)|
 |IRIs         |Internationalized Resource Identifiers                                      |[Wikipedia](https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier)|[Reference](https://tools.ietf.org/html/rfc3987)|
