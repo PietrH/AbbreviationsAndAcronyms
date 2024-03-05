@@ -72,6 +72,7 @@
 |DO           |Dissolved Oxygen                                                            |           |[Reference](https://www.fondriest.com/environmental-measurements/parameters/water-quality/dissolved-oxygen/)|
 |DOI          |Digital Object Identifier                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Digital_object_identifier)|[Reference](https://doi.org)|
 |DOIP         |Digital Object Interface Protocol                                           |           |[Reference](https://www.dona.net/sites/default/files/2018-11/DOIPv2Spec_1.pdf)|
+|DOV          |Databank Ondergrond Vlaanderen                                              |           |[Reference](https://www.dov.vlaanderen.be/)|
 |DPLA         |Digital Public Library of America                                           |[Wikipedia](https://en.wikipedia.org/wiki/Digital_Public_Library_of_America)|[Reference](https://dp.la/)|
 |DPO          |Data Protection Officer                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Data_Protection_Officer)|[Reference](https://edps.europa.eu/data-protection/data-protection/reference-library/data-protection-officer-dpo_en)|
 |DQ           |Data Quality                                                                |           |[Reference](https://en.wikipedia.org/wiki/Data_quality)|
@@ -103,7 +104,7 @@
 |ETI          |Everything To Index                                                         |           |               |
 |ETL          |Entry Transfer Load                                                         |[Wikipedia](https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load)|               |
 |ETL          |Extract Transform Load                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Extract,_transform,_load)|               |
-|ETN          |European Tracking Network                                                   |           |[Reference](https://europeantrackingnetwork.org/en,)|
+|ETN          |European Tracking Network                                                   |           |[Reference](https://europeantrackingnetwork.org/en)|
 |EUNIS        |European Nature Information System                                          |[Wikipedia](https://en.wikipedia.org/wiki/European_Environment_Agency#European_Nature_Information_System)|[Reference](https://eunis.eea.europa.eu/)|
 |EVBs         |Essential Biodiversity Variables                                            |[Wikipedia](https://geobon.org/ebvs/what-are-ebvs/)|[Reference](https://en.wikipedia.org/wiki/Essential_Biodiversity_Variables)|
 |F2F          |Face to Face                                                                |[Wikipedia](https://en.wikipedia.org/wiki/Face-to-face_interaction)|               |
