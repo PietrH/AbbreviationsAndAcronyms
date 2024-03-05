@@ -177,6 +177,7 @@
 |MOBS         |Machine Observations                                                        |           |[Reference](https://www.tdwg.org/community/mobs/)|
 |MODS         |Metadata Object Description Schema (compromise between MARC and DublinCore) |[Wikipedia](https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema)|[Reference](https://www.loc.gov/standards/mods/)|
 |MOF          |Meta-Object Facility                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Meta-Object_Facility)|[Reference](https://www.omg.org/spec/MOF/)|
+|MONEOS       |MONitoring Effecten Ontwikkelings Schets                                    |           |[Reference](https://www.vlaanderen.be/publicaties/moneos-geintegreerd-datarapport-inbo-toestand-zeeschelde-2022-monitoringsoverzicht-en-1ste-lijnsrapportage-geomorfologie-diversiteit-habitats-en-diversiteit-soorten)|
 |MSE          |Mean squared error                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Mean_squared_error)|               |
 |MTA          |Material Transfer Agreements                                                |[Wikipedia](https://en.wikipedia.org/wiki/Material_transfer_agreement)|[Reference](https://legal.slac.stanford.edu/material-transfer-agreements-mtas)|
 |MVT          |Marginal value theorem                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Marginal_value_theorem)|               |
