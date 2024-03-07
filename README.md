@@ -47,6 +47,7 @@
 |CFS          |Certificate on the Financial Statement                                      |           |[Reference](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/applying-for-funding/register-an-organisation/certifications_en.htm)|
 |CHI          |Cultural Heritage Institution                                               |           |               |
 |CHI/HCI      |Computer-Human Interaction/Interface                                        |[Wikipedia](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)|               |
+|CI/CD        |Continuous Integration and Continuous Delivery/Development                  |[Wikipedia](https://en.wikipedia.org/wiki/CI/CD)|[Reference](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)|
 |CKAN         |Comprehensive Knowledge Archive Network                                     |[Wikipedia](https://en.wikipedia.org/wiki/CKAN)|[Reference](https://ckan.org/)|
 |CMS          |Collection Management Systems                                               |[Wikipedia](https://en.wikipedia.org/wiki/Collections_management_system)|               |
 |CORS         |Cross-origin resource sharing                                               |[Wikipedia](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)|[Reference](https://fetch.spec.whatwg.org/#http-cors-protocol)|
@@ -171,6 +172,7 @@
 |LOUD         |Linked Open Usable Data                                                     |           |[Reference](https://linked.art/loud/)|
 |LSID         |Life Science Identifiers                                                    |[Wikipedia](https://en.wikipedia.org/wiki/LSID)|               |
 |LTER         |Long Term Scientific Research (Site/Network)                                |[Wikipedia](https://en.wikipedia.org/wiki/Long_Term_Ecological_Research_Network)|               |
+|MAS          |Meetnet Agrarische Soorten                                                  |           |[Reference](https://www.vlaanderen.be/inbo/projecten/pilootproject-meetnet-agrarische-soorten-mas-broedvogels-en-zoogdieren)|
 |MCA          |Multiple Correspondence Analysis                                            |[Wikipedia](https://en.wikipedia.org/wiki/Multiple_correspondence_analysis)|[Reference](https://www.displayr.com/correspondence-analysis-versus-multiple-correspondence-analysis-use/)|
 |MCM          |Management Committee Member (Cost Mobilse)                                  |           |[Reference](https://www.mobilise-action.eu/tag/management-committee/)|
 |MCMC         |Markov Chain Monte Carlo                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)|[Reference](https://github.com/inbo/bayesian-workshop-2023/blob/main/source/workshop_1_mcmc_en_brms.Rmd)|
