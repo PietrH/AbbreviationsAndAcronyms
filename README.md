@@ -210,6 +210,7 @@
 |OTU          |Operational Taxonomic Unit                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Operational_taxonomic_unit)|[Reference](https://doi.org/10.1371%2Fjournal.pone.0070837)|
 |OWL          |Web Ontology Language                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Web_Ontology_Language)|               |
 |OWM          |Onbezoldigd Wetenschappelijk Medewerker                                     |[Wikipedia](https://www.cbs.nl/nl-nl/onze-diensten/methoden/begrippen/onbezoldigd-personeel)|               |
+|OZ           |Onderzoeker                                                                 |           |               |
 |OpenDS       |Open Digital Specimen                                                       |           |[Reference](https://www.researchgate.net/publication/333854988_'openDS'_-_A_New_Standard_for_Digital_Specimens_and_Other_Natural_Science_Digital_Object_Types)|
 |PAM          |Passive Acoustic Monitoring                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Passive_acoustics)|[Reference](https://acousticmarinesystems.com/)|
 |PBD          |Primary Biodiversity Data                                                   |[Wikipedia](https://serval.unil.ch/resource/serval:BIB_768D188CEA5B.P001/REF.pdf)|[Reference](https://en.wikipedia.org/wiki/Biodiversity_informatics)|
