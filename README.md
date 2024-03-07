@@ -47,6 +47,7 @@
 |CFS          |Certificate on the Financial Statement                                      |           |[Reference](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/applying-for-funding/register-an-organisation/certifications_en.htm)|
 |CHI          |Cultural Heritage Institution                                               |           |               |
 |CHI/HCI      |Computer-Human Interaction/Interface                                        |[Wikipedia](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)|               |
+|CI/CD        |Continuous Integration and Continuous Delivery/Development                  |[Wikipedia](https://en.wikipedia.org/wiki/CI/CD)|[Reference](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)|
 |CKAN         |Comprehensive Knowledge Archive Network                                     |[Wikipedia](https://en.wikipedia.org/wiki/CKAN)|[Reference](https://ckan.org/)|
 |CMS          |Collection Management Systems                                               |[Wikipedia](https://en.wikipedia.org/wiki/Collections_management_system)|               |
 |CORS         |Cross-origin resource sharing                                               |[Wikipedia](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)|[Reference](https://fetch.spec.whatwg.org/#http-cors-protocol)|
