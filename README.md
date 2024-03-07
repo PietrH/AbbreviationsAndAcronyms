@@ -22,6 +22,7 @@
 |BDQ          |Biodiversity Data Quality                                                   |           |[Reference](https://www.tdwg.org/community/bdq/)|
 |BGCI         |Botanic Gardens Conservation International                                  |[Wikipedia](https://en.wikipedia.org/wiki/Botanic_Gardens_Conservation_International)|[Reference](https://www.bgci.org/)|
 |BGS          |British Geographic Survey                                                   |[Wikipedia](https://en.wikipedia.org/wiki/British_Geological_Survey)|[Reference](https://www.bgs.ac.uk/)|
+|BIM          |Brussels Instituut voor Milieubeheer = Leefmilieu Brussel                   |[Wikipedia](https://nl.wikipedia.org/wiki/Leefmilieu_Brussel)|[Reference](https://leefmilieu.brussels/)|
 |BISE         |Biodiversity Information System for Europe                                  |           |[Reference](https://biodiversity.europa.eu/)|
 |BIT          |Biodiversity Informatics Team                                               |           |               |
 |BKH          |Biodiversity Knowledge Hub                                                  |           |               |
@@ -135,9 +136,11 @@
 |HSTS         |HTTP Strict Transport Security                                              |[Wikipedia](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)|[Reference](https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it)|
 |HTAP         |Hybrid Transactional/Analytical Processing                                  |[Wikipedia](https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing)|[Reference](https://www.jamesserra.com/archive/2016/12/what-is-htap/)|
 |HTR          |Handwritten Text Recognition                                                |[Wikipedia](https://en.wikipedia.org/wiki/Handwriting_recognition)|               |
+|HWG          |Horizontale Werkgroep                                                       |           |               |
 |IA           |Innovation Action                                                           |           |[Reference](https://ec.europa.eu/research/participants/data/ref/h2020/wp/2014_2015/annexes/h2020-wp1415-annex-d-ia_en.pdf)|
 |IAS          |Invasive Alien Species                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Invasive_species)|[Reference](https://www.iucn.org/regions/europe/our-work/biodiversity-conservation/invasive-alien-species)|
 |IAS          |Invasive Alien Species                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Invasive_species)|[Reference](https://www.iucn.org/our-work/topic/invasive-alien-species)|
+|IBGE         |Bruxelles Environnement                                                     |[Wikipedia](https://fr.wikipedia.org/wiki/Bruxelles_Environnement)|[Reference](https://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fwww.environnement.brussels%2F)|
 |ICS          |Implementation Conformance Statement                                        |[Wikipedia](https://en.wikipedia.org/wiki/Protocol_implementation_conformance_statement)|[Reference](https://automatedbuildings.com/news/nov10/articles/opengeneral/101029125101opengeneral.html)|
 |IDA          |Initial Data Analysis                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Data_analysis#Initial_data_analysis)|               |
 |IDEAS        |Inclusion Diversity Equity and Accessibility Strategies                     |[Wikipedia](https://www.rbwstrategy.com/inclusion-diversity-equity-and-accessibility-whats-the-big-i-d-e-a/)|               |
@@ -210,6 +213,7 @@
 |PBD          |Primary Biodiversity Data                                                   |[Wikipedia](https://serval.unil.ch/resource/serval:BIB_768D188CEA5B.P001/REF.pdf)|[Reference](https://en.wikipedia.org/wiki/Biodiversity_informatics)|
 |PBS          |Portable Batch System                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Portable_Batch_System)|[Reference](https://www.openpbs.org/)|
 |PCA          |Principal Component Analysis                                                |[Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)|[Reference](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)|
+|PEP          |PErsoneelsPlan                                                              |           |[Reference](https://www.vlaanderen.be/informatie-voor-hr-professionals/in-en-doorstroom/personeelsplannen)|
 |PID          |Persistent Identifier                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Persistent_identifier)|               |
 |PIF          |Project Informatie Fiche                                                    |           |[Reference](https://overheid.vlaanderen.be/goede-praktijken/projectmatig-werken-aan-de-hand-van-een-projectfiche)|
 |PM           |Project Manager                                                             |           |               |
