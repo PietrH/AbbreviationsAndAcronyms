@@ -212,6 +212,7 @@
 |PAM          |Passive Acoustic Monitoring                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Passive_acoustics)|[Reference](https://acousticmarinesystems.com/)|
 |PBD          |Primary Biodiversity Data                                                   |[Wikipedia](https://serval.unil.ch/resource/serval:BIB_768D188CEA5B.P001/REF.pdf)|[Reference](https://en.wikipedia.org/wiki/Biodiversity_informatics)|
 |PBS          |Portable Batch System                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Portable_Batch_System)|[Reference](https://www.openpbs.org/)|
+|PC           |Programme Coordinator                                                       |           |[Reference](https://uk.indeed.com/career-advice/finding-a-job/program-coordinator)|
 |PCA          |Principal Component Analysis                                                |[Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)|[Reference](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)|
 |PEP          |PErsoneelsPlan                                                              |           |[Reference](https://www.vlaanderen.be/informatie-voor-hr-professionals/in-en-doorstroom/personeelsplannen)|
 |PID          |Persistent Identifier                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Persistent_identifier)|               |
