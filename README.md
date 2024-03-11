@@ -207,6 +207,7 @@
 |ORM          |Object-Relational Mapper                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)|               |
 |ORMS         |Operating Resource Management System                                        |           |[Reference](https://tecrada.com/operating-system-resource-management/)|
 |OS           |Open Science                                                                |[Wikipedia](https://en.wikipedia.org/wiki/Open_science)|[Reference](https://openscience.com/)|
+|OSG          |Open Science Grid                                                           |[Wikipedia](https://en.wikipedia.org/wiki/Open_Science_Grid_Consortium)|[Reference](https://osg-htc.org/)|
 |OTU          |Operational Taxonomic Unit                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Operational_taxonomic_unit)|[Reference](https://doi.org/10.1371%2Fjournal.pone.0070837)|
 |OWL          |Web Ontology Language                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Web_Ontology_Language)|               |
 |OWM          |Onbezoldigd Wetenschappelijk Medewerker                                     |[Wikipedia](https://www.cbs.nl/nl-nl/onze-diensten/methoden/begrippen/onbezoldigd-personeel)|               |
