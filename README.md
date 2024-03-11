@@ -5,6 +5,7 @@
 |ABMS         |Acoustic Bird Monitoring System                                             |           |[Reference](https://www.researchgate.net/publication/280041169_Acoustical_Bird_Monitoring_System_-_Recordings_Methodology_and_Species_Chosen_for_Recordings)|
 |ABS          |Access & Benefit-Sharing                                                    |           |[Reference](https://ec.europa.eu/environment/nature/biodiversity/international/abs/legislation_en.htm)|
 |AC           |Audubon Core                                                                |           |[Reference](https://ac.tdwg.org/)|
+|AD           |Active Directory                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Active_Directory)|[Reference](https://activedirectorypro.com/what-is-active-directory/)|
 |AHM          |All Hands Meeting                                                           |           |               |
 |AMI          |Amazon Machine Image                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Machine_Image)|[Reference](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)|
 |AMT          |AmazonMechanical Turk platform                                              |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk)|[Reference](https://www.mturk.com/)|
