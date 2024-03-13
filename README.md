@@ -10,6 +10,7 @@
 |AMI          |Amazon Machine Image                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Machine_Image)|[Reference](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)|
 |AMT          |AmazonMechanical Turk platform                                              |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk)|[Reference](https://www.mturk.com/)|
 |AOB          |Any Other Business / Bugs                                                   |           |               |
+|API          |Application Programming Interface                                           |[Wikipedia](https://en.wikipedia.org/wiki/API)|[Reference](https://www.ibm.com/topics/api)|
 |ARID         |Accept (some) Repetition In Documentation                                   |           |[Reference](https://www.writethedocs.org/guide/writing/docs-principles/#arid)|
 |ARID         |Active Reviews for Intermediate Designs                                     |[Wikipedia](https://en.wikipedia.org/wiki/Active_reviews_for_intermediate_designs)|[Reference](https://www.oreilly.com/library/view/software-architects-handbook/9781788624060/5c113f5a-ed1e-46b9-9d5a-bdf77adc176e.xhtml)|
 |ARIMA        |Autoregressive Integrated Moving Average                                    |[Wikipedia](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)|[Reference](https://otexts.com/fpp2/stationarity.html)|
