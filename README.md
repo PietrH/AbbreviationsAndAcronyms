@@ -55,6 +55,7 @@
 |CPI          |Central Posterior Interval                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Credible_interval)|[Reference](https://jeremypiger.com/assets/files/Introduction_to_Bayesian_Econometrics_I.pdf)|
 |CPUE         |Catch Per Unit Effort                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Catch_per_unit_effort)|[Reference](https://academic.oup.com/icesjms/article/63/8/1373/710477?login=false)|
 |CRAR         |Concurrent Relational Association Rule (mining)                             |           |[Reference](https://doi.org/10.1016/j.eswa.2019.01.082)|
+|CRUD         |Create Read Update Delete                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Create%2C_read%2C_update_and_delete)|[Reference](https://www.educative.io/blog/crud-operations)|
 |CS           |Citizen Science                                                             |[Wikipedia](https://en.wikipedia.org/wiki/Citizen_science)|               |
 |CSR          |Corporate Social Responsibility                                             |[Wikipedia](https://en.wikipedia.org/wiki/Corporate_social_responsibility)|               |
 |CT           |Camera Trapping                                                             |[Wikipedia](https://en.wikipedia.org/wiki/Camera_trap)|               |
