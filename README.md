@@ -169,6 +169,7 @@
 |LDP          |Linked Data Platform                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Linked_Data_Platform)|[Reference](https://www.w3.org/TR/ldp-primer/)|
 |LIDO         |Lightweight Information Describing Objects                                  |[Wikipedia](https://en.wikipedia.org/wiki/LIDO)|[Reference](http://network.icom.museum/cidoc/working-groups/lido/what-is-lido/)|
 |LIMS         |Laboratory Information Management System                                    |[Wikipedia](https://en.wikipedia.org/wiki/Laboratory_information_management_system)|               |
+|LMM          |Large Language Model                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Large_language_model)|[Reference](https://www.ibm.com/topics/large-language-models)|
 |LOD          |Linked Open Data                                                            |           |               |
 |LODLAM       |Linked Open Data in Library, Archives, and Museums                          |           |[Reference](https://lodlam.net/)|
 |LOUD         |Linked Open Usable Data                                                     |           |[Reference](https://linked.art/loud/)|
