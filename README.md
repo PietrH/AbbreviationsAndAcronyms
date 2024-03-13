@@ -61,6 +61,7 @@
 |CT           |Camera Trapping                                                             |[Wikipedia](https://en.wikipedia.org/wiki/Camera_trap)|               |
 |CURE         |Course-based Undergraduate Research Experience                              |           |[Reference](https://fys.ucdavis.edu/cures)|
 |CWL          |Common Workflow Language                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Common_Workflow_Language)|[Reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-cwl.html)|
+|CoT          |Chain of thought                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Prompt_engineering#Chain-of-thought)|[Reference](https://arxiv.org/abs/2201.11903)|
 |DAG          |Directed acyclic graph                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Directed_acyclic_graph)|[Reference](https://cran.r-project.org/web/packages/ggdag/vignettes/intro-to-dags.html)|
 |DAI          |Digitally Accessable Information                                            |           |               |
 |DAK          |Digitally Accessable Knowledge                                              |           |               |
