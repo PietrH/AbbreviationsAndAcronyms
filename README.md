@@ -301,6 +301,7 @@
 |WAYF         |Where Are You From                                                          |           |[Reference](https://docs.hpc.ugent.be/Windows/account/)|
 |WAZA         |World Association of Zoos and Aquariums                                     |           |[Reference](https://www.waza.org/)|
 |WDL          |Workflow Description Language                                               |           |[Reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html)|
+|WGMS         |World Glacier Monitoring Service                                            |[Wikipedia](https://en.wikipedia.org/wiki/World_Glacier_Monitoring_Service)|[Reference](https://wgms.ch/)|
 |XDF          |Exchange Data Format                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Data_exchange)|[Reference](https://www.tdwg.org/standards/xdf/)|
 |ZAP          |Zelfstandig Academisch Personeel                                            |[Wikipedia](https://nl.wikipedia.org/wiki/Hoofddocent)|               |
 |eMoF         |extended Measurement or Fact                                                |           |[Reference](https://manual.obis.org/vocabulary.html#measurementorfact-vocabulary-background)|
