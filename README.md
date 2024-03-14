@@ -282,6 +282,7 @@
 |TLS          |Transport Layer Security                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security)|[Reference](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)|
 |TRE          |Taxonomic Resolution Engine                                                 |           |               |
 |TRL          |Technology Readiness Level                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Technology_readiness_level)|[Reference](https://web.archive.org/web/20051206035043/http://as.nasa.gov/aboutus/trl-introduction.html)|
+|TSS          |The Social Study                                                            |           |[Reference](https://thesocialstudy.be/nl/home-nederlands/)|
 |TW           |Tervuren Wood                                                               |           |[Reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)|
 |TWS          |Tervuren Wood Samples/Specimens                                             |           |[Reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)|
 |UAT          |User Acceptance Testing                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)|[Reference](https://www.gbif-uat.org/)|
@@ -301,6 +302,7 @@
 |WAYF         |Where Are You From                                                          |           |[Reference](https://docs.hpc.ugent.be/Windows/account/)|
 |WAZA         |World Association of Zoos and Aquariums                                     |           |[Reference](https://www.waza.org/)|
 |WDL          |Workflow Description Language                                               |           |[Reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html)|
+|WDYT         |What Do You Think                                                           |           |[Reference](https://en.wiktionary.org/wiki/WDYT)|
 |WGMS         |World Glacier Monitoring Service                                            |[Wikipedia](https://en.wikipedia.org/wiki/World_Glacier_Monitoring_Service)|[Reference](https://wgms.ch/)|
 |XDF          |Exchange Data Format                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Data_exchange)|[Reference](https://www.tdwg.org/standards/xdf/)|
 |ZAP          |Zelfstandig Academisch Personeel                                            |[Wikipedia](https://nl.wikipedia.org/wiki/Hoofddocent)|               |
