@@ -282,6 +282,7 @@
 |TLS          |Transport Layer Security                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security)|[Reference](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)|
 |TRE          |Taxonomic Resolution Engine                                                 |           |               |
 |TRL          |Technology Readiness Level                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Technology_readiness_level)|[Reference](https://web.archive.org/web/20051206035043/http://as.nasa.gov/aboutus/trl-introduction.html)|
+|TSS          |The Social Study                                                            |           |[Reference](https://thesocialstudy.be/nl/home-nederlands/)|
 |TW           |Tervuren Wood                                                               |           |[Reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)|
 |TWS          |Tervuren Wood Samples/Specimens                                             |           |[Reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)|
 |UAT          |User Acceptance Testing                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)|[Reference](https://www.gbif-uat.org/)|
