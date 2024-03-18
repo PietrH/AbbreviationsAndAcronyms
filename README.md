@@ -68,6 +68,7 @@
 |DAI          |Digitally Accessable Information                                            |           |               |
 |DAK          |Digitally Accessable Knowledge                                              |           |               |
 |DAM          |Digital Asset Management                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Digital_asset_management)|[Reference](https://www.ibm.com/topics/digital-asset-management)|
+|DAMP         |Descriptive And Meaningful Phrases                                          |           |[Reference](https://www.arhohuttunen.com/dry-damp-tests/)|
 |DAMS         |Digital Asset Management Systems                                            |           |[Reference](https://iiif.io/news/2017/05/01/letter-to-dams/)|
 |DDG          |Dynamic Document Generation                                                 |           |[Reference](https://www.researchgate.net/publication/337181550_A_Reproducible_Data_Analysis_Workflow_with_R_Markdown_Git_Make_and_Docker)|
 |DEIA         |Diversity Equity Inclusion and Accessibility                                |[Wikipedia](https://www.nifa.usda.gov/diversity-equity-inclusion-accessibility-deia)|               |
@@ -204,6 +205,7 @@
 |OBO          |Open biological and biomedical ontologies                                   |[Wikipedia](https://en.wikipedia.org/wiki/Open_Biomedical_Ontologies)|[Reference](http://www.obofoundry.org/)|
 |ODS          |Operational Data Stores                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Operational_data_store)|[Reference](https://www.stitchdata.com/resources/operational-data-store/)|
 |OER          |Open Educational Resources                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Open_educational_resources)|[Reference](https://unesdoc.unesco.org/ark:/48223/pf0000370936)|
+|OIL          |Ontology Inference Layer                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Ontology_Inference_Layer)|[Reference](https://ontoknowledge.org/)|
 |OIS          |OmgevingsInformatieSamenwerkingsverband                                     |           |[Reference](https://omgeving.vlaanderen.be/sites/default/files/2022-05/omgevingshandhavingsplan%202022-2023.pdf)|
 |OLAP         |Online Analytical Processing                                                |[Wikipedia](https://en.wikipedia.org/wiki/Online_analytical_processing)|[Reference](https://www.guru99.com/online-analytical-processing.html)|
 |OLTP         |Online Transaction Processing                                               |[Wikipedia](https://en.wikipedia.org/wiki/Online_transaction_processing)|[Reference](https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/online-transaction-processing)|
