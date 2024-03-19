@@ -68,6 +68,7 @@
 |DAI          |Digitally Accessable Information                                            |           |               |
 |DAK          |Digitally Accessable Knowledge                                              |           |               |
 |DAM          |Digital Asset Management                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Digital_asset_management)|[Reference](https://www.ibm.com/topics/digital-asset-management)|
+|DAMP         |Descriptive And Meaningful Phrases                                          |           |[Reference](https://www.arhohuttunen.com/dry-damp-tests/)|
 |DAMS         |Digital Asset Management Systems                                            |           |[Reference](https://iiif.io/news/2017/05/01/letter-to-dams/)|
 |DDG          |Dynamic Document Generation                                                 |           |[Reference](https://www.researchgate.net/publication/337181550_A_Reproducible_Data_Analysis_Workflow_with_R_Markdown_Git_Make_and_Docker)|
 |DEIA         |Diversity Equity Inclusion and Accessibility                                |[Wikipedia](https://www.nifa.usda.gov/diversity-equity-inclusion-accessibility-deia)|               |
