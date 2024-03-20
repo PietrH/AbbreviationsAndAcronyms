@@ -198,6 +198,7 @@
 |MTA          |Material Transfer Agreements                                                |[Wikipedia](https://en.wikipedia.org/wiki/Material_transfer_agreement)|[Reference](https://legal.slac.stanford.edu/material-transfer-agreements-mtas)|
 |MVT          |Marginal value theorem                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Marginal_value_theorem)|               |
 |MoU          |Memorandum of Understanding                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Memorandum_of_understanding)|               |
+|NBD          |No Big Deal                                                                 |           |[Reference](https://dictionary.cambridge.org/us/dictionary/english/nbd)|
 |NBGB         |National Botanical Garden of Belgium                                        |           |               |
 |NCP          |Natures Contributions to People                                             |           |[Reference](https://ipbes.net/news/natures-contributions-people-ncp-article-ipbes-experts-science)|
 |NHC          |Natural History Collections                                                 |           |               |
