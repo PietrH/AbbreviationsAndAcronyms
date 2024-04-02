@@ -275,6 +275,7 @@
 |SPI          |Science-Policy Interface                                                    |           |[Reference](http://www.unesco.org/new/en/natural-sciences/science-technology/science-policy-and-society/science-policy-interface/)|
 |SPNHC        |The Society for the Preservation of Natural History Collections             |[Wikipedia](https://en.wikipedia.org/wiki/Society_for_the_Preservation_of_Natural_History_Collections)|[Reference](https://spnhc.org/)|
 |SPRING       |Strengthening Pollinator Recovery through Indicators and monitoriNG         |           |[Reference](https://pollinator-monitoring.net/)|
+|STAR         |Self-defining Text Archive and Retrieval                                    |[Wikipedia](https://en.wikipedia.org/wiki/Self-defining_Text_Archive_and_Retrieval)|[Reference](https://www.iucr.org/__data/assets/file/0013/11416/star.5.html)|
 |STING        |Science and Technology for Pollinating Insects                              |           |[Reference](https://knowledge4policy.ec.europa.eu/participatory-democracy/science-technology-pollinating-insects-sting_en)|
 |STSM         |Short Term Scientific Mission                                               |           |               |
 |SWEET        |Semantic Web for Earth and Environmental Terminology                        |           |[Reference](https://github.com/ESIPFed/sweet)|
