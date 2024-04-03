@@ -275,6 +275,7 @@
 |SPI          |Science-Policy Interface                                                    |           |[Reference](http://www.unesco.org/new/en/natural-sciences/science-technology/science-policy-and-society/science-policy-interface/)|
 |SPNHC        |The Society for the Preservation of Natural History Collections             |[Wikipedia](https://en.wikipedia.org/wiki/Society_for_the_Preservation_of_Natural_History_Collections)|[Reference](https://spnhc.org/)|
 |SPRING       |Strengthening Pollinator Recovery through Indicators and monitoriNG         |           |[Reference](https://pollinator-monitoring.net/)|
+|STAR         |Self-defining Text Archive and Retrieval                                    |[Wikipedia](https://en.wikipedia.org/wiki/Self-defining_Text_Archive_and_Retrieval)|[Reference](https://www.iucr.org/__data/assets/file/0013/11416/star.5.html)|
 |STING        |Science and Technology for Pollinating Insects                              |           |[Reference](https://knowledge4policy.ec.europa.eu/participatory-democracy/science-technology-pollinating-insects-sting_en)|
 |STSM         |Short Term Scientific Mission                                               |           |               |
 |SWEET        |Semantic Web for Earth and Environmental Terminology                        |           |[Reference](https://github.com/ESIPFed/sweet)|
@@ -289,6 +290,7 @@
 |TRL          |Technology Readiness Level                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Technology_readiness_level)|[Reference](https://web.archive.org/web/20051206035043/http://as.nasa.gov/aboutus/trl-introduction.html)|
 |TSS          |The Social Study                                                            |           |[Reference](https://thesocialstudy.be/nl/home-nederlands/)|
 |TW           |Tervuren Wood                                                               |           |[Reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)|
+|TWDTW        |Time-Weighted Dynamic Time Warping                                          |           |[Reference](https://doi.org/10.18637%2Fjss.v088.i05)|
 |TWS          |Tervuren Wood Samples/Specimens                                             |           |[Reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)|
 |UAT          |User Acceptance Testing                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)|[Reference](https://www.gbif-uat.org/)|
 |UAT          |User Acceptence Testing                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing#User_acceptance_testing)|[Reference](https://www.testingxperts.com/blog/uat-testing)|
