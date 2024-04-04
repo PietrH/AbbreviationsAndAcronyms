@@ -253,6 +253,7 @@
 |RIOT         |Reproducible Interpretable Open & Transparent Science                       |           |[Reference](http://www.riotscience.co.uk/)|
 |RIs          |Research Infrastructures                                                    |           |               |
 |RMCA         |Royal Museum for Central Africa                                             |[Wikipedia](https://en.wikipedia.org/wiki/Royal_Museum_for_Central_Africa)|[Reference](https://www.africamuseum.be)|
+|ROK          |RaamOvereenKomst                                                            |           |               |
 |ROR          |Research Organization Registry                                              |           |[Reference](https://ror.org/)|
 |RRI          |Responsible Research and Innovation                                         |[Wikipedia](https://en.wikipedia.org/wiki/Responsible_Research_and_Innovation)|[Reference](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/responsible-research-innovation)|
 |RSE          |Research Software Engineering                                               |[Wikipedia](https://en.wikipedia.org/wiki/Research_software_engineering)|[Reference](https://society-rse.org/)|
@@ -290,6 +291,7 @@
 |TRL          |Technology Readiness Level                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Technology_readiness_level)|[Reference](https://web.archive.org/web/20051206035043/http://as.nasa.gov/aboutus/trl-introduction.html)|
 |TSS          |The Social Study                                                            |           |[Reference](https://thesocialstudy.be/nl/home-nederlands/)|
 |TW           |Tervuren Wood                                                               |           |[Reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)|
+|TWDTW        |Time-Weighted Dynamic Time Warping                                          |           |[Reference](https://doi.org/10.18637%2Fjss.v088.i05)|
 |TWS          |Tervuren Wood Samples/Specimens                                             |           |[Reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)|
 |UAT          |User Acceptance Testing                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)|[Reference](https://www.gbif-uat.org/)|
 |UAT          |User Acceptence Testing                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing#User_acceptance_testing)|[Reference](https://www.testingxperts.com/blog/uat-testing)|
