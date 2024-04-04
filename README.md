@@ -290,6 +290,7 @@
 |TRL          |Technology Readiness Level                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Technology_readiness_level)|[Reference](https://web.archive.org/web/20051206035043/http://as.nasa.gov/aboutus/trl-introduction.html)|
 |TSS          |The Social Study                                                            |           |[Reference](https://thesocialstudy.be/nl/home-nederlands/)|
 |TW           |Tervuren Wood                                                               |           |[Reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)|
+|TWDTW        |Time-Weighted Dynamic Time Warping                                          |           |[Reference](https://doi.org/10.18637%2Fjss.v088.i05)|
 |TWS          |Tervuren Wood Samples/Specimens                                             |           |[Reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)|
 |UAT          |User Acceptance Testing                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)|[Reference](https://www.gbif-uat.org/)|
 |UAT          |User Acceptence Testing                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing#User_acceptance_testing)|[Reference](https://www.testingxperts.com/blog/uat-testing)|
