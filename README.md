@@ -28,6 +28,7 @@
 |BISE         |Biodiversity Information System for Europe                                  |           |[Reference](https://biodiversity.europa.eu/)|
 |BIT          |Biodiversity Informatics Team                                               |           |               |
 |BKH          |Biodiversity Knowledge Hub                                                  |           |               |
+|BMCC         |European Biodiversity Monitoring Coordination Centre                        |           |[Reference](https://europabon.org/?p=3221)|
 |BNF          |Backus–Naur form                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form)|[Reference](https://www.garshol.priv.no/download/text/bnf.html)|
 |BODC         |British Oceanographic Data Centre                                           |[Wikipedia](https://en.wikipedia.org/wiki/British_Oceanographic_Data_Centre)|[Reference](https://www.bodc.ac.uk/about/what_is_bodc/)|
 |BOVW         |Bag Of Visual Words Model                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision)|               |
@@ -253,6 +254,7 @@
 |RIOT         |Reproducible Interpretable Open & Transparent Science                       |           |[Reference](http://www.riotscience.co.uk/)|
 |RIs          |Research Infrastructures                                                    |           |               |
 |RMCA         |Royal Museum for Central Africa                                             |[Wikipedia](https://en.wikipedia.org/wiki/Royal_Museum_for_Central_Africa)|[Reference](https://www.africamuseum.be)|
+|ROK          |RaamOvereenKomst                                                            |           |               |
 |ROR          |Research Organization Registry                                              |           |[Reference](https://ror.org/)|
 |RRI          |Responsible Research and Innovation                                         |[Wikipedia](https://en.wikipedia.org/wiki/Responsible_Research_and_Innovation)|[Reference](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/responsible-research-innovation)|
 |RSE          |Research Software Engineering                                               |[Wikipedia](https://en.wikipedia.org/wiki/Research_software_engineering)|[Reference](https://society-rse.org/)|
