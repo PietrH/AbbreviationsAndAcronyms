@@ -253,6 +253,7 @@
 |RIOT         |Reproducible Interpretable Open & Transparent Science                       |           |[Reference](http://www.riotscience.co.uk/)|
 |RIs          |Research Infrastructures                                                    |           |               |
 |RMCA         |Royal Museum for Central Africa                                             |[Wikipedia](https://en.wikipedia.org/wiki/Royal_Museum_for_Central_Africa)|[Reference](https://www.africamuseum.be)|
+|ROK          |RaamOvereenKomst                                                            |           |               |
 |ROR          |Research Organization Registry                                              |           |[Reference](https://ror.org/)|
 |RRI          |Responsible Research and Innovation                                         |[Wikipedia](https://en.wikipedia.org/wiki/Responsible_Research_and_Innovation)|[Reference](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/responsible-research-innovation)|
 |RSE          |Research Software Engineering                                               |[Wikipedia](https://en.wikipedia.org/wiki/Research_software_engineering)|[Reference](https://society-rse.org/)|
