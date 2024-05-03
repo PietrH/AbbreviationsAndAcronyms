@@ -213,6 +213,7 @@
 |OLTP         |Online Transaction Processing                                               |[Wikipedia](https://en.wikipedia.org/wiki/Online_transaction_processing)|[Reference](https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/online-transaction-processing)|
 |OMG          |Object Management Group                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Object_Management_Group)|[Reference](https://www.omg.org/)|
 |OPDS         |Open Publication Distribution System                                        |[Wikipedia](https://en.wikipedia.org/wiki/Open_Publication_Distribution_System)|[Reference](http://www.feedbooks.com/api/primer)|
+|OPERA        |Operational Programme for the Exchange of Weather Radar Information         |           |[Reference](https://www.eumetnet.eu/activities/observations-programme/current-activities/opera/)|
 |OPT          |Optimal Foraging Theory                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Optimal_foraging_theory)|[Reference](http://www.tiem.utk.edu/~gross/bioed/bealsmodules/optimal.html)|
 |ORCID        |Open Researcher and Contributor ID                                          |[Wikipedia](https://en.wikipedia.org/wiki/ORCID)|[Reference](https://orcid.org)|
 |ORM          |Object-Relational Mapper                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)|               |
