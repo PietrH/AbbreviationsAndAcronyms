@@ -134,6 +134,7 @@
 |GBS          |Genotyping by Sequencing                                                              |[Wikipedia](https://en.wikipedia.org/wiki/Genotyping_by_sequencing)|               |
 |GCP          |Google Cloud Platform                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Google_Cloud_Platform)|[Reference](https://cloud.google.com/)|
 |GDM          |Generalized Dissimilarity Modeling                                                    |           |[Reference](https://www.onlinelibrary.wiley.com/doi/10.1111/j.1472-4642.2007.00341.x)|
+|GEE          |Google Earth Engine                                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Google_Earth#Google_Earth_Engine)|[Reference](https://earthengine.google.com/)|
 |GGBN         |Global Genome Biodiversity Network                                                    |           |[Reference](https://www.ggbn.org/ggbn_portal/)|
 |GLAM         |Galleries,Libraries,Archives,Museums                                                  |           |               |
 |GOs          |Genomics Observatories                                                                |           |               |
