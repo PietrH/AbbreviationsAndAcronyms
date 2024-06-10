@@ -201,6 +201,7 @@
 |MOF          |Meta-Object Facility                                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Meta-Object_Facility)|[Reference](https://www.omg.org/spec/MOF/)|
 |MONEOS       |MONitoring Effecten Ontwikkelings Schets                                              |           |[Reference](https://www.vlaanderen.be/publicaties/moneos-geintegreerd-datarapport-inbo-toestand-zeeschelde-2022-monitoringsoverzicht-en-1ste-lijnsrapportage-geomorfologie-diversiteit-habitats-en-diversiteit-soorten)|
 |MSE          |Mean squared error                                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Mean_squared_error)|               |
+|MT           |Management Team                                                                       |           |[Reference](https://www.vlaanderen.be/inbo/teams/managementteam)|
 |MTA          |Material Transfer Agreements                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Material_transfer_agreement)|[Reference](https://legal.slac.stanford.edu/material-transfer-agreements-mtas)|
 |MVT          |Marginal value theorem                                                                |[Wikipedia](https://en.wikipedia.org/wiki/Marginal_value_theorem)|               |
 |MoU          |Memorandum of Understanding                                                           |[Wikipedia](https://en.wikipedia.org/wiki/Memorandum_of_understanding)|               |
@@ -238,6 +239,7 @@
 |PEP          |PErsoneelsPlan                                                                        |           |[Reference](https://www.vlaanderen.be/informatie-voor-hr-professionals/in-en-doorstroom/personeelsplannen)|
 |PID          |Persistent Identifier                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Persistent_identifier)|               |
 |PIF          |Project Informatie Fiche                                                              |           |[Reference](https://overheid.vlaanderen.be/goede-praktijken/projectmatig-werken-aan-de-hand-van-een-projectfiche)|
+|PIF          |Project Intentie Fiche                                                                |[Wikipedia](https://nl.wikipedia.org/wiki/Intentieovereenkomst)|               |
 |PM           |Project Manager                                                                       |           |               |
 |POPD         |Processing Of Personal Data                                                           |           |[Reference](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-constitutes-data-processing_en)|
 |POV          |Provincie Oost Vlaanderen                                                             |[Wikipedia](https://en.wikipedia.org/wiki/East_Flanders)|               |
