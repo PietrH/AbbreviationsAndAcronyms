@@ -10,6 +10,7 @@
 |AHM          |All Hands Meeting                                                                     |           |               |
 |AMI          |Amazon Machine Image                                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Machine_Image)|[Reference](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)|
 |AMT          |AmazonMechanical Turk platform                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk)|[Reference](https://www.mturk.com/)|
+|ANB          |Agentschap voor Natuur en Bos                                                         |[Wikipedia](https://nl.wikipedia.org/wiki/Agentschap_voor_Natuur_en_Bos)|[Reference](https://natuurenbos.be/over-ons/organisatie)|
 |AOB          |Any Other Business / Bugs                                                             |           |               |
 |API          |Application Programming Interface                                                     |[Wikipedia](https://en.wikipedia.org/wiki/API)|[Reference](https://www.ibm.com/topics/api)|
 |ARID         |Accept (some) Repetition In Documentation                                             |           |[Reference](https://www.writethedocs.org/guide/writing/docs-principles/#arid)|
@@ -32,10 +33,12 @@
 |BMCC         |European Biodiversity Monitoring Coordination Centre                                  |           |[Reference](https://europabon.org/?p=3221)|
 |BNF          |Backus–Naur form                                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form)|[Reference](https://www.garshol.priv.no/download/text/bnf.html)|
 |BODC         |British Oceanographic Data Centre                                                     |[Wikipedia](https://en.wikipedia.org/wiki/British_Oceanographic_Data_Centre)|[Reference](https://www.bodc.ac.uk/about/what_is_bodc/)|
+|BOPCO        |Barcoding of species Of Policy COncern                                                |           |[Reference](https://bopco.myspecies.info/node/1)|
 |BOVW         |Bag Of Visual Words Model                                                             |[Wikipedia](https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision)|               |
 |BP           |Best Practices                                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Best_practice)|               |
 |BRU          |Biological Recording Unit                                                             |           |               |
 |BSBI         |Botanical Society of Britain and Ireland                                              |[Wikipedia](https://en.wikipedia.org/wiki/Botanical_Society_of_Britain_and_Ireland)|[Reference](https://bsbi.org/)|
+|BWDS         |Belgian Wildlife Disease Symposium                                                    |           |[Reference](https://www.bwds.be/)|
 |BoW          |Bag of Words Model                                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision)|               |
 |Btree        |self balancing tree data structure                                                    |[Wikipedia](https://en.wikipedia.org/wiki/B-tree)|               |
 |CA           |Certificate authority                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Certificate_authority)|[Reference](https://www.ssl.com/faqs/what-is-a-certificate-authority/)|
@@ -142,6 +145,7 @@
 |GSP          |Generic Services Projects                                                             |           |               |
 |GUPRI        |Globally Unique, Persistent and Resolvable Identifier                                 |           |[Reference](https://fairsfair.eu/d22-fair-semantics-first-recommendations-request-comments/p-rec-1-use-globally-unique-persistent-and)|
 |GWR          |Geographically Weighted Regression                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Spatial_analysis#Spatial_regression)|[Reference](http://resources.esri.com/help/9.3/arcgisengine/java/GP_ToolRef/spatial_statistics_tools/geographically_weighted_regression_spatial_statistics_.htm)|
+|GenDiv       |Genetische Diversiteit                                                                |           |[Reference](https://www.vlaanderen.be/inbo/teams/genetische-diversiteit-1)|
 |GloBAM       |Global Biomass flows of Aerial Migrations                                             |           |[Reference](https://www.enram.eu/globam/)|
 |HITs         |Human Intelligence Tasks                                                              |           |[Reference](https://forum.turkerview.com/wiki/Human-Intelligence-Tasks-HITs)|
 |HPDI         |Highest Posterior Density Interval                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Credible_interval)|[Reference](https://stats.stackexchange.com/questions/148439/what-is-a-highest-density-region-hdr)|
@@ -149,6 +153,7 @@
 |HTAP         |Hybrid Transactional/Analytical Processing                                            |[Wikipedia](https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing)|[Reference](https://www.jamesserra.com/archive/2016/12/what-is-htap/)|
 |HTR          |Handwritten Text Recognition                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Handwriting_recognition)|               |
 |HVD          |High Value Datasets                                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Directive_on_the_re-use_of_public_sector_information#High_Value_Datasets)|[Reference](https://data.europa.eu/en/publications/datastories/high-value-datasets-overview-through-visualisation)|
+|HVV          |Hubertus Vereniging Vlaanderen                                                        |[Wikipedia](https://nl.wikipedia.org/wiki/Hubertus_Vereniging_Vlaanderen)|[Reference](https://hvv.be/)|
 |HWG          |Horizontale Werkgroep                                                                 |           |               |
 |HiRAD        |Harmonising and integrating Radar-based approaches for monitoring Aerial bioDiversity |           |[Reference](https://enram.github.io/hirad/)|
 |IA           |Innovation Action                                                                     |           |[Reference](https://ec.europa.eu/research/participants/data/ref/h2020/wp/2014_2015/annexes/h2020-wp1415-annex-d-ia_en.pdf)|
@@ -161,13 +166,16 @@
 |IGSN         |International Geo Sample Number                                                       |[Wikipedia](https://en.wikipedia.org/wiki/International_Geo_Sample_Number)|[Reference](http://www.geosamples.org/igsnabout)|
 |ILK          |Indiginous and Local Knowledge                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Traditional_knowledge)|[Reference](http://www.unesco.org/new/en/natural-sciences/priority-areas/links/related-information/what-is-local-and-indigenous-knowledge/)|
 |IMIS         |VLIZ Integrated Marine Informations System                                            |           |[Reference](https://marineinfo.org/imis-search)|
+|INBO         |Instituut voor Natuur- en BosOnderzoek                                                |[Wikipedia](https://nl.wikipedia.org/wiki/Instituut_voor_Natuur-_en_Bosonderzoek)|[Reference](https://www.vlaanderen.be/inbo/over-ons/missie-en-visie/)|
 |INEA         |Innovations and Networks Executive Agency                                             |           |[Reference](https://ec.europa.eu/inea/en/)|
+|IO           |Inkoop Order                                                                          |[Wikipedia](https://nl.wikipedia.org/wiki/Inkoop)|[Reference](https://atlasmic.com/nl/blog/purchase-order3)|
 |IPT          |Integrated Publishing Toolkit                                                         |           |[Reference](https://www.gbif.org/ipt)|
 |IRI          |Information Reuse and Integration                                                     |           |[Reference](http://www.sis.pitt.edu/iri2018/)|
 |IRI          |International Research Infrastructure                                                 |           |[Reference](https://www.fwo.be/en/fellowships-funding/research-infrastructure/international-research-infrastructure/)|
 |IRIs         |Internationalized Resource Identifiers                                                |[Wikipedia](https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier)|[Reference](https://tools.ietf.org/html/rfc3987)|
 |IS           |Index Seminum                                                                         |[Wikipedia](https://en.wikipedia.org/wiki/Index_Seminum)|               |
 |ITIS         |Integrated Taxonomic Information System                                               |[Wikipedia](https://en.wikipedia.org/wiki/Integrated_Taxonomic_Information_System)|[Reference](https://www.itis.gov/)|
+|JEMU         |Joint Experimental Molecular Unit                                                     |           |[Reference](https://www.biodiversity.be/5235/)|
 |JIT          |Just In Time (Compilation)                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation)|[Reference](https://www.r-statistics.com/2012/04/speed-up-your-r-code-using-a-just-in-time-jit-compiler/)|
 |JRC          |Joint Research Centre                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Joint_Research_Centre)|[Reference](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/joint-research-centre_en)|
 |KDD          |Knowledge Discovery in Databases                                                      |           |[Reference](https://www.techopedia.com/definition/25827/knowledge-discovery-in-databases-kdd)|
@@ -229,6 +237,7 @@
 |ORMS         |Operating Resource Management System                                                  |           |[Reference](https://tecrada.com/operating-system-resource-management/)|
 |OS           |Open Science                                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Open_science)|[Reference](https://openscience.com/)|
 |OSG          |Open Science Grid                                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Open_Science_Grid_Consortium)|[Reference](https://osg-htc.org/)|
+|OT           |Onderzoeksteam                                                                        |           |               |
 |OTU          |Operational Taxonomic Unit                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Operational_taxonomic_unit)|[Reference](https://doi.org/10.1371%2Fjournal.pone.0070837)|
 |OWL          |Web Ontology Language                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Web_Ontology_Language)|               |
 |OWM          |Onbezoldigd Wetenschappelijk Medewerker                                               |[Wikipedia](https://www.cbs.nl/nl-nl/onze-diensten/methoden/begrippen/onbezoldigd-personeel)|               |
@@ -277,6 +286,7 @@
 |SAP          |Sampling and Analysis Plan                                                            |           |[Reference](https://www.calrecycle.ca.gov/swfacilities/cia/field/samplingplan)|
 |SAP          |System Analysis Program                                                               |[Wikipedia](https://en.wikipedia.org/wiki/SAP)|[Reference](https://www.sap.com/about/company/what-is-sap.html)|
 |SBP          |Soorten Beschermings Programma                                                        |           |[Reference](https://natuurenbos.vlaanderen.be/dieren-en-planten/soortenbescherming/soortenbeschermingsprogrammas-sbps)|
+|SBP          |Soorts Beschermings Programma                                                         |           |[Reference](https://natuurenbos.vlaanderen.be/dieren-en-planten/soortenbescherming/soortenbeschermingsprogrammas-sbps)|
 |SDG          |Sustainable Development Goal                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)|[Reference](https://sdgs.un.org/goals)|
 |SDR          |Specimen Data Refinery                                                                |           |[Reference](https://doi.org/10.3897/biss.3.37647)|
 |SIMD         |Single instruction multiple data                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data)|[Reference](https://www.sciencedirect.com/topics/computer-science/single-instruction-multiple-data)|
@@ -293,6 +303,7 @@
 |STING        |Science and Technology for Pollinating Insects                                        |           |[Reference](https://knowledge4policy.ec.europa.eu/participatory-democracy/science-technology-pollinating-insects-sting_en)|
 |STSM         |Short Term Scientific Mission                                                         |           |               |
 |SWEET        |Semantic Web for Earth and Environmental Terminology                                  |           |[Reference](https://github.com/ESIPFed/sweet)|
+|SWO          |SamenWerkingsOvereenkomst                                                             |           |[Reference](https://www.dfbonline.nl/begrip/15674/samenwerkingsovereenkomst)|
 |SaaS         |Software as a Service                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Software_as_a_service)|[Reference](https://www.salesforce.com/in/saas/)|
 |SoC          |System On Chip                                                                        |[Wikipedia](https://en.wikipedia.org/wiki/System_on_a_chip)|               |
 |TBPH         |To Be Perfectly Honest                                                                |           |[Reference](https://www.cyberdefinitions.com/definitions/TBPH.html)|
@@ -327,6 +338,7 @@
 |WDL          |Workflow Description Language                                                         |           |[Reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html)|
 |WDYT         |What Do You Think                                                                     |           |[Reference](https://en.wiktionary.org/wiki/WDYT)|
 |WGMS         |World Glacier Monitoring Service                                                      |[Wikipedia](https://en.wikipedia.org/wiki/World_Glacier_Monitoring_Service)|[Reference](https://wgms.ch/)|
+|WIZ          |Wild In Zicht                                                                         |           |[Reference](https://natuurenbos.vlaanderen.be/schade-en-overlast/schade-door-jachtwild-beschermde-dieren/wild-zicht)|
 |XDF          |Exchange Data Format                                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Data_exchange)|[Reference](https://www.tdwg.org/standards/xdf/)|
 |ZAP          |Zelfstandig Academisch Personeel                                                      |[Wikipedia](https://nl.wikipedia.org/wiki/Hoofddocent)|               |
 |eMoF         |extended Measurement or Fact                                                          |           |[Reference](https://manual.obis.org/vocabulary.html#measurementorfact-vocabulary-background)|
