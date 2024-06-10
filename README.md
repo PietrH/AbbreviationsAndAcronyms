@@ -314,6 +314,7 @@
 |VIAF         |Virtual International Authority File                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_International_Authority_File)|[Reference](https://viaf.org/)|
 |VPC          |Virtual Private Cloud                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_cloud)|[Reference](https://aws.amazon.com/vpc/)|
 |VPS          |Virtual Private Server                                                                |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_server)|[Reference](https://www.ibm.com/cloud/learn/vps)|
+|VWI          |Vlaamse Wetenschappelijke Instellingen                                                |           |[Reference](https://www.ewi-vlaanderen.be/nieuws/decreetswijziging-organisatie-en-financiering-van-het-wetenschaps-en-innovatiebeleid)|
 |WAYF         |Where Are You From                                                                    |           |[Reference](https://docs.hpc.ugent.be/Windows/account/)|
 |WAZA         |World Association of Zoos and Aquariums                                               |           |[Reference](https://www.waza.org/)|
 |WDL          |Workflow Description Language                                                         |           |[Reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html)|
