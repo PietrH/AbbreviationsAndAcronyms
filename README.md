@@ -6,6 +6,7 @@
 |ABS          |Access & Benefit-Sharing                                                              |           |[Reference](https://ec.europa.eu/environment/nature/biodiversity/international/abs/legislation_en.htm)|
 |AC           |Audubon Core                                                                          |           |[Reference](https://ac.tdwg.org/)|
 |AD           |Active Directory                                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Active_Directory)|[Reference](https://activedirectorypro.com/what-is-active-directory/)|
+|AG           |Administrateur Generaal                                                               |[Wikipedia](https://nl.wikipedia.org/wiki/Instituut_voor_Natuur-_en_Bosonderzoek)|[Reference](https://www.vlaanderen.be/inbo/persberichten/hilde-eggermont-nieuwe-administrateur-generaal-instituut-voor-natuur-en-bosonderzoek-inbo/)|
 |AHM          |All Hands Meeting                                                                     |           |               |
 |AMI          |Amazon Machine Image                                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Machine_Image)|[Reference](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)|
 |AMT          |AmazonMechanical Turk platform                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk)|[Reference](https://www.mturk.com/)|
@@ -191,6 +192,7 @@
 |MCM          |Management Committee Member (Cost Mobilse)                                            |           |[Reference](https://www.mobilise-action.eu/tag/management-committee/)|
 |MCMC         |Markov Chain Monte Carlo                                                              |[Wikipedia](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)|[Reference](https://github.com/inbo/bayesian-workshop-2023/blob/main/source/workshop_1_mcmc_en_brms.Rmd)|
 |MDA          |Marine Data Archive                                                                   |           |[Reference](https://marinedataarchive.org/introduction.php)|
+|MER          |Milieu Effecten Rapport                                                               |[Wikipedia](https://nl.wikipedia.org/wiki/Milieueffectrapportage)|[Reference](https://www.vlaanderen.be/milieueffectrapport-mer)|
 |MET          |Morpho-Ecological Type                                                                |           |               |
 |MFA          |Multiple Factor Analysis                                                              |[Wikipedia](https://en.wikipedia.org/wiki/Multiple_factor_analysis)|[Reference](http://factominer.free.fr/factomethods/multiple-factor-analysis.html)|
 |MICS         |Minimum Information about a Digital Collection                                        |           |[Reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)|
@@ -201,9 +203,11 @@
 |MOF          |Meta-Object Facility                                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Meta-Object_Facility)|[Reference](https://www.omg.org/spec/MOF/)|
 |MONEOS       |MONitoring Effecten Ontwikkelings Schets                                              |           |[Reference](https://www.vlaanderen.be/publicaties/moneos-geintegreerd-datarapport-inbo-toestand-zeeschelde-2022-monitoringsoverzicht-en-1ste-lijnsrapportage-geomorfologie-diversiteit-habitats-en-diversiteit-soorten)|
 |MSE          |Mean squared error                                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Mean_squared_error)|               |
+|MT           |Management Team                                                                       |           |[Reference](https://www.vlaanderen.be/inbo/teams/managementteam)|
 |MTA          |Material Transfer Agreements                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Material_transfer_agreement)|[Reference](https://legal.slac.stanford.edu/material-transfer-agreements-mtas)|
 |MVT          |Marginal value theorem                                                                |[Wikipedia](https://en.wikipedia.org/wiki/Marginal_value_theorem)|               |
 |MoU          |Memorandum of Understanding                                                           |[Wikipedia](https://en.wikipedia.org/wiki/Memorandum_of_understanding)|               |
+|NARA         |NAtuur RApport                                                                        |           |[Reference](https://www.vlaanderen.be/inbo/projecten/opmaak-natuurrapport-nara)|
 |NBD          |No Big Deal                                                                           |           |[Reference](https://dictionary.cambridge.org/us/dictionary/english/nbd)|
 |NBGB         |National Botanical Garden of Belgium                                                  |           |               |
 |NCP          |Natures Contributions to People                                                       |           |[Reference](https://ipbes.net/news/natures-contributions-people-ncp-article-ipbes-experts-science)|
@@ -236,8 +240,10 @@
 |PC           |Programme Coordinator                                                                 |           |[Reference](https://uk.indeed.com/career-advice/finding-a-job/program-coordinator)|
 |PCA          |Principal Component Analysis                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)|[Reference](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)|
 |PEP          |PErsoneelsPlan                                                                        |           |[Reference](https://www.vlaanderen.be/informatie-voor-hr-professionals/in-en-doorstroom/personeelsplannen)|
+|PIAK         |Project Intentie Afwegings Kader                                                      |           |               |
 |PID          |Persistent Identifier                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Persistent_identifier)|               |
 |PIF          |Project Informatie Fiche                                                              |           |[Reference](https://overheid.vlaanderen.be/goede-praktijken/projectmatig-werken-aan-de-hand-van-een-projectfiche)|
+|PIF          |Project Intentie Fiche                                                                |[Wikipedia](https://nl.wikipedia.org/wiki/Intentieovereenkomst)|               |
 |PM           |Project Manager                                                                       |           |               |
 |POPD         |Processing Of Personal Data                                                           |           |[Reference](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-constitutes-data-processing_en)|
 |POV          |Provincie Oost Vlaanderen                                                             |[Wikipedia](https://en.wikipedia.org/wiki/East_Flanders)|               |
@@ -317,6 +323,7 @@
 |VWI          |Vlaamse Wetenschappelijke Instellingen                                                |           |[Reference](https://www.ewi-vlaanderen.be/nieuws/decreetswijziging-organisatie-en-financiering-van-het-wetenschaps-en-innovatiebeleid)|
 |WAYF         |Where Are You From                                                                    |           |[Reference](https://docs.hpc.ugent.be/Windows/account/)|
 |WAZA         |World Association of Zoos and Aquariums                                               |           |[Reference](https://www.waza.org/)|
+|WBE          |Wild Beheer Eenheid                                                                   |[Wikipedia](https://nl.wikipedia.org/wiki/Wildbeheereenheid)|[Reference](https://natuurenbos.vlaanderen.be/jagen/jachtverlof-en-administratieve-verplichtingen/wildbeheereenheden)|
 |WDL          |Workflow Description Language                                                         |           |[Reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html)|
 |WDYT         |What Do You Think                                                                     |           |[Reference](https://en.wiktionary.org/wiki/WDYT)|
 |WGMS         |World Glacier Monitoring Service                                                      |[Wikipedia](https://en.wikipedia.org/wiki/World_Glacier_Monitoring_Service)|[Reference](https://wgms.ch/)|
