@@ -147,6 +147,7 @@
 |HSTS         |HTTP Strict Transport Security                                                        |[Wikipedia](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)|[Reference](https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it)|
 |HTAP         |Hybrid Transactional/Analytical Processing                                            |[Wikipedia](https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing)|[Reference](https://www.jamesserra.com/archive/2016/12/what-is-htap/)|
 |HTR          |Handwritten Text Recognition                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Handwriting_recognition)|               |
+|HVD          |High Value Datasets                                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Directive_on_the_re-use_of_public_sector_information#High_Value_Datasets)|[Reference](https://data.europa.eu/en/publications/datastories/high-value-datasets-overview-through-visualisation)|
 |HWG          |Horizontale Werkgroep                                                                 |           |               |
 |HiRAD        |Harmonising and integrating Radar-based approaches for monitoring Aerial bioDiversity |           |[Reference](https://enram.github.io/hirad/)|
 |IA           |Innovation Action                                                                     |           |[Reference](https://ec.europa.eu/research/participants/data/ref/h2020/wp/2014_2015/annexes/h2020-wp1415-annex-d-ia_en.pdf)|
@@ -313,6 +314,7 @@
 |VIAF         |Virtual International Authority File                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_International_Authority_File)|[Reference](https://viaf.org/)|
 |VPC          |Virtual Private Cloud                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_cloud)|[Reference](https://aws.amazon.com/vpc/)|
 |VPS          |Virtual Private Server                                                                |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_server)|[Reference](https://www.ibm.com/cloud/learn/vps)|
+|VWI          |Vlaamse Wetenschappelijke Instellingen                                                |           |[Reference](https://www.ewi-vlaanderen.be/nieuws/decreetswijziging-organisatie-en-financiering-van-het-wetenschaps-en-innovatiebeleid)|
 |WAYF         |Where Are You From                                                                    |           |[Reference](https://docs.hpc.ugent.be/Windows/account/)|
 |WAZA         |World Association of Zoos and Aquariums                                               |           |[Reference](https://www.waza.org/)|
 |WDL          |Workflow Description Language                                                         |           |[Reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html)|
