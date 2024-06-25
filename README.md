@@ -249,6 +249,7 @@
 |PC           |Programme Coordinator                                                                 |           |[Reference](https://uk.indeed.com/career-advice/finding-a-job/program-coordinator)|
 |PCA          |Principal Component Analysis                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)|[Reference](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)|
 |PEP          |PErsoneelsPlan                                                                        |           |[Reference](https://www.vlaanderen.be/informatie-voor-hr-professionals/in-en-doorstroom/personeelsplannen)|
+|PEP          |PErsoneel Plan                                                                        |           |[Reference](https://www.vlaanderen.be/informatie-voor-hr-professionals/in-en-doorstroom/personeelsplannen)|
 |PIAK         |Project Intentie Afwegings Kader                                                      |           |               |
 |PID          |Persistent Identifier                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Persistent_identifier)|               |
 |PIF          |Project Informatie Fiche                                                              |           |[Reference](https://overheid.vlaanderen.be/goede-praktijken/projectmatig-werken-aan-de-hand-van-een-projectfiche)|
@@ -331,6 +332,7 @@
 |VIAF         |Virtual International Authority File                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_International_Authority_File)|[Reference](https://viaf.org/)|
 |VPC          |Virtual Private Cloud                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_cloud)|[Reference](https://aws.amazon.com/vpc/)|
 |VPS          |Virtual Private Server                                                                |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_server)|[Reference](https://www.ibm.com/cloud/learn/vps)|
+|VVGN         |Vlaamse Vereniging Gelijkberechting Natuurbeheer                                      |           |[Reference](https://www.vvgn.be/)|
 |VWI          |Vlaamse Wetenschappelijke Instellingen                                                |           |[Reference](https://www.ewi-vlaanderen.be/nieuws/decreetswijziging-organisatie-en-financiering-van-het-wetenschaps-en-innovatiebeleid)|
 |WAYF         |Where Are You From                                                                    |           |[Reference](https://docs.hpc.ugent.be/Windows/account/)|
 |WAZA         |World Association of Zoos and Aquariums                                               |           |[Reference](https://www.waza.org/)|
