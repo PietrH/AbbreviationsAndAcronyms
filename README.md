@@ -195,6 +195,8 @@
 |LOUD         |Linked Open Usable Data                                                               |           |[Reference](https://linked.art/loud/)|
 |LSID         |Life Science Identifiers                                                              |[Wikipedia](https://en.wikipedia.org/wiki/LSID)|               |
 |LTER         |Long Term Scientific Research (Site/Network)                                          |[Wikipedia](https://en.wikipedia.org/wiki/Long_Term_Ecological_Research_Network)|               |
+|MAA          |Multi Actor Approach                                                                  |           |[Reference](https://eu-cap-network.ec.europa.eu/multi-actor-projects-research-and-practice-co-creating-solutions_en)|
+|MAP          |Multi Actor Panel                                                                     |           |               |
 |MAS          |Meetnet Agrarische Soorten                                                            |           |[Reference](https://www.vlaanderen.be/inbo/projecten/pilootproject-meetnet-agrarische-soorten-mas-broedvogels-en-zoogdieren)|
 |MCA          |Multiple Correspondence Analysis                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Multiple_correspondence_analysis)|[Reference](https://www.displayr.com/correspondence-analysis-versus-multiple-correspondence-analysis-use/)|
 |MCM          |Management Committee Member (Cost Mobilse)                                            |           |[Reference](https://www.mobilise-action.eu/tag/management-committee/)|
@@ -249,6 +251,7 @@
 |PC           |Programme Coordinator                                                                 |           |[Reference](https://uk.indeed.com/career-advice/finding-a-job/program-coordinator)|
 |PCA          |Principal Component Analysis                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)|[Reference](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)|
 |PEP          |PErsoneelsPlan                                                                        |           |[Reference](https://www.vlaanderen.be/informatie-voor-hr-professionals/in-en-doorstroom/personeelsplannen)|
+|PEP          |PErsoneel Plan                                                                        |           |[Reference](https://www.vlaanderen.be/informatie-voor-hr-professionals/in-en-doorstroom/personeelsplannen)|
 |PIAK         |Project Intentie Afwegings Kader                                                      |           |               |
 |PID          |Persistent Identifier                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Persistent_identifier)|               |
 |PIF          |Project Informatie Fiche                                                              |           |[Reference](https://overheid.vlaanderen.be/goede-praktijken/projectmatig-werken-aan-de-hand-van-een-projectfiche)|
@@ -331,6 +334,7 @@
 |VIAF         |Virtual International Authority File                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_International_Authority_File)|[Reference](https://viaf.org/)|
 |VPC          |Virtual Private Cloud                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_cloud)|[Reference](https://aws.amazon.com/vpc/)|
 |VPS          |Virtual Private Server                                                                |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_server)|[Reference](https://www.ibm.com/cloud/learn/vps)|
+|VVGN         |Vlaamse Vereniging Gelijkberechting Natuurbeheer                                      |           |[Reference](https://www.vvgn.be/)|
 |VWI          |Vlaamse Wetenschappelijke Instellingen                                                |           |[Reference](https://www.ewi-vlaanderen.be/nieuws/decreetswijziging-organisatie-en-financiering-van-het-wetenschaps-en-innovatiebeleid)|
 |WAYF         |Where Are You From                                                                    |           |[Reference](https://docs.hpc.ugent.be/Windows/account/)|
 |WAZA         |World Association of Zoos and Aquariums                                               |           |[Reference](https://www.waza.org/)|
