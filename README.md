@@ -23,6 +23,7 @@
 |AToM         |Access to Memory                                                                      |           |[Reference](https://www.accesstomemory.org/en/)|
 |AUP          |Acceptable Use Policy                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Acceptable_use_policy)|[Reference](https://helpdesk.ugent.be/account/en/REG000157EN.pdf)|
 |AWT          |ARPHA Writing Tool                                                                    |           |[Reference](https://arpha.pensoft.net/)|
+|AgO          |Agentschap Overheidspersoneel                                                         |           |[Reference](https://www.vlaanderen.be/agentschap-overheidspersoneel)|
 |BDQ          |Biodiversity Data Quality                                                             |           |[Reference](https://www.tdwg.org/community/bdq/)|
 |BGCI         |Botanic Gardens Conservation International                                            |[Wikipedia](https://en.wikipedia.org/wiki/Botanic_Gardens_Conservation_International)|[Reference](https://www.bgci.org/)|
 |BGS          |British Geographic Survey                                                             |[Wikipedia](https://en.wikipedia.org/wiki/British_Geological_Survey)|[Reference](https://www.bgs.ac.uk/)|
