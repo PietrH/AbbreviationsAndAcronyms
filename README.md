@@ -226,6 +226,7 @@
 |NBGB         |National Botanical Garden of Belgium                                                  |           |               |
 |NCP          |Natures Contributions to People                                                       |           |[Reference](https://ipbes.net/news/natures-contributions-people-ncp-article-ipbes-experts-science)|
 |NHC          |Natural History Collections                                                           |           |               |
+|NINA         |Norwegian Institute for Nature Research                                               |[Wikipedia](https://no.wikipedia.org/wiki/Norsk_institutt_for_naturforskning)|[Reference](https://www.nina.no/english/About-NINA)|
 |OBF          |Open Bioinformatics Foundation                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Open_Bioinformatics_Foundation)|[Reference](https://www.open-bio.org/)|
 |OBO          |Open biological and biomedical ontologies                                             |[Wikipedia](https://en.wikipedia.org/wiki/Open_Biomedical_Ontologies)|[Reference](http://www.obofoundry.org/)|
 |ODS          |Operational Data Stores                                                               |[Wikipedia](https://en.wikipedia.org/wiki/Operational_data_store)|[Reference](https://www.stitchdata.com/resources/operational-data-store/)|
