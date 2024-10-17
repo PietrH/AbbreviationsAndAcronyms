@@ -13,6 +13,7 @@
 |ANB          |Agentschap voor Natuur en Bos                                                         |[Wikipedia](https://nl.wikipedia.org/wiki/Agentschap_voor_Natuur_en_Bos)|[Reference](https://natuurenbos.be/over-ons/organisatie)|
 |AOB          |Any Other Business / Bugs                                                             |           |               |
 |API          |Application Programming Interface                                                     |[Wikipedia](https://en.wikipedia.org/wiki/API)|[Reference](https://www.ibm.com/topics/api)|
+|APS          |Assured Positioning System                                                            |           |[Reference](https://www.parsons.com/products/aps/)|
 |ARID         |Accept (some) Repetition In Documentation                                             |           |[Reference](https://www.writethedocs.org/guide/writing/docs-principles/#arid)|
 |ARID         |Active Reviews for Intermediate Designs                                               |[Wikipedia](https://en.wikipedia.org/wiki/Active_reviews_for_intermediate_designs)|[Reference](https://www.oreilly.com/library/view/software-architects-handbook/9781788624060/5c113f5a-ed1e-46b9-9d5a-bdf77adc176e.xhtml)|
 |ARIMA        |Autoregressive Integrated Moving Average                                              |[Wikipedia](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)|[Reference](https://otexts.com/fpp2/stationarity.html)|
@@ -20,6 +21,7 @@
 |ARs          |Association Rules                                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Association_rule_learning)|[Reference](https://doi.org/10.1016/j.eswa.2019.01.082)|
 |ASR          |Automatic Speech Recognition                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Speech_recognition)|[Reference](https://aws.amazon.com/transcribe/)|
 |AST          |Abstract Syntax Tree                                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Abstract_syntax_tree)|[Reference](https://dev.to/balapriya/abstract-syntax-tree-ast-explained-in-plain-english-1h38)|
+|AT           |Acoustic Telemetry                                                                    |           |[Reference](https://oceantrackingnetwork.org/what-we-do/)|
 |AToM         |Access to Memory                                                                      |           |[Reference](https://www.accesstomemory.org/en/)|
 |AUP          |Acceptable Use Policy                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Acceptable_use_policy)|[Reference](https://helpdesk.ugent.be/account/en/REG000157EN.pdf)|
 |AWT          |ARPHA Writing Tool                                                                    |           |[Reference](https://arpha.pensoft.net/)|
@@ -96,6 +98,7 @@
 |DSI          |Digital Sequence Information                                                          |           |[Reference](http://nagoyaprotocol.myspecies.info/node/27)|
 |DTD          |Documentation Technical Debt                                                          |           |[Reference](https://www.sciencedirect.com/science/article/abs/pii/S0164121222000310)|
 |DwC          |DarwinCore                                                                            |[Wikipedia](https://dwc.tdwg.org/)|[Reference](https://en.wikipedia.org/wiki/Darwin_Core)|
+|EBFM         |Ecosystem Based Fishery Management                                                    |           |[Reference](https://www.science.org/doi/10.1126/science.1098222)|
 |EBNF         |Extended Backus–Naur form                                                             |[Wikipedia](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form)|[Reference](https://www.garshol.priv.no/download/text/bnf.html)|
 |EBS          |Amazon Elastic Block Store                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)|[Reference](https://aws.amazon.com/ebs/)|
 |EBV          |Essential Biodiversity Variables                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Essential_Biodiversity_Variables)|[Reference](https://geobon.org/ebvs/what-are-ebvs/)|
@@ -178,9 +181,11 @@
 |IRIs         |Internationalized Resource Identifiers                                                |[Wikipedia](https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier)|[Reference](https://tools.ietf.org/html/rfc3987)|
 |IS           |Index Seminum                                                                         |[Wikipedia](https://en.wikipedia.org/wiki/Index_Seminum)|               |
 |ITIS         |Integrated Taxonomic Information System                                               |[Wikipedia](https://en.wikipedia.org/wiki/Integrated_Taxonomic_Information_System)|[Reference](https://www.itis.gov/)|
+|IoT          |Internet of Things                                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Internet_of_things)|[Reference](https://www.techtarget.com/iotagenda/definition/Internet-of-Things-IoT)|
 |JEMU         |Joint Experimental Molecular Unit                                                     |           |[Reference](https://www.biodiversity.be/5235/)|
 |JIT          |Just In Time (Compilation)                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_compilation)|[Reference](https://www.r-statistics.com/2012/04/speed-up-your-r-code-using-a-just-in-time-jit-compiler/)|
 |JRC          |Joint Research Centre                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Joint_Research_Centre)|[Reference](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/joint-research-centre_en)|
+|JSATS        |Juvenile Salmon Acoustic Telemetry System                                             |           |[Reference](https://www.pnnl.gov/technology/jsats)|
 |KDD          |Knowledge Discovery in Databases                                                      |           |[Reference](https://www.techopedia.com/definition/25827/knowledge-discovery-in-databases-kdd)|
 |KEE          |Knowledge Engineering Environment                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Knowledge_Engineering_Environment)|[Reference](https://exhibits.stanford.edu/feigenbaum/catalog/sv429hd6966)|
 |KLA          |Kleine LandschapsAvifauna                                                             |           |[Reference](https://share.vlaamsbrabant.be/Leefmilieu/Koesterburen/Maatregelenfiches/Leefgebiedenfiches/H_02_akkers.pdf)|
@@ -208,6 +213,7 @@
 |MCMC         |Markov Chain Monte Carlo                                                              |[Wikipedia](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)|[Reference](https://github.com/inbo/bayesian-workshop-2023/blob/main/source/workshop_1_mcmc_en_brms.Rmd)|
 |MDA          |Marine Data Archive                                                                   |           |[Reference](https://marinedataarchive.org/introduction.php)|
 |MER          |Milieu Effecten Rapport                                                               |[Wikipedia](https://nl.wikipedia.org/wiki/Milieueffectrapportage)|[Reference](https://www.vlaanderen.be/milieueffectrapport-mer)|
+|MERR         |Movement Ecology and Reproductive Resilience                                          |           |[Reference](https://myfwc.com/research/saltwater/fish/other/reproductive-publications/)|
 |MET          |Morpho-Ecological Type                                                                |           |               |
 |MFA          |Multiple Factor Analysis                                                              |[Wikipedia](https://en.wikipedia.org/wiki/Multiple_factor_analysis)|[Reference](http://factominer.free.fr/factomethods/multiple-factor-analysis.html)|
 |MICS         |Minimum Information about a Digital Collection                                        |           |[Reference](http://webcache.googleusercontent.com/search?q=cache:ygLJlj5uik0J:www.spnhc-icomnathist2020.com/s4-4mids-and-mics-minimum-information-out-of-digitisation/+&cd=1&hl=en&ct=clnk&gl=be)|
@@ -216,6 +222,8 @@
 |MOBS         |Machine Observations                                                                  |           |[Reference](https://www.tdwg.org/community/mobs/)|
 |MODS         |Metadata Object Description Schema (compromise between MARC and DublinCore)           |[Wikipedia](https://en.wikipedia.org/wiki/Metadata_Object_Description_Schema)|[Reference](https://www.loc.gov/standards/mods/)|
 |MOF          |Meta-Object Facility                                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Meta-Object_Facility)|[Reference](https://www.omg.org/spec/MOF/)|
+|MOL          |Map Of Life                                                                           |           |[Reference](https://mol.org/)|
+|MOL          |Movement Of Life                                                                      |           |[Reference](https://movementoflife.si.edu/)|
 |MONEOS       |MONitoring Effecten Ontwikkelings Schets                                              |           |[Reference](https://www.vlaanderen.be/publicaties/moneos-geintegreerd-datarapport-inbo-toestand-zeeschelde-2022-monitoringsoverzicht-en-1ste-lijnsrapportage-geomorfologie-diversiteit-habitats-en-diversiteit-soorten)|
 |MSE          |Mean squared error                                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Mean_squared_error)|               |
 |MT           |Management Team                                                                       |           |[Reference](https://www.vlaanderen.be/inbo/teams/managementteam)|
@@ -229,6 +237,7 @@
 |NHC          |Natural History Collections                                                           |           |               |
 |NINA         |Norwegian Institute for Nature Research                                               |[Wikipedia](https://no.wikipedia.org/wiki/Norsk_institutt_for_naturforskning)|[Reference](https://www.nina.no/english/About-NINA)|
 |OBF          |Open Bioinformatics Foundation                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Open_Bioinformatics_Foundation)|[Reference](https://www.open-bio.org/)|
+|OBIS         |Ocean Biodiversity Information System                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Ocean_Biodiversity_Information_System)|[Reference](https://obis.org/)|
 |OBO          |Open biological and biomedical ontologies                                             |[Wikipedia](https://en.wikipedia.org/wiki/Open_Biomedical_Ontologies)|[Reference](http://www.obofoundry.org/)|
 |ODS          |Operational Data Stores                                                               |[Wikipedia](https://en.wikipedia.org/wiki/Operational_data_store)|[Reference](https://www.stitchdata.com/resources/operational-data-store/)|
 |OER          |Open Educational Resources                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Open_educational_resources)|[Reference](https://unesdoc.unesco.org/ark:/48223/pf0000370936)|
@@ -247,6 +256,7 @@
 |OS           |Open Science                                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Open_science)|[Reference](https://openscience.com/)|
 |OSG          |Open Science Grid                                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Open_Science_Grid_Consortium)|[Reference](https://osg-htc.org/)|
 |OT           |Onderzoeksteam                                                                        |           |               |
+|OTN          |Ocean Tracking Network                                                                |[Wikipedia](https://en.wikipedia.org/wiki/Ocean_Tracking_Network)|[Reference](https://oceantrackingnetwork.org/)|
 |OTU          |Operational Taxonomic Unit                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Operational_taxonomic_unit)|[Reference](https://doi.org/10.1371%2Fjournal.pone.0070837)|
 |OWL          |Web Ontology Language                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Web_Ontology_Language)|               |
 |OWM          |Onbezoldigd Wetenschappelijk Medewerker                                               |[Wikipedia](https://www.cbs.nl/nl-nl/onze-diensten/methoden/begrippen/onbezoldigd-personeel)|               |
@@ -258,12 +268,12 @@
 |PC           |Programme Coordinator                                                                 |           |[Reference](https://uk.indeed.com/career-advice/finding-a-job/program-coordinator)|
 |PCA          |Principal Component Analysis                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)|[Reference](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)|
 |PEP          |PErsoneelsPlan                                                                        |           |[Reference](https://www.vlaanderen.be/informatie-voor-hr-professionals/in-en-doorstroom/personeelsplannen)|
-|PEP          |PErsoneel Plan                                                                        |           |[Reference](https://www.vlaanderen.be/informatie-voor-hr-professionals/in-en-doorstroom/personeelsplannen)|
 |PIAK         |Project Intentie Afwegings Kader                                                      |           |               |
 |PID          |Persistent Identifier                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Persistent_identifier)|               |
 |PIF          |Project Informatie Fiche                                                              |           |[Reference](https://overheid.vlaanderen.be/goede-praktijken/projectmatig-werken-aan-de-hand-van-een-projectfiche)|
 |PIF          |Project Intentie Fiche                                                                |[Wikipedia](https://nl.wikipedia.org/wiki/Intentieovereenkomst)|               |
 |PM           |Project Manager                                                                       |           |               |
+|PNT          |Positioning Navigation and Timing                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Satellite_navigation)|[Reference](https://www.transportation.gov/pnt/what-positioning-navigation-and-timing-pnt)|
 |POPD         |Processing Of Personal Data                                                           |           |[Reference](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-constitutes-data-processing_en)|
 |POV          |Provincie Oost Vlaanderen                                                             |[Wikipedia](https://en.wikipedia.org/wiki/East_Flanders)|               |
 |PPRS         |People-Powered Research Science                                                       |           |[Reference](https://www.sciencedirect.com/science/article/pii/S0896627316307954)|
@@ -287,6 +297,7 @@
 |RMCA         |Royal Museum for Central Africa                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Royal_Museum_for_Central_Africa)|[Reference](https://www.africamuseum.be)|
 |ROK          |RaamOvereenKomst                                                                      |           |               |
 |ROR          |Research Organization Registry                                                        |           |[Reference](https://ror.org/)|
+|ROV          |Remotely Operated Vehicle                                                             |[Wikipedia](https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle)|[Reference](https://web.archive.org/web/20160701191924/http://maritime.about.com/od/Innovation/a/Remotely-Operated-Vehicle-Design-And-Function.htm)|
 |RRI          |Responsible Research and Innovation                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Responsible_Research_and_Innovation)|[Reference](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/responsible-research-innovation)|
 |RSE          |Research Software Engineering                                                         |[Wikipedia](https://en.wikipedia.org/wiki/Research_software_engineering)|[Reference](https://society-rse.org/)|
 |RiC          |Records in Contexts                                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Records_in_Contexts)|[Reference](https://www.ica.org/en/egad-ric-conceptual-model)|
@@ -350,9 +361,11 @@
 |WDL          |Workflow Description Language                                                         |           |[Reference](https://docs.dockstore.org/en/develop/getting-started/getting-started-with-wdl.html)|
 |WDYT         |What Do You Think                                                                     |           |[Reference](https://en.wiktionary.org/wiki/WDYT)|
 |WGMS         |World Glacier Monitoring Service                                                      |[Wikipedia](https://en.wikipedia.org/wiki/World_Glacier_Monitoring_Service)|[Reference](https://wgms.ch/)|
+|WHOI         |Woods Hole Oceanographic Institution                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Woods_Hole_Oceanographic_Institution)|[Reference](https://www.whoi.edu/what-we-do/)|
 |WIZ          |Wild In Zicht                                                                         |           |[Reference](https://natuurenbos.vlaanderen.be/schade-en-overlast/schade-door-jachtwild-beschermde-dieren/wild-zicht)|
 |XDF          |Exchange Data Format                                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Data_exchange)|[Reference](https://www.tdwg.org/standards/xdf/)|
 |ZAP          |Zelfstandig Academisch Personeel                                                      |[Wikipedia](https://nl.wikipedia.org/wiki/Hoofddocent)|               |
 |eMoF         |extended Measurement or Fact                                                          |           |[Reference](https://manual.obis.org/vocabulary.html#measurementorfact-vocabulary-background)|
+|iTAG         |Integrated Tracking of Aquatic Animals in the Gulf of Mexico                          |           |[Reference](https://itagscience.com/)|
 |s.l.         |sine locale, without a location                                                       |           |               |
 |NA           |Networking Action                                                                     |           |               |
