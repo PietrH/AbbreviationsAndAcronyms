@@ -23,6 +23,7 @@
 |AToM         |Access to Memory                                                                      |           |[Reference](https://www.accesstomemory.org/en/)|
 |AUP          |Acceptable Use Policy                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Acceptable_use_policy)|[Reference](https://helpdesk.ugent.be/account/en/REG000157EN.pdf)|
 |AWT          |ARPHA Writing Tool                                                                    |           |[Reference](https://arpha.pensoft.net/)|
+|AgO          |Agentschap Overheidspersoneel                                                         |           |[Reference](https://www.vlaanderen.be/agentschap-overheidspersoneel)|
 |BDQ          |Biodiversity Data Quality                                                             |           |[Reference](https://www.tdwg.org/community/bdq/)|
 |BGCI         |Botanic Gardens Conservation International                                            |[Wikipedia](https://en.wikipedia.org/wiki/Botanic_Gardens_Conservation_International)|[Reference](https://www.bgci.org/)|
 |BGS          |British Geographic Survey                                                             |[Wikipedia](https://en.wikipedia.org/wiki/British_Geological_Survey)|[Reference](https://www.bgs.ac.uk/)|
@@ -61,6 +62,7 @@
 |CPI          |Central Posterior Interval                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Credible_interval)|[Reference](https://jeremypiger.com/assets/files/Introduction_to_Bayesian_Econometrics_I.pdf)|
 |CPUE         |Catch Per Unit Effort                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Catch_per_unit_effort)|[Reference](https://academic.oup.com/icesjms/article/63/8/1373/710477?login=false)|
 |CRAR         |Concurrent Relational Association Rule (mining)                                       |           |[Reference](https://doi.org/10.1016/j.eswa.2019.01.082)|
+|CRIS         |Current Research Information System                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Current_research_information_system)|[Reference](https://www.elsevier.com/products/pure)|
 |CRUD         |Create Read Update Delete                                                             |[Wikipedia](https://en.wikipedia.org/wiki/Create%2C_read%2C_update_and_delete)|[Reference](https://www.educative.io/blog/crud-operations)|
 |CS           |Citizen Science                                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Citizen_science)|               |
 |CSL          |Citation Style Language                                                               |[Wikipedia](https://en.wikipedia.org/wiki/Citation_Style_Language)|[Reference](https://citationstyles.org/)|
@@ -148,6 +150,7 @@
 |GenDiv       |Genetische Diversiteit                                                                |           |[Reference](https://www.vlaanderen.be/inbo/teams/genetische-diversiteit-1)|
 |GloBAM       |Global Biomass flows of Aerial Migrations                                             |           |[Reference](https://www.enram.eu/globam/)|
 |HITs         |Human Intelligence Tasks                                                              |           |[Reference](https://forum.turkerview.com/wiki/Human-Intelligence-Tasks-HITs)|
+|HOL          |Half Open Landschap                                                                   |           |[Reference](https://thesaurus.onroerenderfgoed.be/conceptschemes/ERFGOEDTYPES/c/2060)|
 |HPDI         |Highest Posterior Density Interval                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Credible_interval)|[Reference](https://stats.stackexchange.com/questions/148439/what-is-a-highest-density-region-hdr)|
 |HSTS         |HTTP Strict Transport Security                                                        |[Wikipedia](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)|[Reference](https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it)|
 |HTAP         |Hybrid Transactional/Analytical Processing                                            |[Wikipedia](https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing)|[Reference](https://www.jamesserra.com/archive/2016/12/what-is-htap/)|
@@ -180,6 +183,7 @@
 |JRC          |Joint Research Centre                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Joint_Research_Centre)|[Reference](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/joint-research-centre_en)|
 |KDD          |Knowledge Discovery in Databases                                                      |           |[Reference](https://www.techopedia.com/definition/25827/knowledge-discovery-in-databases-kdd)|
 |KEE          |Knowledge Engineering Environment                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Knowledge_Engineering_Environment)|[Reference](https://exhibits.stanford.edu/feigenbaum/catalog/sv429hd6966)|
+|KLA          |Kleine LandschapsAvifauna                                                             |           |[Reference](https://share.vlaamsbrabant.be/Leefmilieu/Koesterburen/Maatregelenfiches/Leefgebiedenfiches/H_02_akkers.pdf)|
 |KML          |Keyhole Markup Language                                                               |[Wikipedia](https://en.wikipedia.org/wiki/Keyhole_Markup_Language)|[Reference](https://www.ogc.org/standards/kml/)|
 |KPI          |Key Performance Indicator                                                             |[Wikipedia](https://en.wikipedia.org/wiki/Performance_indicator)|[Reference](https://kpi.org/KPI-Basics)|
 |LDAP         |Lightweight Directory Access Protocol                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)|[Reference](https://www.okta.com/identity-101/what-is-ldap/)|
@@ -198,6 +202,7 @@
 |MAA          |Multi Actor Approach                                                                  |           |[Reference](https://eu-cap-network.ec.europa.eu/multi-actor-projects-research-and-practice-co-creating-solutions_en)|
 |MAP          |Multi Actor Panel                                                                     |           |               |
 |MAS          |Meetnet Agrarische Soorten                                                            |           |[Reference](https://www.vlaanderen.be/inbo/projecten/pilootproject-meetnet-agrarische-soorten-mas-broedvogels-en-zoogdieren)|
+|MBAG         |Meetnet Biodiversiteit Agrarisch Gebied                                               |           |[Reference](https://www.vlaanderen.be/inbo/projecten/meetnet-biodiversiteit-agrarisch-gebied-mbag-meetnet-agrarische-soorten-mas)|
 |MCA          |Multiple Correspondence Analysis                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Multiple_correspondence_analysis)|[Reference](https://www.displayr.com/correspondence-analysis-versus-multiple-correspondence-analysis-use/)|
 |MCM          |Management Committee Member (Cost Mobilse)                                            |           |[Reference](https://www.mobilise-action.eu/tag/management-committee/)|
 |MCMC         |Markov Chain Monte Carlo                                                              |[Wikipedia](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)|[Reference](https://github.com/inbo/bayesian-workshop-2023/blob/main/source/workshop_1_mcmc_en_brms.Rmd)|
@@ -222,12 +227,14 @@
 |NBGB         |National Botanical Garden of Belgium                                                  |           |               |
 |NCP          |Natures Contributions to People                                                       |           |[Reference](https://ipbes.net/news/natures-contributions-people-ncp-article-ipbes-experts-science)|
 |NHC          |Natural History Collections                                                           |           |               |
+|NINA         |Norwegian Institute for Nature Research                                               |[Wikipedia](https://no.wikipedia.org/wiki/Norsk_institutt_for_naturforskning)|[Reference](https://www.nina.no/english/About-NINA)|
 |OBF          |Open Bioinformatics Foundation                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Open_Bioinformatics_Foundation)|[Reference](https://www.open-bio.org/)|
 |OBO          |Open biological and biomedical ontologies                                             |[Wikipedia](https://en.wikipedia.org/wiki/Open_Biomedical_Ontologies)|[Reference](http://www.obofoundry.org/)|
 |ODS          |Operational Data Stores                                                               |[Wikipedia](https://en.wikipedia.org/wiki/Operational_data_store)|[Reference](https://www.stitchdata.com/resources/operational-data-store/)|
 |OER          |Open Educational Resources                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Open_educational_resources)|[Reference](https://unesdoc.unesco.org/ark:/48223/pf0000370936)|
 |OIL          |Ontology Inference Layer                                                              |[Wikipedia](https://en.wikipedia.org/wiki/Ontology_Inference_Layer)|[Reference](https://ontoknowledge.org/)|
 |OIS          |OmgevingsInformatieSamenwerkingsverband                                               |           |[Reference](https://omgeving.vlaanderen.be/sites/default/files/2022-05/omgevingshandhavingsplan%202022-2023.pdf)|
+|OLA          |Open LandschapsAvifauna                                                               |           |[Reference](https://share.vlaamsbrabant.be/Leefmilieu/Koesterburen/Maatregelenfiches/Leefgebiedenfiches/H_02_akkers.pdf)|
 |OLAP         |Online Analytical Processing                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Online_analytical_processing)|[Reference](https://www.guru99.com/online-analytical-processing.html)|
 |OLTP         |Online Transaction Processing                                                         |[Wikipedia](https://en.wikipedia.org/wiki/Online_transaction_processing)|[Reference](https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/online-transaction-processing)|
 |OMG          |Object Management Group                                                               |[Wikipedia](https://en.wikipedia.org/wiki/Object_Management_Group)|[Reference](https://www.omg.org/)|
@@ -320,6 +327,7 @@
 |TW           |Tervuren Wood                                                                         |           |[Reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)|
 |TWDTW        |Time-Weighted Dynamic Time Warping                                                    |           |[Reference](https://doi.org/10.18637%2Fjss.v088.i05)|
 |TWS          |Tervuren Wood Samples/Specimens                                                       |           |[Reference](https://www.africamuseum.be/en/research/collections_libraries/biology/collections/xylarium)|
+|TerEc        |Terrestrial Ecology Unit                                                              |           |[Reference](https://www.ecology.ugent.be/terec/)|
 |UAT          |User Acceptance Testing                                                               |[Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)|[Reference](https://www.gbif-uat.org/)|
 |UAT          |User Acceptence Testing                                                               |[Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing#User_acceptance_testing)|[Reference](https://www.testingxperts.com/blog/uat-testing)|
 |UI           |Unsigned Integer (capable of representing only non-negative integers)                 |[Wikipedia](https://en.wikipedia.org/wiki/Integer_(computer_science))|[Reference](https://en.wikipedia.org/wiki/Integer_(computer_science))|
