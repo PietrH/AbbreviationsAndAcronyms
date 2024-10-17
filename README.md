@@ -258,6 +258,7 @@
 |PC           |Programme Coordinator                                                                 |           |[Reference](https://uk.indeed.com/career-advice/finding-a-job/program-coordinator)|
 |PCA          |Principal Component Analysis                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)|[Reference](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)|
 |PEP          |PErsoneelsPlan                                                                        |           |[Reference](https://www.vlaanderen.be/informatie-voor-hr-professionals/in-en-doorstroom/personeelsplannen)|
+|PEP          |PErsoneel Plan                                                                        |           |[Reference](https://www.vlaanderen.be/informatie-voor-hr-professionals/in-en-doorstroom/personeelsplannen)|
 |PIAK         |Project Intentie Afwegings Kader                                                      |           |               |
 |PID          |Persistent Identifier                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Persistent_identifier)|               |
 |PIF          |Project Informatie Fiche                                                              |           |[Reference](https://overheid.vlaanderen.be/goede-praktijken/projectmatig-werken-aan-de-hand-van-een-projectfiche)|
