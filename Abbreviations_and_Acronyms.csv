@@ -346,16 +346,17 @@ OT,Onderzoeksteam,,
 VVGN,Vlaamse Vereniging Gelijkberechting Natuurbeheer,,https://www.vvgn.be/
 MAP,Multi Actor Panel,,
 MAA,Multi Actor Approach,,https://eu-cap-network.ec.europa.eu/multi-actor-projects-research-and-practice-co-creating-solutions_en
-AT,Acoustic Telemetry,,
-EBFM,Ecosystem Based Fishery Management,,
-OTN,Ocean Tracking Network,,
-MERR,Movement Ecology and Reproductive Resilience,,
-iTAG,Integrated Tracking of Aquatic Animals in the Gulf of Mexico,,
-IoT,Internet of Things,,
-OBIS,Ocean Biodiversity Information System,,
-MOL,Map Of Life,,
-MOL,Movement Of Life,,
-WHOI,Woods Hole Oceanographic Institution,,
-ROV,Remotely Operated Vehicle,,
-APS,Assured Positioning System,,
-JSATS,Juvenile Salmon Acoustic Telemetry System,,
+AT,Acoustic Telemetry,,https://oceantrackingnetwork.org/what-we-do/
+EBFM,Ecosystem Based Fishery Management,,https://www.science.org/doi/10.1126/science.1098222
+OTN,Ocean Tracking Network,https://en.wikipedia.org/wiki/Ocean_Tracking_Network,https://oceantrackingnetwork.org/
+MERR,Movement Ecology and Reproductive Resilience,,https://myfwc.com/research/saltwater/fish/other/reproductive-publications/
+iTAG,Integrated Tracking of Aquatic Animals in the Gulf of Mexico,,https://itagscience.com/
+IoT,Internet of Things,https://en.wikipedia.org/wiki/Internet_of_things,https://www.techtarget.com/iotagenda/definition/Internet-of-Things-IoT
+OBIS,Ocean Biodiversity Information System,https://en.wikipedia.org/wiki/Ocean_Biodiversity_Information_System,https://obis.org/
+MOL,Map Of Life,,https://mol.org/
+MOL,Movement Of Life,,https://movementoflife.si.edu/
+WHOI,Woods Hole Oceanographic Institution,https://en.wikipedia.org/wiki/Woods_Hole_Oceanographic_Institution,https://www.whoi.edu/what-we-do/
+ROV,Remotely Operated Vehicle,https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle,https://web.archive.org/web/20160701191924/http://maritime.about.com/od/Innovation/a/Remotely-Operated-Vehicle-Design-And-Function.htm
+APS,Assured Positioning System,,https://www.parsons.com/products/aps/
+PNT,Positioning Navigation and Timing,https://en.wikipedia.org/wiki/Satellite_navigation,https://www.transportation.gov/pnt/what-positioning-navigation-and-timing-pnt
+JSATS,Juvenile Salmon Acoustic Telemetry System,,https://www.pnnl.gov/technology/jsats
