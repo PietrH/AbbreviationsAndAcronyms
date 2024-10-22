@@ -92,6 +92,7 @@
 |DOV          |Databank Ondergrond Vlaanderen                                                        |           |[Reference](https://www.dov.vlaanderen.be/)|
 |DPLA         |Digital Public Library of America                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Digital_Public_Library_of_America)|[Reference](https://dp.la/)|
 |DPO          |Data Protection Officer                                                               |[Wikipedia](https://en.wikipedia.org/wiki/Data_Protection_Officer)|[Reference](https://edps.europa.eu/data-protection/data-protection/reference-library/data-protection-officer-dpo_en)|
+|DPSIR        |Drivers, Pressures, State, Impact, and Response model of intervention                 |[Wikipedia](https://en.wikipedia.org/wiki/DPSIR)|[Reference](https://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/category/details/en/c/1026561/)|
 |DQ           |Data Quality                                                                          |           |[Reference](https://en.wikipedia.org/wiki/Data_quality)|
 |DRAR         |Discovery of Relational Association Rules                                             |           |[Reference](https://doi.org/10.1016/j.eswa.2019.01.082)|
 |DRG          |Dynamic Report Generation                                                             |[Wikipedia](https://en.wikipedia.org/wiki/Knitr)|[Reference](https://cran.r-project.org/web/packages/knitr/index.html)|
