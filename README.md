@@ -97,6 +97,7 @@
 |DRAR         |Discovery of Relational Association Rules                                             |           |[Reference](https://doi.org/10.1016/j.eswa.2019.01.082)|
 |DRG          |Dynamic Report Generation                                                             |[Wikipedia](https://en.wikipedia.org/wiki/Knitr)|[Reference](https://cran.r-project.org/web/packages/knitr/index.html)|
 |DSI          |Digital Sequence Information                                                          |           |[Reference](http://nagoyaprotocol.myspecies.info/node/27)|
+|DST          |Data Storage Tag                                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Data_storage_tag)|[Reference](https://www.star-oddi.com/media/1/dst_brochure_-may_2017_web.pdf)|
 |DTD          |Documentation Technical Debt                                                          |           |[Reference](https://www.sciencedirect.com/science/article/abs/pii/S0164121222000310)|
 |DwC          |DarwinCore                                                                            |[Wikipedia](https://dwc.tdwg.org/)|[Reference](https://en.wikipedia.org/wiki/Darwin_Core)|
 |EBFM         |Ecosystem Based Fishery Management                                                    |           |[Reference](https://www.science.org/doi/10.1126/science.1098222)|
@@ -171,6 +172,7 @@
 |IDA          |Initial Data Analysis                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Data_analysis#Initial_data_analysis)|               |
 |IDEAS        |Inclusion Diversity Equity and Accessibility Strategies                               |[Wikipedia](https://www.rbwstrategy.com/inclusion-diversity-equity-and-accessibility-whats-the-big-i-d-e-a/)|               |
 |IGSN         |International Geo Sample Number                                                       |[Wikipedia](https://en.wikipedia.org/wiki/International_Geo_Sample_Number)|[Reference](http://www.geosamples.org/igsnabout)|
+|IHD          |InstandHoudings Doelstellingen                                                        |           |[Reference](https://www.ecopedia.be/encyclopedie/europese-natuurdoelen-ihd)|
 |ILK          |Indiginous and Local Knowledge                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Traditional_knowledge)|[Reference](http://www.unesco.org/new/en/natural-sciences/priority-areas/links/related-information/what-is-local-and-indigenous-knowledge/)|
 |IMIS         |VLIZ Integrated Marine Informations System                                            |           |[Reference](https://marineinfo.org/imis-search)|
 |INBO         |Instituut voor Natuur- en BosOnderzoek                                                |[Wikipedia](https://nl.wikipedia.org/wiki/Instituut_voor_Natuur-_en_Bosonderzoek)|[Reference](https://www.vlaanderen.be/inbo/over-ons/missie-en-visie/)|
