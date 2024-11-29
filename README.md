@@ -97,6 +97,7 @@
 |DRAR         |Discovery of Relational Association Rules                                             |           |[Reference](https://doi.org/10.1016/j.eswa.2019.01.082)|
 |DRG          |Dynamic Report Generation                                                             |[Wikipedia](https://en.wikipedia.org/wiki/Knitr)|[Reference](https://cran.r-project.org/web/packages/knitr/index.html)|
 |DSI          |Digital Sequence Information                                                          |           |[Reference](http://nagoyaprotocol.myspecies.info/node/27)|
+|DST          |Data Storage Tag                                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Data_storage_tag)|[Reference](https://www.star-oddi.com/media/1/dst_brochure_-may_2017_web.pdf)|
 |DTD          |Documentation Technical Debt                                                          |           |[Reference](https://www.sciencedirect.com/science/article/abs/pii/S0164121222000310)|
 |DwC          |DarwinCore                                                                            |[Wikipedia](https://dwc.tdwg.org/)|[Reference](https://en.wikipedia.org/wiki/Darwin_Core)|
 |EBFM         |Ecosystem Based Fishery Management                                                    |           |[Reference](https://www.science.org/doi/10.1126/science.1098222)|
