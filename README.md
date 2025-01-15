@@ -275,6 +275,7 @@
 |PID          |Persistent Identifier                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Persistent_identifier)|               |
 |PIF          |Project Informatie Fiche                                                              |           |[Reference](https://overheid.vlaanderen.be/goede-praktijken/projectmatig-werken-aan-de-hand-van-een-projectfiche)|
 |PIF          |Project Intentie Fiche                                                                |[Wikipedia](https://nl.wikipedia.org/wiki/Intentieovereenkomst)|               |
+|PIT          |Passive Integrated Transponder tags                                                   |[Wikipedia](https://en.wikipedia.org/wiki/Radio-frequency_identification)|[Reference](https://fishbio.com/beginners-guide-pit-tags/)|
 |PM           |Project Manager                                                                       |           |               |
 |PNT          |Positioning Navigation and Timing                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Satellite_navigation)|[Reference](https://www.transportation.gov/pnt/what-positioning-navigation-and-timing-pnt)|
 |POPD         |Processing Of Personal Data                                                           |           |[Reference](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-constitutes-data-processing_en)|
