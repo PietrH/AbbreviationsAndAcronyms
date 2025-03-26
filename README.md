@@ -91,6 +91,7 @@
 |DOI          |Digital Object Identifier                                                             |[Wikipedia](https://en.wikipedia.org/wiki/Digital_object_identifier)|[Reference](https://doi.org)|
 |DOIP         |Digital Object Interface Protocol                                                     |           |[Reference](https://www.dona.net/sites/default/files/2018-11/DOIPv2Spec_1.pdf)|
 |DOV          |Databank Ondergrond Vlaanderen                                                        |           |[Reference](https://www.dov.vlaanderen.be/)|
+|DPIA         |Data Protection Impact Assessment                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Privacy_Impact_Assessment#Europe)|[Reference](https://gdpr.eu/data-protection-impact-assessment-template/)|
 |DPLA         |Digital Public Library of America                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Digital_Public_Library_of_America)|[Reference](https://dp.la/)|
 |DPO          |Data Protection Officer                                                               |[Wikipedia](https://en.wikipedia.org/wiki/Data_Protection_Officer)|[Reference](https://edps.europa.eu/data-protection/data-protection/reference-library/data-protection-officer-dpo_en)|
 |DPSIR        |Drivers, Pressures, State, Impact, and Response model of intervention                 |[Wikipedia](https://en.wikipedia.org/wiki/DPSIR)|[Reference](https://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/category/details/en/c/1026561/)|
@@ -272,6 +273,7 @@
 |PC           |Programme Coordinator                                                                 |           |[Reference](https://uk.indeed.com/career-advice/finding-a-job/program-coordinator)|
 |PCA          |Principal Component Analysis                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)|[Reference](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)|
 |PEP          |PErsoneelsPlan                                                                        |           |[Reference](https://www.vlaanderen.be/informatie-voor-hr-professionals/in-en-doorstroom/personeelsplannen)|
+|PIA          |Privacy Impact Assesment                                                              |[Wikipedia](https://en.wikipedia.org/wiki/Privacy_Impact_Assessment)|[Reference](https://gdpr-info.eu/issues/privacy-impact-assessment/)|
 |PIAK         |Project Intentie Afwegings Kader                                                      |           |               |
 |PID          |Persistent Identifier                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Persistent_identifier)|               |
 |PIF          |Project Informatie Fiche                                                              |           |[Reference](https://overheid.vlaanderen.be/goede-praktijken/projectmatig-werken-aan-de-hand-van-een-projectfiche)|
