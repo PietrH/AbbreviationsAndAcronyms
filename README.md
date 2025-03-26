@@ -81,6 +81,7 @@
 |DAMS         |Digital Asset Management Systems                                                      |           |[Reference](https://iiif.io/news/2017/05/01/letter-to-dams/)|
 |DDG          |Dynamic Document Generation                                                           |           |[Reference](https://www.researchgate.net/publication/337181550_A_Reproducible_Data_Analysis_Workflow_with_R_Markdown_Git_Make_and_Docker)|
 |DEIA         |Diversity Equity Inclusion and Accessibility                                          |[Wikipedia](https://www.nifa.usda.gov/diversity-equity-inclusion-accessibility-deia)|               |
+|DELTA        |DEscription Language for TAxonomy                                                     |           |[Reference](https://www.delta-intkey.com/)|
 |DEMNA        |Département de l’Etude du milieu naturel et agricole                                  |[Wikipedia](https://www.wikidata.org/wiki/Q108059898)|[Reference](http://environnement.wallonie.be/administration/demna.htm)|
 |DH           |Digital Humanities                                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Digital_humanities)|               |
 |DHS          |Digital Herbarium Specimens                                                           |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_herbarium)|               |
@@ -313,6 +314,7 @@
 |SAP          |System Analysis Program                                                               |[Wikipedia](https://en.wikipedia.org/wiki/SAP)|[Reference](https://www.sap.com/about/company/what-is-sap.html)|
 |SBP          |Soorten Beschermings Programma                                                        |           |[Reference](https://natuurenbos.vlaanderen.be/dieren-en-planten/soortenbescherming/soortenbeschermingsprogrammas-sbps)|
 |SBP          |Soorts Beschermings Programma                                                         |           |[Reference](https://natuurenbos.vlaanderen.be/dieren-en-planten/soortenbescherming/soortenbeschermingsprogrammas-sbps)|
+|SDD          |TDWG Structured Descriptive Dataformat                                                |           |[Reference](https://sdd.tdwg.org/)|
 |SDG          |Sustainable Development Goal                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)|[Reference](https://sdgs.un.org/goals)|
 |SDR          |Specimen Data Refinery                                                                |           |[Reference](https://doi.org/10.3897/biss.3.37647)|
 |SIMD         |Single instruction multiple data                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data)|[Reference](https://www.sciencedirect.com/topics/computer-science/single-instruction-multiple-data)|
