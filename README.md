@@ -81,6 +81,7 @@
 |DAMS         |Digital Asset Management Systems                                                      |           |[Reference](https://iiif.io/news/2017/05/01/letter-to-dams/)|
 |DDG          |Dynamic Document Generation                                                           |           |[Reference](https://www.researchgate.net/publication/337181550_A_Reproducible_Data_Analysis_Workflow_with_R_Markdown_Git_Make_and_Docker)|
 |DEIA         |Diversity Equity Inclusion and Accessibility                                          |[Wikipedia](https://www.nifa.usda.gov/diversity-equity-inclusion-accessibility-deia)|               |
+|DELTA        |DEscription Language for TAxonomy                                                     |           |[Reference](https://www.delta-intkey.com/)|
 |DEMNA        |Département de l’Etude du milieu naturel et agricole                                  |[Wikipedia](https://www.wikidata.org/wiki/Q108059898)|[Reference](http://environnement.wallonie.be/administration/demna.htm)|
 |DH           |Digital Humanities                                                                    |[Wikipedia](https://en.wikipedia.org/wiki/Digital_humanities)|               |
 |DHS          |Digital Herbarium Specimens                                                           |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_herbarium)|               |
@@ -90,6 +91,7 @@
 |DOI          |Digital Object Identifier                                                             |[Wikipedia](https://en.wikipedia.org/wiki/Digital_object_identifier)|[Reference](https://doi.org)|
 |DOIP         |Digital Object Interface Protocol                                                     |           |[Reference](https://www.dona.net/sites/default/files/2018-11/DOIPv2Spec_1.pdf)|
 |DOV          |Databank Ondergrond Vlaanderen                                                        |           |[Reference](https://www.dov.vlaanderen.be/)|
+|DPIA         |Data Protection Impact Assessment                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Privacy_Impact_Assessment#Europe)|[Reference](https://gdpr.eu/data-protection-impact-assessment-template/)|
 |DPLA         |Digital Public Library of America                                                     |[Wikipedia](https://en.wikipedia.org/wiki/Digital_Public_Library_of_America)|[Reference](https://dp.la/)|
 |DPO          |Data Protection Officer                                                               |[Wikipedia](https://en.wikipedia.org/wiki/Data_Protection_Officer)|[Reference](https://edps.europa.eu/data-protection/data-protection/reference-library/data-protection-officer-dpo_en)|
 |DPSIR        |Drivers, Pressures, State, Impact, and Response model of intervention                 |[Wikipedia](https://en.wikipedia.org/wiki/DPSIR)|[Reference](https://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/category/details/en/c/1026561/)|
@@ -271,6 +273,7 @@
 |PC           |Programme Coordinator                                                                 |           |[Reference](https://uk.indeed.com/career-advice/finding-a-job/program-coordinator)|
 |PCA          |Principal Component Analysis                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)|[Reference](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)|
 |PEP          |PErsoneelsPlan                                                                        |           |[Reference](https://www.vlaanderen.be/informatie-voor-hr-professionals/in-en-doorstroom/personeelsplannen)|
+|PIA          |Privacy Impact Assesment                                                              |[Wikipedia](https://en.wikipedia.org/wiki/Privacy_Impact_Assessment)|[Reference](https://gdpr-info.eu/issues/privacy-impact-assessment/)|
 |PIAK         |Project Intentie Afwegings Kader                                                      |           |               |
 |PID          |Persistent Identifier                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Persistent_identifier)|               |
 |PIF          |Project Informatie Fiche                                                              |           |[Reference](https://overheid.vlaanderen.be/goede-praktijken/projectmatig-werken-aan-de-hand-van-een-projectfiche)|
@@ -313,6 +316,7 @@
 |SAP          |System Analysis Program                                                               |[Wikipedia](https://en.wikipedia.org/wiki/SAP)|[Reference](https://www.sap.com/about/company/what-is-sap.html)|
 |SBP          |Soorten Beschermings Programma                                                        |           |[Reference](https://natuurenbos.vlaanderen.be/dieren-en-planten/soortenbescherming/soortenbeschermingsprogrammas-sbps)|
 |SBP          |Soorts Beschermings Programma                                                         |           |[Reference](https://natuurenbos.vlaanderen.be/dieren-en-planten/soortenbescherming/soortenbeschermingsprogrammas-sbps)|
+|SDD          |TDWG Structured Descriptive Dataformat                                                |           |[Reference](https://sdd.tdwg.org/)|
 |SDG          |Sustainable Development Goal                                                          |[Wikipedia](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)|[Reference](https://sdgs.un.org/goals)|
 |SDR          |Specimen Data Refinery                                                                |           |[Reference](https://doi.org/10.3897/biss.3.37647)|
 |SIMD         |Single instruction multiple data                                                      |[Wikipedia](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data)|[Reference](https://www.sciencedirect.com/topics/computer-science/single-instruction-multiple-data)|
