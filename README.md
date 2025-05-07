@@ -292,6 +292,7 @@
 |RA           |Registration Authority                                                                |[Wikipedia](https://www.doi.org/registration_agencies.html)|[Reference](https://en.wikipedia.org/wiki/Registration_authority)|
 |RAG          |Retrieval Augmented Generation                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)|[Reference](https://www.freecodecamp.org/news/retrieval-augmented-generation-rag-handbook/)|
 |RARs         |Relational association rules                                                          |           |[Reference](https://doi.org/10.1016/j.eswa.2019.01.082)|
+|RBC          |Region of Brussels-Capital                                                            |[Wikipedia](https://www.belgium.be/en/about_belgium/government/regions/brussels_capital_region)|[Reference](https://en.wikipedia.org/wiki/Brussels)|
 |RDA          |Resource Description and Access                                                       |[Wikipedia](https://en.wikipedia.org/wiki/Resource_Description_and_Access)|               |
 |RDD          |Resilient Distributed Datasets                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)|[Reference](https://www.tutorialspoint.com/apache_spark/apache_spark_rdd.htm)|
 |RDF          |Resource Description Framework                                                        |[Wikipedia](https://en.wikipedia.org/wiki/Resource_Description_Framework)|               |
