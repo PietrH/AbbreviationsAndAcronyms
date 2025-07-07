@@ -267,6 +267,7 @@
 |OWL          |Web Ontology Language                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Web_Ontology_Language)|               |
 |OWM          |Onbezoldigd Wetenschappelijk Medewerker                                               |[Wikipedia](https://www.cbs.nl/nl-nl/onze-diensten/methoden/begrippen/onbezoldigd-personeel)|               |
 |OZ           |Onderzoeker                                                                           |           |               |
+|OZM          |Onderzoeksmanager                                                                     |           |               |
 |OpenDS       |Open Digital Specimen                                                                 |           |[Reference](https://www.researchgate.net/publication/333854988_'openDS'_-_A_New_Standard_for_Digital_Specimens_and_Other_Natural_Science_Digital_Object_Types)|
 |PAM          |Passive Acoustic Monitoring                                                           |[Wikipedia](https://en.wikipedia.org/wiki/Passive_acoustics)|[Reference](https://acousticmarinesystems.com/)|
 |PBD          |Primary Biodiversity Data                                                             |[Wikipedia](https://serval.unil.ch/resource/serval:BIB_768D188CEA5B.P001/REF.pdf)|[Reference](https://en.wikipedia.org/wiki/Biodiversity_informatics)|
@@ -364,6 +365,7 @@
 |VIAF         |Virtual International Authority File                                                  |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_International_Authority_File)|[Reference](https://viaf.org/)|
 |VPC          |Virtual Private Cloud                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_cloud)|[Reference](https://aws.amazon.com/vpc/)|
 |VPS          |Virtual Private Server                                                                |[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_server)|[Reference](https://www.ibm.com/cloud/learn/vps)|
+|VPS          |Vlaams personeelsstatuut                                                              |[Wikipedia](https://www.vlaanderen.be/vlaams-personeelsstatuut)|               |
 |VVGN         |Vlaamse Vereniging Gelijkberechting Natuurbeheer                                      |           |[Reference](https://www.vvgn.be/)|
 |VWI          |Vlaamse Wetenschappelijke Instellingen                                                |           |[Reference](https://www.ewi-vlaanderen.be/nieuws/decreetswijziging-organisatie-en-financiering-van-het-wetenschaps-en-innovatiebeleid)|
 |WAYF         |Where Are You From                                                                    |           |[Reference](https://docs.hpc.ugent.be/Windows/account/)|
