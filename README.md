@@ -145,6 +145,7 @@
 |FdAC         |Flore d'Afrique Centrale                                                              |           |[Reference](http://floreafriquecentrale.org/)|
 |GA           |Grant Agreement                                                                       |           |               |
 |GAM          |Generalized additive model                                                            |[Wikipedia](https://en.wikipedia.org/wiki/Generalized_additive_model)|[Reference](https://towardsdatascience.com/generalised-additive-models-6dfbedf1350a)|
+|GBF          |Global Biodiversity Framework                                                         |[Wikipedia](https://en.wikipedia.org/wiki/Kunming-Montreal_Global_Biodiversity_Framework)|[Reference](https://www.unep.org/resources/kunming-montreal-global-biodiversity-framework)|
 |GBS          |Genotyping by Sequencing                                                              |[Wikipedia](https://en.wikipedia.org/wiki/Genotyping_by_sequencing)|               |
 |GCP          |Google Cloud Platform                                                                 |[Wikipedia](https://en.wikipedia.org/wiki/Google_Cloud_Platform)|[Reference](https://cloud.google.com/)|
 |GDM          |Generalized Dissimilarity Modeling                                                    |           |[Reference](https://www.onlinelibrary.wiley.com/doi/10.1111/j.1472-4642.2007.00341.x)|
